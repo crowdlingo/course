@@ -61,6 +61,7 @@
 }
 
 .debug {
+  visibility: hidden;
   position: absolute;
   bottom: 5px;
   left: 10px;

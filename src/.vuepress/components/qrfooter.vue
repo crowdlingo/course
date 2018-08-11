@@ -1,9 +1,9 @@
 <template>
   <div class='cta-panel'>
-    <div class='cta-line'>
-      Try AI老师 English Speaking Course and game here!
-    </div>
     <img class='qr-image' src='../../assets/qrcodes/tutor-mp.jpg' ></img>
+    <div class='cta-line'>
+      Visit AI老师 English Course!
+    </div>
   </div>
 </template>
 
@@ -12,11 +12,11 @@
 .footer-pad {
   position: relative;
   height: 150px;
-  border-top: 1px solid blue;
+  /* border-top: 1px solid blue; */
 }
 
 .cta-panel {
-  background-color: lightcoral;
+  background-color: #42B983;
   color: white;
   border-radius: 10px;
   padding: 10px;
@@ -30,7 +30,7 @@
   height: 150px;
   /* background: black; */
   color: white;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 
   /* left: -50px; */
   /* background: purple; */

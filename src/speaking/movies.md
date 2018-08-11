@@ -15,8 +15,6 @@ vocab:
   - a sequel / 续集
   - a trilogy / 三部曲
 ---
-# Movies
-
 <banner imgPath='../images/movies.jpg'></banner>
 
 Do you like movies?
@@ -64,7 +62,5 @@ I [prefer](../grammar/prefer.md) horror movies
 ![movies1](../assets/movies/cover.jpg)
 
 [See here for some sample answers](movies-answers.md)
-
-## Lesson
 
 <qrfooter></qrfooter>

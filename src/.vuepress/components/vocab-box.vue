@@ -38,8 +38,8 @@ export default {
 .vocab-box {
   margin-top: 10px;
   position: relative;
-  background: greenyellow;
-  padding: 20px;
+  background: #FFFBC9;
+  padding: 10px;
   border-radius: 15px;
   color: black;
 }
@@ -47,6 +47,7 @@ export default {
 .header-box {
   width: 70%;
   height: 100px;
+  padding-left: 10px;
 }
 
 .header-slug {
@@ -59,7 +60,7 @@ export default {
 
 .row {
   padding: 10px;
-  border-bottom: 1px solid #444;
+  border-top: 1px solid #ccc;
 }
 
 .en {
