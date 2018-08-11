@@ -4,11 +4,12 @@
 set -e
 
 # build
-yarn docs:build
+# yarn docs:build
+rm -rf docs
+vuepress build src --dest docs
 
 # navigate into the build output directory
-rm -rf docs
-mv src/.vuepress/dist docs
+# mv src/.vuepress/dist docs
 
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
