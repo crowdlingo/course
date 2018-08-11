@@ -52,6 +52,14 @@ module.exports = {
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
     repoLabel: 'Contribute!',
 
+    configureWebpack: {
+      resolve: {
+        alias: {
+          '@assets': './assets/'
+        }
+      }
+    },
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Speaking', link: '/speaking/' },

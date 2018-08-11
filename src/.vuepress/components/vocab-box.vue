@@ -1,9 +1,6 @@
 <template>
 <div class='vocab-box'>
   <div class='header-box'>
-    <div class='header-slug'>
-      Vocabulary for
-    </div>
     <div class='header-topic'>
       {{$page.title}}
     </div>
@@ -39,12 +36,12 @@ export default {
 <style scoped>
 
 .vocab-box {
+  margin-top: 10px;
   position: relative;
-  background: black;
-  color: white;
-  min-height: 300px;
+  background: greenyellow;
   padding: 20px;
   border-radius: 15px;
+  color: black;
 }
 
 .header-box {
@@ -68,16 +65,17 @@ export default {
 .en {
   width: 50%;
   display: inline-block;
-  color: white;
-  font-size: 24px;
+  color: black;
+  font-size: 18px;
   text-align: right;
   margin-right: 10px;
+  display: inline-block;
 }
 
 .zh {
-  color: #AAA;
+  color: #622;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 

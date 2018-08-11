@@ -17,6 +17,9 @@ vocab:
 ---
 <banner></banner>
 
+![movies1](../assets/movies/cover.jpg)
+
+
 Do you like movies?
 Which genre do you like the most?
 
@@ -47,7 +50,9 @@ Describe a film that you have recently seen. You should say:
 
 ## Grammar
 
+:::tip
 I [prefer](../grammar/prefer.md) horror movies
+:::
 
 ## Questions
 
@@ -62,6 +67,10 @@ I [prefer](../grammar/prefer.md) horror movies
 
 ## Answers
 
+![movies1](/images/movies.jpg)
+
 [See here for some sample answers](movies-answers.md)
+
+## Lesson
 
 <qrfooter></qrfooter>

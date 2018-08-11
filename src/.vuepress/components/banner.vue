@@ -1,14 +1,22 @@
 <template>
-  <div class='banner'>
+  <div class='banner'
+    :style="{ 'background-image': bgImageUrl }"
+  >
     <div class='text-box'>
       <div class='title'>
-      {{$page.frontmatter.title}}
+        {{$page.frontmatter.title}}
       </div>
       <div class='description'>
         {{$page.frontmatter.description}}
       </div>
     </div>
     <qrstamp></qrstamp>
+
+    <img :src='bgImageUrl' />
+
+    <div class='debug'>
+      {{bgImageUrl}}
+    </div>
   </div>
 </template>
 
@@ -16,9 +24,6 @@
 
 .banner {
   position: relative;
-  /* top: -50px;
-  left: -50px; */
-  /* width: 120vw; */
   background: purple;
   color: white;
   height: 300px;
@@ -29,8 +34,6 @@
   position: relative;
   top: 100px;
   padding: 10px;
-  /* left: 10%;
-  width: 80%; */
 }
 
 .title {
@@ -42,14 +45,28 @@
 
 .description {
   position: relative;
-  left: 20px;
   width: 100%;
   font-size: 24px;
   font-weight: normal;
 }
 
+.debug {
+  position: absolute;
+  bottom: 5px;
+}
+
 </style>
 
 <script>
-
+export default {
+  computed: {
+    bgImageUrl() {
+      let cname = this.$page.frontmatter.cname
+      let url = `../assets/${cname}/cover.jpg`
+      console.log('cname', cname)
+      console.log('url', url)
+      return url
+    }
+  }
+}
 </script>

@@ -2,8 +2,8 @@
 home: true
 # heroImage: ./hero.png
 
-actionText: Contribute →
-actionLink: /guide/
+actionText: Start Speaking →
+actionLink: /speaking/
 features:
   - title: Speaking
     details: Topics to talk about

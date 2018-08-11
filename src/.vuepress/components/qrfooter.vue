@@ -1,6 +1,9 @@
 <template>
-  <div>
-    <img class='qr-image' src='../../images/qrcodes/tutor-mp-bow.jpg'></img>
+  <div class='cta-panel'>
+    <div class='cta-line'>
+      Try AI老师 English Speaking Course and game here!
+    </div>
+    <img class='qr-image' src='../../assets/qrcodes/tutor-mp.jpg' />
   </div>
 </template>
 
@@ -10,6 +13,13 @@
   position: relative;
   height: 150px;
   border-top: 1px solid blue;
+}
+
+.cta-panel {
+  background-color: lightcoral;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
 }
 
 .qr-footer {
@@ -33,7 +43,13 @@
   right: 20px;
   bottom: 20px;
   width: 100%;
+  border-radius: 10px;
   /* height: 150px; */
+}
+
+.cta-line {
+  font-size: 24px;
+  text-align: center;
 }
 
 </style>

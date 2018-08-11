@@ -1,6 +1,7 @@
 ---
 title: Favorite Movies
 description: Sample answers
+cname: movies
 ---
 <banner></banner>
 
