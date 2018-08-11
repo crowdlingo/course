@@ -12,10 +12,11 @@
     </div>
     <qrstamp></qrstamp>
 
-    <img :src='bgImageUrl' />
+    <img :src='imgPath' />
 
     <div class='debug'>
       {{bgImageUrl}}
+      | imgPath {{imgPath}} =
     </div>
   </div>
 </template>
@@ -53,16 +54,20 @@
 .debug {
   position: absolute;
   bottom: 5px;
+  left: 10px;
+  font-size: 12px;
 }
 
 </style>
 
 <script>
 export default {
+  props: ['imgPath'],
+
   computed: {
     bgImageUrl() {
       let cname = this.$page.frontmatter.cname
-      let url = `../assets/${cname}/cover.jpg`
+      let url = `../../assets/${cname}/cover.jpg`
       console.log('cname', cname)
       console.log('url', url)
       return url

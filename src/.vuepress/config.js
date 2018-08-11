@@ -6,7 +6,7 @@ module.exports = {
   themeConfig: {
     // displayAllHeaders: true,
     // lastUpdated: 'Last Updated',
-
+    evergreen: true,
     // sidebar: 'auto',
     sidebar: {
       '/speaking/': [

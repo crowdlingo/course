@@ -15,9 +15,7 @@ vocab:
   - a sequel / 续集
   - a trilogy / 三部曲
 ---
-<banner></banner>
-
-![movies1](../assets/movies/cover.jpg)
+<banner imgPath='/images/movies.jpg'></banner>
 
 
 Do you like movies?
@@ -42,11 +40,6 @@ Describe a film that you have recently seen. You should say:
 = to see a film that has just come out
 :::
 
-:::tip
-**The central character**
-
-- the main person in a film or book
-:::
 
 ## Grammar
 
@@ -67,7 +60,7 @@ I [prefer](../grammar/prefer.md) horror movies
 
 ## Answers
 
-![movies1](/images/movies.jpg)
+![movies1](../assets/movies/cover.jpg)
 
 [See here for some sample answers](movies-answers.md)
 
