@@ -17,7 +17,8 @@ vocab:
 ---
 <banner></banner>
 
-Do you like movies? What kind of genre do you like?
+Do you like movies?
+Which genre do you like the most?
 
 ## Hints
 Describe a film that you have recently seen. You should say:
@@ -26,13 +27,23 @@ Describe a film that you have recently seen. You should say:
 - what the film was about
 - explain how you felt about this film.
 
+## Vocabulary
+
 <vocab-box></vocab-box>
 
 ## Idioms
-  - Catch the latest movie
-    - to see a film that has just come out
-  - the central character
-    - the main person in a film or book
+
+:::tip
+**Catch the latest movie**
+
+= to see a film that has just come out
+:::
+
+:::tip
+**The central character**
+
+- the main person in a film or book
+:::
 
 ## Grammar
 
@@ -53,3 +64,4 @@ I [prefer](../grammar/prefer.md) horror movies
 
 [See here for some sample answers](movies-answers.md)
 
+<qrcode></qrcode>

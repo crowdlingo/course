@@ -9,7 +9,7 @@ const pages = [
 ]
 
 const sections = [
-  'vocab', 'grammar', 'questions', 'answers'
+  '', 'vocabulary', 'grammar', 'questions', 'answers'
 ]
 
 async function main() {

@@ -13,9 +13,9 @@
 
 .banner {
   position: relative;
-  top: -50px;
-  left: -50px;
-  width: 120vw;
+  /* top: -50px;
+  left: -50px; */
+  /* width: 120vw; */
   background: purple;
   color: white;
   height: 300px;

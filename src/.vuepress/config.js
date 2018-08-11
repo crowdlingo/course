@@ -22,7 +22,6 @@ module.exports = {
       // ]
     },
 
-
     // sidebar: [
     //   {
     //     title: 'Site',

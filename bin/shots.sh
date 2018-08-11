@@ -7,5 +7,6 @@
 # webkit2png /path/to/file.html            # screengrab local html file
 # webkit2png -h | less                     # full documentation
 
-set -x
-webkit2png -W 500 -H 1000 -o shots https://crowdlingo.github.io/course/speaking/movies.html
+# set -x
+# webkit2png -W 500 -H 1000 -o shots https://crowdlingo.github.io/course/speaking/movies.html
+

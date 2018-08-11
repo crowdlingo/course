@@ -1,8 +1,5 @@
 <template>
 <div>
-  <h2>
-    Vocabulary
-  </h2>
   <div class='word' v-for="word in vocab">
     <span class='cell'>
       {{word[0]}}
