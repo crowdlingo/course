@@ -5,7 +5,7 @@ module.exports = {
 
   themeConfig: {
     // displayAllHeaders: true,
-    lastUpdated: 'Last Updated',
+    // lastUpdated: 'Last Updated',
 
     // sidebar: 'auto',
     sidebar: {

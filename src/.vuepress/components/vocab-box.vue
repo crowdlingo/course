@@ -1,7 +1,7 @@
 <template>
 <div>
   <h2>
-    Vocab
+    Vocabulary
   </h2>
   <div class='word' v-for="word in vocab">
     <span class='cell'>
@@ -23,7 +23,7 @@ export default {
         let [en, cn] = line.split('/')
         return [en, cn]
       })
-      console.log('vocab', words)
+      // console.log('vocab', words)
       return words
     }
   }
