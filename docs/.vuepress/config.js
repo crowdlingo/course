@@ -1,6 +1,8 @@
 module.exports = {
   title: 'CrowdLingo',
   description: 'speak with your friends',
+  base: "https://crowdlingo.github.io/course/",
+  
   themeConfig: {
     // displayAllHeaders: true,
     lastUpdated: 'Last Updated',
