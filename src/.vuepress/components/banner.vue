@@ -1,8 +1,9 @@
 <template>
-  <div class='banner'
-    :style="{ 'background-image': imgPath }"
-  >
+  <div class='banner'>
+    <img class='banner-bg-image' :src='imgPath'></img>
+    <qrstamp></qrstamp>
     <div class='text-box'>
+
       <div class='title'>
         {{$page.frontmatter.title}}
       </div>
@@ -10,14 +11,7 @@
         {{$page.frontmatter.description}}
       </div>
     </div>
-    <qrstamp></qrstamp>
 
-    <img :src='imgPath' />
-
-    <div class='debug'>
-      {{bgImageUrl}}
-      | imgPath {{imgPath}} =
-    </div>
   </div>
 </template>
 
@@ -31,10 +25,19 @@
   border-radius: 15px;
 }
 
+.banner-bg-image {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 15px;
+  height: 300px;
+}
+
 .text-box {
   position: relative;
-  top: 100px;
+  top: 110px;
   padding: 10px;
+  background: rgba(0, 0, 0, 0.5);
 }
 
 .title {
@@ -74,4 +77,8 @@ export default {
     }
   }
 }
+
+//     :style="{ 'background-image': imgPath }"
+
+
 </script>
