@@ -62,7 +62,7 @@ How to describe
 
 
 
-## Vocab
+## Vocabulary
 
 <vocab-box></vocab-box>
 
@@ -82,6 +82,7 @@ How to describe
   - Some people do not have any leisure activity. Why is that the case?
 
 ## Answers
+<qrfooter></qrfooter>
 
 ### sport
 

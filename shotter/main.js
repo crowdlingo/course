@@ -5,14 +5,14 @@ let log = console.log
 
 const pages = [
   'movies',
-  // 'free-time'
+  'free-time'
 ]
 
 const sections = [
-  ['intro', 2500],
+  ['full', 2500],
   ['vocabulary', 1000],
   ['questions', 1000],
-  ['answers', 500]
+  ['answers', 800]
 ]
 
 async function main() {
@@ -28,7 +28,7 @@ async function main() {
         height: height
       }
 
-      if (name === 'intro') {
+      if (name === 'full') {
         opts.height = 2500
         opts.fullPage = true
       }
