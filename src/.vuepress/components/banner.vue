@@ -11,7 +11,9 @@
         {{$page.frontmatter.description}}
       </div>
     </div>
-
+    <div class='debug'>
+      {{bgImageUrl}}
+    </div>
   </div>
 </template>
 
@@ -34,10 +36,12 @@
 }
 
 .text-box {
-  position: relative;
-  top: 110px;
-  padding: 10px;
-  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  bottom: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: rgba(0, 0, 0, 0.75);
+  /* border-radius: 15px; */
 }
 
 .title {
@@ -45,6 +49,7 @@
   font-weight: bold;
   width: 100%;
   border-bottom: 1px solid white;
+  line-height: 120%;
 }
 
 .description {
@@ -52,6 +57,7 @@
   width: 100%;
   font-size: 24px;
   font-weight: normal;
+  line-height: 120%;
 }
 
 .debug {
@@ -59,6 +65,7 @@
   bottom: 5px;
   left: 10px;
   font-size: 12px;
+  background: black;
 }
 
 </style>
@@ -71,6 +78,7 @@ export default {
     bgImageUrl() {
       let cname = this.$page.frontmatter.cname
       let url = `../../assets/${cname}/cover.jpg`
+      // require(url)
       console.log('cname', cname)
       console.log('url', url)
       return url
