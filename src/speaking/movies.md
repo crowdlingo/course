@@ -17,8 +17,8 @@ vocab:
 ---
 # Movies
 
-<banner imgPath='../../images/movies.jpg'></banner>
-
+<banner imgPath='../images/movies.jpg'></banner>
+try2
 
 Do you like movies?
 Which genre do you like the most?
