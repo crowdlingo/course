@@ -75,16 +75,18 @@
 export default {
   props: ['imgPath'],
 
-  computed: {
-    bgImageUrl() {
-      let cname = this.$page.frontmatter.cname
-      let url = `../../assets/${cname}/cover.jpg`
-      // require(url)
-      console.log('cname', cname)
-      console.log('url', url)
-      return url
-    }
-  }
+  //// cannot use since even require(path.png) doesnt work
+  // computed: {
+  //   bgImageUrl() {
+  //     let cname = this.$page.frontmatter.cname
+  //     let url = `../../assets/${cname}/cover.jpg`
+  //     // require(url)
+  //     console.log('cname', cname)
+  //     console.log('url', url)
+  //     return url
+  //   }
+  // }
+
 }
 
 //     :style="{ 'background-image': imgPath }"
