@@ -2,15 +2,15 @@ module.exports = {
   title: 'CrowdLingo',
   description: 'speak with your friends',
   base: "/course/",
-  
+
   themeConfig: {
     // displayAllHeaders: true,
     lastUpdated: 'Last Updated',
-    
+
     // sidebar: 'auto',
     sidebar: {
       '/speaking/': [
-        ['movies', "movies"],
+        'movies',
         'free-time'
       ],
 
@@ -19,7 +19,7 @@ module.exports = {
       //   '',        /* / */
       //   'contact', /* /contact.html */
       //   'about'    /* /about.html */
-      // ]      
+      // ]
     },
 
 
@@ -34,11 +34,11 @@ module.exports = {
     //   },
     //   {
     //     title: 'Speaking',
-    //     children: [ 
+    //     children: [
     //       '/movies',
-    //       ['/free-time', 'Free time'],    
+    //       ['/free-time', 'Free time'],
     //      ]
-    //   }      
+    //   }
     // ]
 
     serviceWorker: {

@@ -6,7 +6,7 @@ actionText: Contribute →
 actionLink: /guide/
 features:
   - title: Speaking
-    details: Topics to chat about
+    details: Topics to talk about
   - title: Grammar
     details: Lots of grammar items
   - title: Open Source
@@ -20,7 +20,7 @@ meta:
     content: IELTS, english language, english study
 ---
 
-CrowdSourced English Language Course :tada: 
+CrowdSourced English Language Course :tada:
 
 ## Speaking section
 Topics to improve your spoken english :100:
