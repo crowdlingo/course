@@ -19,9 +19,9 @@ This is a tip!
 
 ## Badges
 We have badges!
-<Badge text="tip" type="tip" vertical="middle"/>
-<Badge text="warning" type="warn" vertical="middle"/>
-<Badge text="error" type="error" vertical="middle"/>
+<Badge text="tip" type="tip" vertical="middle"></Badge>
+<Badge text="warning" type="warn" vertical="middle"></Badge>
+<Badge text="error" type="error" vertical="middle"></Badge>
 
 cname: {{ $page.frontmatter.cname }}
 
@@ -41,7 +41,6 @@ Vocab metadata
 
 ## Custom components
 
-<toc-box section="speaking">
-</toc-box>
+<toc-box section="speaking"></toc-box>
 
 <vocab-box></vocab-box>

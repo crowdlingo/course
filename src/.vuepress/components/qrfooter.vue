@@ -3,7 +3,7 @@
     <div class='cta-line'>
       Try AI老师 English Speaking Course and game here!
     </div>
-    <img class='qr-image' src='../../assets/qrcodes/tutor-mp.jpg' />
+    <img class='qr-image' src='../../assets/qrcodes/tutor-mp.jpg' ></img>
   </div>
 </template>
 

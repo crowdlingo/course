@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img class='qr-image' src='../../assets/qrcodes/tutor-mp.jpg'/>
+    <img class='qr-image' src='../../assets/qrcodes/tutor-mp.jpg'></img>
   </div>
 </template>
 

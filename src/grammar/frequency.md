@@ -12,7 +12,7 @@ vocab:
 
 In order of least often to most often
 
-<vocab-box/>
+<vocab-box></vocab-box>
 
 
 
