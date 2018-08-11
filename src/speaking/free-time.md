@@ -10,7 +10,7 @@ vocab:
   - chatting with friends / 和朋友聊天
 ---
 
-<banner></banner>
+<banner imgPath='../images/free-time.jpg'></banner>
 
 ## Hints
 
