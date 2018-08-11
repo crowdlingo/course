@@ -5,7 +5,7 @@ set -e
 
 # build
 # yarn docs:build
-rm -rf dist
+# rm -rf dist
 
 yarn docs:build
 

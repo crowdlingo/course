@@ -1,7 +1,7 @@
 {
   "scripts": {
     "docs:dev": "vuepress dev src",
-    "docs:build": "vuepress build src --dest dist"
+    "docs:build": "vuepress build src --dest docs"
   },
   "devDependencies": {
     "vuepress": "^0.14.1"
