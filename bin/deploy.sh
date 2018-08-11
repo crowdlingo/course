@@ -5,8 +5,8 @@ set -e
 
 # build
 # yarn docs:build
-rm -rf docs
-vuepress build src --dest docs
+rm -rf dist
+vuepress build src --dest dist
 
 # navigate into the build output directory
 # mv src/.vuepress/dist docs
