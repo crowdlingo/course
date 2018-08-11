@@ -1,6 +1,6 @@
 <template>
   <div class='banner'
-    :style="{ 'background-image': bgImageUrl }"
+    :style="{ 'background-image': imgPath }"
   >
     <div class='text-box'>
       <div class='title'>
