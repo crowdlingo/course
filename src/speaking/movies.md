@@ -15,7 +15,7 @@ vocab:
   - a sequel / 续集
   - a trilogy / 三部曲
 ---
-<banner imgPath='/images/movies.jpg'></banner>
+<banner imgPath='../../images/movies.jpg'></banner>
 
 
 Do you like movies?
