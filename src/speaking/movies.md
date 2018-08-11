@@ -3,17 +3,17 @@ title: Favorite Movies
 description: What kind of movies do you like?
 cname: movies
 vocab:
-  - genre / jakshdf
-  - horror / dsdf
-  - action / dfd
-  - a box office hit
-  - the setting
-  - showings
-  - soundtrack
-  - special effects
-  - a blockbuster
-  - a sequel
-  - a trilogy
+  - genre / 类型
+  - horror / 恐怖
+  - action / 行动
+  - a box office hit / 打了一个票房
+  - the setting / 那个设定
+  - showings / 看房
+  - soundtrack / 声带
+  - special effects / 特殊效果
+  - a blockbuster / 一鸣惊人
+  - a sequel / 续集
+  - a trilogy / 三部曲
 ---
 <banner></banner>
 
@@ -22,10 +22,10 @@ Which genre do you like the most?
 
 ## Hints
 Describe a film that you have recently seen. You should say:
-- what the film was
-- when and where you saw it
-- what the film was about
-- explain how you felt about this film.
+- What the film was
+- When and where you saw it
+- What the film was about
+- Explain how you felt about this film.
 
 ## Vocabulary
 
@@ -64,4 +64,4 @@ I [prefer](../grammar/prefer.md) horror movies
 
 [See here for some sample answers](movies-answers.md)
 
-<qrcode></qrcode>
+<qrfooter></qrfooter>

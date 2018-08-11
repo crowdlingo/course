@@ -5,31 +5,49 @@ let log = console.log
 
 const pages = [
   'movies',
-  'free-time'
+  // 'free-time'
 ]
 
 const sections = [
-  '', 'vocabulary', 'grammar', 'questions', 'answers'
+  ['intro', 2500],
+  ['vocabulary', 1000],
+  ['questions', 1000],
+  ['answers', 500]
 ]
 
 async function main() {
   const browser = await puppeteer.launch();
   const browserPage = await browser.newPage();
-  browserPage.setViewport({
-    width: 400,
-    height: 400,
-    // isMobile: true
-  })
 
   for (let page of pages) {
     for (let section of sections) {
-      let url = `http://localhost:8080/course/speaking/${page}.html#${section}`
-      let shotPath = `../src/speaking/images/${page}/${section}.png`
+      let [name, height] = section
+
+      let opts = {
+        width: 375,
+        height: height
+      }
+
+      if (name === 'intro') {
+        opts.height = 2500
+        opts.fullPage = true
+      }
+      // let height = (section == 'intro') ? 5000 : 1000
+      await browserPage.setViewport(opts)
+
+      let url = `http://localhost:8080/course/speaking/${page}.html#${name}`
+      let shotPath = `../src/speaking/shots/${page}-${name}.jpg`
       log(page, url, shotPath)
-      await browserPage.goto(url);
-      await browserPage.screenshot({path: shotPath});
+      await browserPage.goto(url, {waitUntil: "load"})
+      await browserPage.screenshot({
+        path: shotPath,
+        // type: '.jpg',
+        fullPage: opts.fullPage,
+      })
     }
   }
+
+
   await browser.close();
 }
 

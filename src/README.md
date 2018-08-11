@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+# heroImage: ./hero.png
 
 actionText: Contribute →
 actionLink: /guide/
