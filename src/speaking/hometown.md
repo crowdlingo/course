@@ -1,0 +1,50 @@
+---
+cname: hometown
+title: Hometown
+description: 
+cover: false
+
+vocab:
+---
+<banner></banner>
+
+## Questions
+
+- What&#39;s (the name of) your hometown (again)?
+- Is that a big city or a small town?
+- Please describe your hometown a little.
+- How long have you been living there?
+- What do you like (most) about your hometown?
+- Do you like your hometown?
+- Do you like living there?
+- Is there anything you dislike about it?
+- Do you think you will continue living there for a long time?
+
+## Vocabulary
+
+<vocab-box></vocab-box>
+
+## Answers
+
+- What&#39;s (the name of) your hometown (again)?
+  - Well, my hometown is the city of Nanjing, which is a big modern city with an ancient history -its a pretty nice place to live. The weather there is quite pleasant all year round, in winter the temperatures are quite mild but in summer it can be hot and humid
+- Is that a big city or a small town?
+  - Although Nanjing has been developing quite a lot recently, and expanding every year, it is still a traditional Chinese City with a long history of which it is rightly proud.
+- Please describe your hometown a little.
+  - I think that as a tourist destination, it should preserve its own characteristics to attract the tourists. In addition, the food here is excellent. You can taste a lot of local snacks that cannot be tasted elsewhere. In sum, I believe my hometown is definitely worth a visit.
+- How long have you been living there?
+  - I was born and raised there so I have lived there for about 19 years.
+- What do you like (most) about your hometown?
+  - Well, my hometown, Nanjing has a big reputation because of its long history as a capital of China. Also for events such as the Nanjing massacre during the 1940’s.
+- Do you like your hometown?
+  - 
+- Do you like living there?
+  - 
+- Is there anything you dislike about it?
+  - 
+- Do you think you will continue living there for a long time?
+  - 
+
+## Practice
+
+<qrfooter></qrfooter>

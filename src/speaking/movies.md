@@ -15,17 +15,17 @@ vocab:
   - a sequel / 续集
   - a trilogy / 三部曲
 ---
-<banner imgPath='../images/movies.jpg'></banner>
+<banner></banner>
 
 Do you like movies?
 Which genre do you like the most?
 
-## Hints
+## Practice
 Describe a film that you have recently seen. You should say:
-- What the film was
-- When and where you saw it
-- What the film was about
-- Explain how you felt about this film.
+- *What* the film was
+- *When* and where you saw it
+- *What* the film was about
+- *How* you felt about this film.
 
 ## Vocabulary
 
@@ -46,7 +46,7 @@ Describe a film that you have recently seen. You should say:
 I [prefer](../grammar/prefer.md) horror movies
 :::
 
-## Questions
+## Discussion
 
 - Do you like to watch films?
 - How often do you go to a cinema or watch a movie?
@@ -58,8 +58,6 @@ I [prefer](../grammar/prefer.md) horror movies
 
 
 ## Answers
-
-![movies1](../assets/movies/cover.jpg)
 
 [See here for some sample answers](movies-answers.md)
 

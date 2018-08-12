@@ -1,0 +1,41 @@
+---
+cname: film
+title: Film
+description: 
+cover: false
+
+vocab:
+---
+<banner></banner>
+
+## Questions
+
+- Do you like to watch films?
+- Do you prefer foreign films or Chinese films?
+- How often do you go to a cinema or watch a movie?
+- Do Chinese people like to go to a cinema to watch a film?
+- What kinds of movies do you like best?
+- What was the first film that you watched?
+
+## Vocabulary
+
+<vocab-box></vocab-box>
+
+## Answers
+
+- Do you like to watch films?
+  - I&#39;m really into watching films because some films are very entertaining and provoking. I sometimes go to cinema with my friends and family to enjoy our leisure time in the weekends.
+- Do you prefer foreign films or Chinese films?
+  - Well, if I had to choose between the two, I would probably choose foreign films, especially Hollywood films because most of them are well-acted, with lots of charismatic celebrities and are often enormous box-office hits; whereas you know, Chinese films are usually low-budget, so they are not as attractive as their American counterparts.
+- How often do you go to a cinema or watch a movie?
+  - I go to cinema to watch movies from time to time. Normally if I’m not busy with my work, I’ll check out the movies to see whether there are any movies that attract me; but if I have lots of things on my hands, I&#39;ll probably focus on my work.
+- Do Chinese people like to go to a cinema to watch a film?
+  - It&#39;s kind of hard to say but people that I know tend to like watching movies in the cinema, but maybe for others, they just prefer to stay at home and watch TV programmes
+- What kinds of movies do you like best?
+  - As for me, I like drama films the best because sometimes they just tell simple but warm and heartfelt stories with provoking and often emotional endings which touch me a lot.
+- What was the first film that you watched?
+  - The first film that I watched was the Lion King many years ago in the cinema with my parents. What I can remember now is the terrific animation and the amazing soundtrack. I particularly liked the song Can You Feel the Love Tonight that I knew it was produced by Elton John. And I&#39;ve learned lessons from this movie. It is about living up to our responsibilities, no matter how hard it is.
+
+## Practice
+
+<qrfooter></qrfooter>

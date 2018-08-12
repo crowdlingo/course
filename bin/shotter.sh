@@ -2,9 +2,7 @@
 
 # make screenshots
 
-cd shotter
-
-node main.js
-
+cd tools
+node shotter.js
 cd -
 

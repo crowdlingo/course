@@ -13,8 +13,52 @@ let config = {
     sidebar: {
       '/speaking/': [
         'movies',
-        'free-time'
-      ],
+        'free-time',
+
+        "accomodation",
+        "being-alone",
+        "being-in-a-hurry",
+        "clothes",
+        "colours",
+        "countryside",
+        "film",
+        "friends",
+        "handwriting",
+        "hanging-out-with-friends",
+        "helping-people",
+        "history",
+        "holidays",
+        "hometown",
+        "leisure-time",
+        "letters-or-emails",
+        "maths",
+        "memorising",
+        "museum",
+        "music",
+        "name",
+        "newspapers",
+        "photography",
+        "punctuality",
+        "reading",
+        "sky",
+        "sleep",
+        "snacks",
+        "social-network",
+        "sports",
+        "study-and-work",
+        "swimming",
+        "teachers",
+        "teamwork",
+        "television",
+        "text-messages",
+        "transportation",
+        "travelling",
+        "tree",
+        "vegetables-and-fruits",
+        "weather",
+        "weekend"
+
+    ]
 
       // fallback
       // '/': [
@@ -57,7 +101,8 @@ let config = {
     configureWebpack: {
       resolve: {
         alias: {
-          '@assets': './assets/'
+          // '@assets': '/public/assets/'
+          '@assets': '/course/assets/'
         }
       }
     },

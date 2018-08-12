@@ -12,17 +12,25 @@ vocab:
 
 <banner imgPath='../images/free-time.jpg'></banner>
 
-## Hints
+What do you like to do in your free time?
+
+Are you a [homebody](/vocab/homebody.md), staying indoors chatting to friends?
+
+Or do you prefer to get out and see the world?
+
+## Practice
 
 ### What do you do?
 
-- go to the park
-- play sports
-- read a book
-- exercise
-- chat with friends
-- go shopping
-- photography
+- I like to go to the park
+  - 我喜欢去公园
+- I play sports with my friends
+  - 我和我的朋友们一起运动
+- I enjoy reading books
+  - 我喜欢看书
+- I try to do some exercise
+  - 我尝试做一些运动
+
 
 ### Who do you do it with?
 
@@ -66,7 +74,7 @@ How to describe
 
 <vocab-box></vocab-box>
 
-## Questions
+## Discussion
   - How long have you been interested in these activities?
   - Do you like to do theses activities alone or with family?
   - Do you think people have enough free time?
@@ -82,7 +90,13 @@ How to describe
   - Some people do not have any leisure activity. Why is that the case?
 
 ## Answers
+Here are some sample answers
+
 <qrfooter></qrfooter>
+
+:::tip
+Try to think of a reply that suits your own personality best!
+:::
 
 ### sport
 

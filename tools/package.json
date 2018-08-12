@@ -1,0 +1,11 @@
+{
+  "name": "shotter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.12.0",
+    "mustache": "^2.3.1",
+    "puppeteer": "^1.7.0"
+  }
+}

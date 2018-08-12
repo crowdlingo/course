@@ -1,17 +1,19 @@
 <template>
-  <div class='banner'>
-    <img class='banner-bg-image' :src='imgPath'></img>
-    <qrstamp></qrstamp>
-    <div class='text-box'>
-      <div class='title'>
-        {{$page.frontmatter.title}}
+  <div>
+    <a href='#topic'>
+      <h2>{{ $page.frontmatter.title }}</h2>
+    </a>
+    <div class='banner'>
+      <img v-if='$page.frontmatter.cover' class='banner-bg-image' :src='coverPath'></img>
+      <qrstamp></qrstamp>
+      <div class='text-box'>
+        <div class='title'>
+          {{$page.frontmatter.title}}
+        </div>
+        <div class='description'>
+          {{$page.frontmatter.description}}
+        </div>
       </div>
-      <div class='description'>
-        {{$page.frontmatter.description}}
-      </div>
-    </div>
-    <div class='debug'>
-      {{imgPath}}
     </div>
   </div>
 </template>
@@ -60,7 +62,7 @@
 }
 
 .debug {
-  /* visibility: hidden; */
+  visibility: hidden;
   position: absolute;
   bottom: 5px;
   left: 10px;
@@ -76,12 +78,16 @@ export default {
 
   data: function() {
     return {
-      appConfig: {}
+      appConfig: {},
+      coverPath: ''
     }
   },
 
   created: function() {
     this.appConfig = this.$site.themeConfig.appConfig
+    console.log("this page", this.$page)
+    this.coverPath = `../assets/speaking/${this.$page.frontmatter.cname}/cover.jpg`
+    console.log('set cover', this.coverPath)
   },
 
 }

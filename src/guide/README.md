@@ -39,8 +39,10 @@ Vocab metadata
 
 {{ $page.frontmatter.vocab }}
 
-## Custom components
+## Table of Contents for a section
 
 <toc-box section="speaking"></toc-box>
+
+
 
 <vocab-box></vocab-box>

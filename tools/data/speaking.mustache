@@ -1,0 +1,33 @@
+---
+cname: {{cname}}
+title: {{topic}}
+description: {{description}}
+cover: false
+
+vocab:
+{{#vocab}}
+  - {{.}}
+{{/vocab}}
+---
+<banner></banner>
+
+## Questions
+
+{{#pairs}}
+- {{q}}
+{{/pairs}}
+
+## Vocabulary
+
+<vocab-box></vocab-box>
+
+## Answers
+
+{{#pairs}}
+- {{q}}
+  - {{a}}
+{{/pairs}}
+
+## Practice
+
+<qrfooter></qrfooter>

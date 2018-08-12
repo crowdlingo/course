@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class='cta-panel' v-if='appConfig.footerQrVis'>
-      <img class='qr-image' src='../../assets/qrcodes/tutor-mp.jpg' ></img>
+      <img class='qr-image' :src='appConfig.footerQrPath'></img>
       <div class='cta-line'>
         Visit AI老师 English Course!
       </div>

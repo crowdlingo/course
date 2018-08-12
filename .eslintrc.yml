@@ -29,12 +29,6 @@ rules:
     - vars: local
       args: none
 globals:
-  Page: true
+  __dirname: true
   require: true
   module: true
-  wx: true
-  App: true
-  getApp: true
-  Component: true
-  Behavior: true
-  getCurrentPages: true

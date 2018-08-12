@@ -1,5 +1,5 @@
 <template>
-<div class='vocab-box'>
+<div class='vocab-box' v-if='vocab'>
   <div class='header-box'>
     <div class='header-topic'>
       {{$page.title}}
@@ -21,8 +21,9 @@
 export default {
   computed: {
     vocab() {
-      let v = this.$page.frontmatter.vocab
-      let words = v.map( line => {
+      let vocab = this.$page.frontmatter.vocab
+      if (!vocab) return
+      let words = vocab.map( line => {
         let [en, cn] = line.split('/')
         return [en, cn]
       })

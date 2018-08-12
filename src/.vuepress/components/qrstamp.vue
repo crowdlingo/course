@@ -1,6 +1,9 @@
 <template>
   <div v-if='appConfig.badgeQrVis'>
-    <img class='qr-image' src='../../assets/qrcodes/tutor-mp.jpg'></img>
+    <img
+      class='qr-image'
+      :src='appConfig.badgeQrPath'
+    ></img>
   </div>
 </template>
 
