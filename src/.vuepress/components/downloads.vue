@@ -33,11 +33,10 @@ export default {
       console.log("toc-box")
       const parts = [
         'topic',
-        'questions',
-        'answers',
-        'summary',
         'vocabulary',
-        'practice'
+        'answers',
+        'practice',
+        'summary'
       ]
       let cname = this.$page.frontmatter.cname
       let links = parts
