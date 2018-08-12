@@ -2,8 +2,18 @@ const yaml = require('js-yaml')
 const fs   = require('fs')
 const path = require('path')
 const Mustache = require('mustache')
+const log = console.log
+const YAMLPATH = './data/lessonDataInput.yaml'
 
-const YAMLPATH = './data/lessonData.yaml'
+const ConceptNet = require( 'concept-net' )
+let conceptNet = ConceptNet(null, null, '5.3')
+// let conceptNet = ConceptNet()
+
+
+// const natural = require('natural')
+
+const WordPOS = require('wordpos')
+const wordpos = new WordPOS()
 
 const Tools = {
 
@@ -88,12 +98,60 @@ const Tools = {
     fs.writeFileSync('./data/pagelist.json', JSON.stringify(pageList, null, 2))
   },
 
+  // async findVocab() {
+  //   let pages = Tools.readYaml()
+  //   let page = pages[1]
+  //   var wordnet = new natural.WordNet()
+  //   for (let pair of page.pairs) {
+  //     let words = pair.q.split(' ')
+  //     log(words)
+  //   }
+  // },
+
+  async checkWord(word) {
+    // wordpos.lookup(word, function(res) {
+    //   log('word', res)
+    // })
+    // wordpos.getAdjectives('The angry bear chased the frightened little squirrel.', function(result){
+    //   console.log(JSON.stringify(result))
+    // })
+
+    wordpos.lookup('accomodation', function(result){
+      // console.log(result)
+      console.log(JSON.stringify(result, null, 2))
+    })
+  },
+
+  async checkIdea(word) {
+
+    conceptNet.search({
+      start: '/c/en/donut'
+    }, function onDone( err, result ) {
+      log(err)
+      log(result)
+    })
+
+    let xpath = '/c/en/toast' // + word
+    conceptNet.lookup( xpath, {
+      limit: 10,
+      offset: 0,
+      filter: 'core'
+    }, function onDone( err, result ) {
+      log(err)
+      log(result)
+    })
+  }
+
 }
 
 module.exports = Tools
 
 // Tools.cleanDoc()
 
-Tools.renderPages()
+// Tools.renderPages()
+// Tools.findVocab()
+
+Tools.checkWord('apartment')
+Tools.checkIdea('accomodation')
 
 // cleanDoc()
