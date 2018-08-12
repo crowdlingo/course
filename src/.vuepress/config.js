@@ -1,14 +1,11 @@
-module.exports = {
+
+let config = {
   title: 'CrowdLingo',
   description: 'speak with your friends',
   base: "/course/",
 
-  app: {
-    showqr: false,
-    qrpath: ''
-  },
-
   themeConfig: {
+
     // displayAllHeaders: true,
     // lastUpdated: 'Last Updated',
     evergreen: true,
@@ -99,3 +96,9 @@ module.exports = {
   }
 
 }
+
+// gets removed from $site so has to go into themeConfig
+let appConfig = require('./appConfig.js')
+config.themeConfig.appConfig = appConfig
+
+module.exports = config

@@ -1,8 +1,10 @@
 <template>
-  <div class='cta-panel'>
-    <img class='qr-image' src='../../assets/qrcodes/tutor-mp.jpg' ></img>
-    <div class='cta-line'>
-      Visit AI老师 English Course!
+  <div>
+    <div class='cta-panel' v-if='appConfig.footerQrVis'>
+      <img class='qr-image' src='../../assets/qrcodes/tutor-mp.jpg' ></img>
+      <div class='cta-line'>
+        Visit AI老师 English Course!
+      </div>
     </div>
   </div>
 </template>
@@ -53,3 +55,24 @@
 }
 
 </style>
+
+<script>
+export default {
+  props: ['qrPath'],
+  data: function() {
+    return {
+      appConfig: {}
+    }
+  },
+
+  created: function() {
+    console.log('created .$site', this.$site)
+    this.appConfig = this.$site.themeConfig.appConfig
+  },
+
+}
+
+//     :style="{ 'background-image': imgPath }"
+
+
+</script>

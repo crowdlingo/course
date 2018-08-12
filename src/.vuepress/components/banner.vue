@@ -3,7 +3,6 @@
     <img class='banner-bg-image' :src='imgPath'></img>
     <qrstamp></qrstamp>
     <div class='text-box'>
-
       <div class='title'>
         {{$page.frontmatter.title}}
       </div>
@@ -12,7 +11,7 @@
       </div>
     </div>
     <div class='debug'>
-      {{bgImageUrl}}
+      {{imgPath}}
     </div>
   </div>
 </template>
@@ -61,7 +60,7 @@
 }
 
 .debug {
-  visibility: hidden;
+  /* visibility: hidden; */
   position: absolute;
   bottom: 5px;
   left: 10px;
@@ -75,21 +74,16 @@
 export default {
   props: ['imgPath'],
 
-  //// cannot use since even require(path.png) doesnt work
-  // computed: {
-  //   bgImageUrl() {
-  //     let cname = this.$page.frontmatter.cname
-  //     let url = `../../assets/${cname}/cover.jpg`
-  //     // require(url)
-  //     console.log('cname', cname)
-  //     console.log('url', url)
-  //     return url
-  //   }
-  // }
+  data: function() {
+    return {
+      appConfig: {}
+    }
+  },
+
+  created: function() {
+    this.appConfig = this.$site.themeConfig.appConfig
+  },
 
 }
-
-//     :style="{ 'background-image': imgPath }"
-
 
 </script>

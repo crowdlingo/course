@@ -4,6 +4,8 @@ DEPLOY_LOGIN="ubuntu@www.rikai-bots.com"
 DEPLOY_DIR=/opt/rikai/web-apps/tutorweb/course
 SOURCE_DIR=docs
 
+yarn docs:build
+
 set -x
 ssh ${DEPLOY_LOGIN} "mkdir -p $DEPLOY_DIR"
 
