@@ -46,6 +46,9 @@ Try to make up your own answers first!
 - Do you think you can really learn history from films and TV programmes?
   - I don&#39;t feel that watching current TV series can make you more aware of the history. TV programmes are more engaging than books, however, true historical events in most of the TV series have been distorted by the producers to cater for the audience. It&#39;s really a shame, as young people will misunderstand history as presented by these companies.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

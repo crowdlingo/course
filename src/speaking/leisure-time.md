@@ -50,6 +50,9 @@ Try to make up your own answers first!
 - Do you prefer to stay at home in the evenings or do you prefer to go out?
   - Yes, definitely. After a tiring week, people really need to relax. Apart from earning money, I still need to enjoy my family time, hang out with friends to socialise and travel around to experience different lifestyles.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

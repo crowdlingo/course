@@ -52,6 +52,9 @@ Try to make up your own answers first!
 - Do (young) children like reading books?
   - I believe if you want your children to be smart, they have to acquire a love for reading, which has numerous benefits. Reading opens the door to a child&#39;s early academic success, imparts a love of learning and leads to higher grades in every subject. Besides, reading can help children improve linguistic skills in the form of a richer vocabulary, correct grammar, and more articulate oral communication. On top of that, books teach child about relationships, situations, personalities, and what is good and what is bad in the world he&#x2F;she lives in.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

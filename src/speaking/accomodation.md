@@ -52,6 +52,9 @@ Try to make up your own answers first!
 - Are the transport facilities to your home very good?
   - We sometimes go out by car because it is not convenient to take a taxi in that area, and it takes nearly 30 minutes to walk to the nearest subway station. So generally speaking, it is not good to go out without a car.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

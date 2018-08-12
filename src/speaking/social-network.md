@@ -45,6 +45,9 @@ Try to make up your own answers first!
 - Is it good to find real friends on social network?
   - I think no, most of the friends I have on Facebook are just normal friends, it is common that people just make friends for fun and sometimes will not even meet face to face. But we do tend to share things a lot on social websites.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

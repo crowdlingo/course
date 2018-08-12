@@ -54,6 +54,9 @@ Try to make up your own answers first!
 - What are your favourite classes&#x2F; courses&#x2F; subjects?
   - My favorite class is computing. You know many students like to play computer games so there is no doubt that people are into that subject.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

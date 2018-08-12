@@ -45,6 +45,9 @@ Try to make up your own answers first!
 - Why do you like the teacher?
   - I don&#39;t think I would be a good teacher; I am not a patient man and cannot bear to repeat the same things frequently. A teachers&#39; job would be really boring for me, you have to make your explanations as easy as possible for students to fully understand. It is a challenging job, I am afraid I cannot do it.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

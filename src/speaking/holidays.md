@@ -52,6 +52,9 @@ Try to make up your own answers first!
 - What did you do during the last public holiday?
   - I believe public holidays are rather important and there should be more of them in my country. The main factor is that people really need to unwind without any distractions after tiring work and also public holidays can dramatically boost consumption, as goods in the shops will be sold at a discount during these days.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

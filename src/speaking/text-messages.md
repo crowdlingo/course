@@ -47,6 +47,9 @@ Try to make up your own answers first!
 - How often do you send text messages?
   - I send text messages almost on a daily basis. I always text my friends and family to say hello, chat and make travelling plans.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

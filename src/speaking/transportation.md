@@ -50,6 +50,9 @@ Try to make up your own answers first!
 - Do you think people will drive more in the future?
   - Yes, I believe that as people earn more money and have a better life, they will buy cars for themselves and their families, and most will drive their cars to the office.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

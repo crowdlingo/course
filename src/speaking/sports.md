@@ -50,6 +50,9 @@ Try to make up your own answers first!
 - What kind of sports would you like to try in the future?
   - Well, I guess what I&#39;ll try in the future is tennis because it can help me build strength and can improve my flexibility and balance. Besides, tennis is a social activity too; it&#39;s a sport I can enjoy with friends if I play regularly.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

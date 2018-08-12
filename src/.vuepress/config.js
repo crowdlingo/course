@@ -10,7 +10,7 @@ let config = {
     // displayAllHeaders: true,
     // lastUpdated: 'Last Updated',
     evergreen: true,
-    // sidebar: 'auto',
+    sidebar: 'auto',
     sidebar: {
       '/speaking/': [
         'movies',
@@ -58,15 +58,12 @@ let config = {
         "vegetables-and-fruits",
         "weather",
         "weekend"
+    ],
 
-    ]
-
-      // fallback
-      // '/': [
-      //   '',        /* / */
-      //   'contact', /* /contact.html */
-      //   'about'    /* /about.html */
-      // ]
+    '/guide/': [
+        '/',
+        'parts',
+      ]
     },
 
     // sidebar: [

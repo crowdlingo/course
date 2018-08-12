@@ -38,6 +38,9 @@ Try to make up your own answers first!
 - Why do people make mistakes when they are in hurry?
   - No, I don&#39;t like to do things quickly because I will not concentrate or I might make mistakes.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

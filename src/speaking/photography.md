@@ -56,6 +56,9 @@ Try to make up your own answers first!
 - How often do you take photographs?
   - Yes, I used to print some photos of my kid to hang in his room, they help us have good memories of the happy times we have together.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

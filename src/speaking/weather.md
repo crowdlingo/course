@@ -56,6 +56,9 @@ Try to make up your own answers first!
 - What&#39;s the weather (usually) like in your hometown?
   - I believe though China is a vast country, there are four distinct seasons in most places. But unfortunately in recent years, many places are becoming boiling hot in the summer. I guess the changes are primarily due to the greenhouse effect. So in this extreme weather, I will really prefer to work at home, and the air- conditioning is working all day long, and at night, I even sleep on the floor to be cooler.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

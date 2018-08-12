@@ -54,6 +54,9 @@ Try to make up your own answers first!
 - What do you like (most) about your hometown?
   - Well, my hometown, Nanjing has a big reputation because of its long history as a capital of China. Also for events such as the Nanjing massacre during the 1940’s.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

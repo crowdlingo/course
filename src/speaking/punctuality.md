@@ -50,6 +50,9 @@ Try to make up your own answers first!
 - Do you wear a watch?
   - I feel pretty bad, especially if I&#39;ve kept the other person waiting for a long time. So if I know I’m gonna be late, I will always try to let the person know in advance, you know, like send them a text message or something, so at least they know when to expect me.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

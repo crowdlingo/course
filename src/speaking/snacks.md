@@ -50,6 +50,9 @@ Try to make up your own answers first!
 - What about snacking between meals?
   - I think all kind of snacking between main meals is bad for your health. If people avoided snacking, they would be much healthier and less over weight.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

@@ -52,6 +52,9 @@ Try to make up your own answers first!
 - What are the differences between emails and letters?
   - I would be feeling both honoured and excited to receive a letter or email from someone because the sender has spent time writing it. Especially when someone writes to me to appreciate what I’ve done or to compliment me about my work.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

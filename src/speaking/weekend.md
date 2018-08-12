@@ -54,6 +54,9 @@ Try to make up your own answers first!
 - What did you do last weekend?
   - Well, there are so many people in my hometown, it&#39;s really hard to say, probably most people tend to stay at home to enjoy family time, but personally speaking, I guess there are not too many entertainments in my small hometown for people to go to.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

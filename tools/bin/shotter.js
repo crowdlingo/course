@@ -14,11 +14,12 @@ allPages.push('free-time')
 // allPages = allPages.slice(0, 2)
 
 const sections = [
-  ['topic', 1500],
+  ['topic', 750],
   ['questions', 350],
-  ['vocabulary', 1000],
+  ['vocabulary', 625],
   ['answers', 1000],
-  ['practice', 600]
+  ['practice', 600],
+  ['summary', 2500],
 ]
 
 async function main() {
@@ -42,7 +43,7 @@ async function main() {
         height: height
       }
 
-      if (sectionName === 'topic') {
+      if (sectionName === 'summary') {
         // opts.height = 2500
         opts.fullPage = true
       }

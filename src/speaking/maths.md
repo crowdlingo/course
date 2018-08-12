@@ -50,6 +50,9 @@ Try to make up your own answers first!
 - Is maths difficult for you to learn?
   - No, actually we were not allowed to use the calculator in class or exams because we were asked to calculate the results with pencil and paper. Therefore I&#39;m not that used to using a calculator now.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

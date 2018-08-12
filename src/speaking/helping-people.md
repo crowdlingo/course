@@ -49,6 +49,9 @@ Try to make up your own answers first!
 - Have you ever refused to help others?
   - Yeah, sometimes when I am in hurry or on business I don’t have time so I have to say sorry that I can’t help
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

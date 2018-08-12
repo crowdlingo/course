@@ -54,6 +54,9 @@ Try to make up your own answers first!
 - Did you like them?
   - No, I really couldn&#39;t stand the school uniform because the clothes were a bit too old- fashioned; in addition, sometimes I was reluctant to wear them because they were too large. I don’t know why they couldn&#39;t be a bit more trendy and colourful like the ones in other countries, like Japan and Australia.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

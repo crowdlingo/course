@@ -51,6 +51,9 @@ Try to make up your own answers first!
 - Would you say your country is a good place for travellers to visit?
   - Yes, Chinese people are renowned for their hospitality to visitors. There are numerous tourist attractions around the country. For instance, you can visit the countryside to see the picturesque views, or you can visit historical relics to get to know about the events that have shaped Chinas long history, or you can just stay in the cities to experience how the local people live.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

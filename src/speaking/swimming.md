@@ -42,6 +42,9 @@ Try to make up your own answers first!
 - Do you think everyone should learn to swim?
   - Of course, I think it&#39;s very important to learn to swim. First, you might spend a lot of holidays by water, for example, when you go to the beach or go to a lake, so you won&#39;t be able to enjoy yourself with your friends if you can&#39;t swim. Also, for safety reasons it&#39;s very important. You often hear about accidents involving young children so it&#39;s very important.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

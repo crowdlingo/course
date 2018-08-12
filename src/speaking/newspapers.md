@@ -24,7 +24,7 @@ cover: false
 - internationally
   - throughout the world
 - Internet
-  - a computer network consisting of a worldwide network of computer networks that use the TCP&#x2F;IP network protocols to facilitate data transmission and exchange
+  - a computer network consisting of a worldwide network of computer networks that use the TCP&#x2F;IP network protocols to facilitate data transmission and exchange  
 - political
   - involving or characteristic of politics or parties or politicians
 - Occasionally
@@ -56,8 +56,13 @@ Try to make up your own answers first!
 - Do you think it&#39;s important to read newspapers? (Why? &#x2F;Why not?)
   - Yes, I feel that it&#39;s very important for me and other people to know what’s happened both domestically and internationally.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
 
 

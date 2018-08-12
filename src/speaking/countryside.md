@@ -45,6 +45,9 @@ Try to make up your own answers first!
 - What are the differences between living in the city and the countryside?
   - However, many people have been attracted to live and work in big cities because of better employment opportunities and higher living standards.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

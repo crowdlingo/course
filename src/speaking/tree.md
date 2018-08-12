@@ -50,6 +50,9 @@ Try to make up your own answers first!
 - Where can one find trees (or forests) in your country?
   - I guess trees can be easily seen in my country. If you are in cities, there are always many sycamore trees along the streets and if you are in the suburb areas, you will see forests of various sizes.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

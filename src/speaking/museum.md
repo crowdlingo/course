@@ -39,6 +39,9 @@ Try to make up your own answers first!
 - Did you go to any museums when you were a child?
   - Yes, the reason is that generally, most museums are non-profit organisations, and these goods make up a large part of their income, except for the tickets of course, and also partly because these items are closely related to the theme of the museums, which cannot be bought in other bookstores or shops.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

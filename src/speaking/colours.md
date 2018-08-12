@@ -56,6 +56,9 @@ Try to make up your own answers first!
 - When you are buying something, is the colour important to you?
   - Yes, there are many colours that have a special meaning in my country such as black, which is mysterious. Red means good luck and good fortune in China, when it is New Year, people like to wear red clothes, set red firecrackers off and give red packets of pocket money to children.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

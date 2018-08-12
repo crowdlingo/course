@@ -48,6 +48,9 @@ Try to make up your own answers first!
 - What&#39;s your favourite kind of music?
   - Unfortunately, I did not learn to play any type of musical instrument when I was a little boy. I remember that in schools, teachers always told us to put all our energy into studying and preparing for exams. The music lessons, along with physical exercises and paintings, were not so important as the schools claimed them to be. It was a disappointment for me when I grew up.
 
+## Downloads
+<downloads></downloads>
+
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
