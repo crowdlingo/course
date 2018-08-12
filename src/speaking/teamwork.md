@@ -16,20 +16,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- important
-  - of great significance or value
+- international
+  - concerning or belonging to all or at least two or more nations
 - graduate
   - of or relating to studies beyond a bachelor&#39;s degree
-- teamwork
-  - cooperative work done by a team (especially when it is effective)
-- international
-  - any of several international socialist organizations  
-- deciding
-  - having the power or quality of deciding
 - warehouse
   - store in a warehouse  
-- assignment
-  - a duty that you are assigned to perform (especially in the armed forces)
+- Personally
+  - as yourself
+- responsibility
+  - the social force that binds you to the courses of action demanded by that force
+- technology
+  - the application of the knowledge and usage of tools (such as machines or utensils) and techniques to control one&#39;s environment
 
 <!-- blank -->
 
@@ -54,3 +52,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

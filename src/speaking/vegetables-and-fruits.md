@@ -16,18 +16,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- different
-  - unlike in nature or quality or form or degree
-- perfectly
-  - completely and without qualification
-- nutritious
-  - of or providing nourishment
-- broccoli
-  - plant with dense clusters of tight green flower buds  
-- shopping
-  - searching for or buying goods or services
 - medicinal
   - having the properties of medicine
+- perfectly
+  - completely and without qualification
+- favourite
+  - appealing to the general public
+- shopping
+  - searching for or buying goods or services
+- hometown
+  - the town (or city) where you grew up or where you have your principal residence
+- everyday
+  - found in the ordinary course of events
 
 <!-- blank -->
 
@@ -52,3 +52,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

@@ -16,12 +16,8 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- generally
-  - usually
-- furniture
-  - furnishings that make a room or other area ready for occupancy
-- hometown
-  - the town (or city) where you grew up or where you have your principal residence
+- historical
+  - of or relating to the study of history
 
 <!-- blank -->
 
@@ -46,3 +42,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

@@ -13,30 +13,20 @@ cover: false
 - Is there a forest near your hometown?
 - Would you like to live in a place that has a lot of trees?
 - Where can one find trees (or forests) in your country?
-- Do you think places with trees attract more visitors than places with few trees?
-- Did you ever climb trees when you were a child?
-- Have you ever planted a tree?
-- Do you think more people should plant trees?
 
 ## Vocabulary
 
 <vocab-list>
-- lifestyle
-  - a manner of living that reflects the person&#39;s values and attitudes  
-- remember
-  - recall knowledge from memory
-- comfortable
-  - providing or experiencing physical well-being or relief (&#x60;comfy&#39; is informal)
-- hometown
-  - the town (or city) where you grew up or where you have your principal residence
-- furniture
-  - furnishings that make a room or other area ready for occupancy
-- ecosystem
-  - a system formed by the interaction of a community of organisms with their physical environment  
+- important
+  - of great significance or value
 - polluted
   - rendered unwholesome by contaminants and pollution
-- sycamore
-  - variably colored and sometimes variegated hard tough elastic wood of a sycamore tree  
+- furniture
+  - furnishings that make a room or other area ready for occupancy
+- unreasonable
+  - not reasonable
+- building
+  - a structure that has a roof and walls and stands more or less permanently in one place
 
 <!-- blank -->
 
@@ -59,15 +49,11 @@ Try to make up your own answers first!
   - Yes, I&#39;m really into getting close to nature cos I believe it&#39;s the most healthy and natural way of living. Although it&#39;s unreasonable to have such a polluted lifestyle in Nanjing now, I still keep hold of that dream for my future life.
 - Where can one find trees (or forests) in your country?
   - I guess trees can be easily seen in my country. If you are in cities, there are always many sycamore trees along the streets and if you are in the suburb areas, you will see forests of various sizes.
-- Do you think places with trees attract more visitors than places with few trees?
-  - Well, yes. Obviously places with lots of trees are shadier, cooler, more humid and much less windy, therefore, people feel more comfortable and more likely to get close to nature.
-- Did you ever climb trees when you were a child?
-  - Yes, of course. There are many trees in my community. When I was a kid, I always climbed trees to get higher or to find birds&#39; eggs.
-- Have you ever planted a tree?
-  - Yes, once. Thinking back I remember when my middle school organized a hiking trip to a mountainous area, we planted several saplings in the forest, I guess they have grown up into big trees already.
-- Do you think more people should plant trees?
-  - Yes, I believe more trees should be planted both in and outside the cities because they can absorb the pollutant gases and provide more oxygen; besides, trees can save water and prevent soil erosion. Therefore, trees are critically important to keep our eco-system balanced. We are supposed to not only plant more trees, but also protect the existing ones.
 
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

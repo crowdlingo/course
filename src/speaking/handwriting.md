@@ -13,25 +13,22 @@ cover: false
 - What do you usually write?
 - Do you like writing to people?
 - How often do you send e-mails?
-- What are your main reasons for using e-mails?
 
 ## Vocabulary
 
 <vocab-list>
-- literate
-  - a person who can read and write  
-- communicating
-  - the activity of communicating
-- development
-  - act of improving by expanding or enlarging or refining
+- business
+  - a commercial or industrial enterprise and the people who constitute it
+- convenience
+  - the state of being suitable or opportune
+- elements
+  - violent or severe weather (viewed as caused by the action of the four elements)
 - technical
   - a pickup truck with a gun mounted on it  
-- communication
-  - the activity of communicating
-- remember
-  - recall knowledge from memory
-- everyday
-  - found in the ordinary course of events
+- computer
+  - a machine for performing calculations automatically  
+- complicated
+  - difficult to analyze or understand
 
 <!-- blank -->
 
@@ -54,9 +51,11 @@ Try to make up your own answers first!
   - Well, there are so many people in my country, it&#39;s really hard to say, probably most people write something on computers, for example, people like to write blogs to share their feelings with friends on the internet, but personally speaking, I don&#39;t think that writing without pens can be called writing.
 - How often do you send e-mails?
   - In China, children usually learn to write in elementary school. They firstly learn the basic elements of the Chinese characters, then the simple characters, and finally the complicated ones. They will have to do a lot of writing practice to remember them. The more they practice, the better they write.
-- What are your main reasons for using e-mails?
-  - Yes, I feel that handwriting allows people to have more opportunity because if you have decent handwriting, people will admire you and you are considered to be both well educated and literate.
 
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

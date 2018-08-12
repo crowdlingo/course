@@ -16,22 +16,22 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- remember
-  - recall knowledge from memory
-- forgotten
-  - not noticed inadvertently
-- physical
-  - involving the body as distinguished from the mind or spirit
-- forgetful
-  - (of memory) deficient in retentiveness or range
+- celebrate
+  - behave as expected during of holidays or rites
 - Fortunately
   - by good fortune
-- birthday
-  - an anniversary of the day on which a person was born (or the celebration of it)  
-- fashioned
-  - planned and made or fashioned artistically
+- important
+  - of great significance or value
+- physical
+  - involving the body as distinguished from the mind or spirit
 - traditional
   - consisting of or derived from tradition
+- depression
+  - a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity  
+- unbelievably
+  - not easy to believe
+- fashioned
+  - planned and made or fashioned artistically
 
 <!-- blank -->
 
@@ -56,3 +56,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

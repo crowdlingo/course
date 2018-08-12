@@ -17,18 +17,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- learning
-  - the cognitive process of acquiring skill or knowledge
-- historical
-  - of or relating to the study of history
-- remember
-  - recall knowledge from memory
-- linguistic
-  - consisting of or related to language
-- autobiography
-  - a biography of yourself  
-- different
-  - unlike in nature or quality or form or degree
+- travelling
+  - the act of going from one place to another
+- educational
+  - relating to the process of education
+- knowledge
+  - the psychological result of perception and learning and reasoning  
+- familiar
+  - a person attached to the household of a high official (as a pope or bishop) who renders service in return for support  
+- cultivate
+  - foster the growth of  
+- literature
+  - creative writing of recognized artistic value  
 
 <!-- blank -->
 
@@ -55,3 +55,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

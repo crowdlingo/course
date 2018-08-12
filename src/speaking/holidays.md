@@ -17,16 +17,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- Christmas
-  - period extending from Dec. 24 to Jan. 6  
 - together
   - mentally and emotionally stable
-- favourite
-  - appealing to the general public
-- important
-  - of great significance or value
 - personally
   - as yourself
+- dramatically
+  - in a very impressive manner
+- National
+  - a person who owes allegiance to that nation
+- discount
+  - bar from attention or consideration
+- celebrate
+  - behave as expected during of holidays or rites
 
 <!-- blank -->
 
@@ -53,3 +55,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

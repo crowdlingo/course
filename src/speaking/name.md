@@ -13,21 +13,22 @@ cover: false
 - Do you like your name?
 - In your country, do people feel that their name is very important?
 - Would you like to change your name?
-- Is it easy to change your name in your country?
 
 ## Vocabulary
 
 <vocab-list>
-- accumulation
-  - an increase by natural growth or addition  
-- particular
-  - a fact about some part (as opposed to general)
+- identity
+  - the distinct personality of an individual regarded as a persisting entity
 - Sometimes
   - on certain occasions or in certain cases but not always
-- knowledgeable
-  - highly educated
 - pressure
   - to cause to do through pressure or necessity, by physical, moral or intellectual means
+- particular
+  - unique or specific to a person or thing or category
+- classical
+  - traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste  
+- knowledge
+  - the psychological result of perception and learning and reasoning  
 
 <!-- blank -->
 
@@ -50,9 +51,11 @@ Try to make up your own answers first!
   - People in my country pay great attention to their names because they believe that suitable names will bring them good fortune. Sometimes they even change their names for their business and family purpose.
 - Would you like to change your name?
   - In China, I believe that fathers are in the position of naming their children. Sometimes they will look through some Chinese classical literatures to seek the meaningful words for their children.
-- Is it easy to change your name in your country?
-  - Oh, there are some nicknames that are very popular in China. For example, Lili means that their parents hope their daughters would be beautiful; and Kuan kuan, indicates that their sons would be magnanimous when they are grown up
 
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

@@ -75,7 +75,7 @@ const Tools = {
         return pair
       }
     }).filter(elem => elem)
-    return pairs
+    return pairs.slice(0, 5)
   },
 
   splitWords(line) {

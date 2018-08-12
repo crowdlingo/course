@@ -11,7 +11,7 @@ let allPages = require('../data/pagelist.json')
 allPages.push('movies')
 allPages.push('free-time')
 
-allPages = allPages.slice(0, 2)
+// allPages = allPages.slice(0, 2)
 
 const sections = [
   ['topic', 1500],

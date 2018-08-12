@@ -16,18 +16,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- interesting
-  - arousing or holding the attention  
+- playground
+  - an area where many people go for recreation  
 - extrovert
   - being concerned with the social and physical environment  
-- memorable
-  - worth remembering  
-- Actually
-  - in actual fact
-- together
-  - mentally and emotionally stable
-- different
-  - unlike in nature or quality or form or degree
+- countryside
+  - rural regions  
+- restaurant
+  - a building where people go to eat  
+- sociable
+  - a party of people assembled to promote sociability and communal activity  
+- frequently
+  - many times at short intervals
 
 <!-- blank -->
 
@@ -52,3 +52,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

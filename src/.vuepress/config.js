@@ -1,6 +1,7 @@
 
 let config = {
-  title: 'CrowdLingo',
+  // title: 'CrowdLingo',
+  title: '英语AI老师|',
   description: 'speak with your friends',
   base: "/course/",
 

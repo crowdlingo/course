@@ -16,18 +16,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- picturesque
-  - suggesting or suitable for a picture
 - experience
   - the accumulation of knowledge or skill that results from direct participation in events or activities
-- instance
-  - clarify by giving an example of  
+- countryside
+  - rural regions  
+- Wherever
+  - where in the world  
 - memorable
   - worth remembering  
+- historical
+  - of or relating to the study of history
+- picturesque
+  - suggesting or suitable for a picture
 - indispensable
   - not to be dispensed with
-- travelling
-  - the act of going from one place to another
 
 <!-- blank -->
 
@@ -52,3 +54,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

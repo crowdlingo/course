@@ -46,7 +46,7 @@
 - topic: Hometown
   cname: hometown
   pairs:
-    - q: What's the name of your hometown?
+    - q: What is the name of your hometown?
       a: 'Well, my hometown is the city of Nanjing, which is a big modern city with an ancient history -its a pretty nice place to live. The weather there is quite pleasant all year round, in winter the temperatures are quite mild but in summer it can be hot and humid'
     - q: Is that a big city or a small town?
       a: 'Although Nanjing has been developing quite a lot recently, and expanding every year, it is still a traditional Chinese City with a long history of which it is rightly proud.'
@@ -94,7 +94,7 @@
 - topic: Weather
   cname: weather
   pairs:
-    - q: What's the weather like today?
+    - q: What is the weather like today?
       a: 'It''s really freezing (sunny, cool, breezy, chilly, warm, humid, hot) today. If I didn’t have to take the IELTS exams, I would prefer to stay at home.'
     - q: What's your favourite weather? (Why?)
       a: 'Actually I prefer cloudy days, because then it''''s neither too hot nor too cold. And what''''s more important to me is that this weather is perfect for photography as the light is so soft. So at this time of day, I like to go out with my camera to take photos.'''

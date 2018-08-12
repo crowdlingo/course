@@ -17,18 +17,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- definitely
-  - without question and beyond doubt
-- instinct
-  - (followed by &#x60;with&#39;) deeply filled or permeated
 - fashioned
   - planned and made or fashioned artistically
-- colourful
-  - striking in variety and interest
-- actually
-  - in actual fact
+- Australia
+  - a nation occupying the whole of the Australian continent
 - addition
   - a component that is added to something to improve it
+- reluctant
+  - unwillingness to do something contrary to your custom
+- comfortable
+  - providing or experiencing physical well-being or relief (&#x60;comfy&#39; is informal)
+- actually
+  - in actual fact
+- favourite
+  - appealing to the general public
 
 <!-- blank -->
 
@@ -55,3 +57,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

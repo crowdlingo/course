@@ -13,23 +13,22 @@ cover: false
 - Who do you live with?
 - Do you plan to live there for a long time?
 - Are the transport facilities to your home very good?
-- What part of your home do you like the most?
 
 ## Vocabulary
 
 <vocab-list>
-- Apartment
-  - a suite of rooms usually on one floor of an apartment house  
-- apartment
-  - a suite of rooms usually on one floor of an apartment house  
-- convenient
-  - suited to your comfort or purpose or needs
 - spacious
   - very large in expanse or scope
-- furnished
-  - provided with whatever is necessary for a purpose (as furniture or equipment or authority)
-- generally
-  - usually
+- transport
+  - move something or somebody around
+- speaking
+  - capable of or involving speech or speaking
+- decorated
+  - provided with something intended to increase its beauty or distinction  
+- apartment
+  - a suite of rooms usually on one floor of an apartment house  
+- Apartment
+  - a suite of rooms usually on one floor of an apartment house  
 
 <!-- blank -->
 
@@ -52,9 +51,11 @@ Try to make up your own answers first!
   - We bought the apartment four years ago. And my brother is in the school near my home, so we won&#39;&#39;t intend to move in the future.&#39;
 - Are the transport facilities to your home very good?
   - We sometimes go out by car because it is not convenient to take a taxi in that area, and it takes nearly 30 minutes to walk to the nearest subway station. So generally speaking, it is not good to go out without a car.
-- What part of your home do you like the most?
-  - My family spend most of their time in the living room. We like to sit around on a set of comfortable sofas there and chat with each other or watch TV. But when I am free, I prefer to read alone in my room.
 
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

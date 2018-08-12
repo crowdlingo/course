@@ -15,6 +15,7 @@
   top: 5px;
   border-radius: 10px;
   height: 100px;
+  z-index: 100;
 }
 
 </style>

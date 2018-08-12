@@ -13,27 +13,22 @@ cover: false
 - Do old people sleep a lot? Why?
 - How to have a good sleep?
 - Do you like to get up early in the morning?
-- Can you sleep well if you are in a noisy environment?
 
 ## Vocabulary
 
 <vocab-list>
-- recharge
-  - load anew
-- normally
-  - under normal conditions
 - dinnertime
   - the customary or habitual hour for the evening meal  
-- consequently
-  - (sentence connectors) because of the reason given
+- recharge
+  - load anew
 - comfortable
   - providing or experiencing physical well-being or relief (&#x60;comfy&#39; is informal)
-- afternoon
-  - the part of the day between noon and evening
-- important
-  - of great significance or value
 - beneficial
   - promoting or enhancing well-being
+- important
+  - of great significance or value
+- necessary
+  - absolutely essential  
 
 <!-- blank -->
 
@@ -56,9 +51,11 @@ Try to make up your own answers first!
   - I believe you have to follow several rules to get a regular good nights sleep. Firstly, go to bed at the same time every night. Choose a time when you normally feel tired, so that you don&#39;t toss and turn. Also, make sure your bed is comfortable so that you can stretch and turn in bed. As well as that, stay away from big meals at night or try to make dinnertime earlier in the evening, and avoid heavy, rich foods before bed.
 - Do you like to get up early in the morning?
   - Yes, getting up early in the morning is really beneficial for our health, because we can enjoy the fresh air in the morning; besides we have plenty of time to do some physical exercises liking running and jogging. In the morning I can also prepare a good dinner for the family.
-- Can you sleep well if you are in a noisy environment?
-  - Well, I&#39;m afraid that at night I can&#39;t fall asleep in such a noisy place what with barking dogs, loud neighbours and city traffic. This is because I used to sleep in my quiet hometown when I was a kid. So sometimes I envy people who have grown accustomed to environmental noise and can sleep well wherever they lay their head.
 
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

@@ -16,14 +16,14 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- exercise
-  - put to use
-- Absolutely
-  - completely and without qualification
-- countryside
-  - rural regions  
+- employment
+  - the state of being employed or having a job
+- environment
+  - the totality of surrounding conditions
 - significantly
   - in a statistically significant way
+- pollution
+  - undesirable state of the natural environment being contaminated with harmful substances as a consequence of human activities  
 
 <!-- blank -->
 
@@ -48,3 +48,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

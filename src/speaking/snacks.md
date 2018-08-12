@@ -17,16 +17,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- healthier
-  - improved in health or physical condition  
+- perfectly
+  - completely and without qualification
 - generally
   - usually
-- sometimes
-  - on certain occasions or in certain cases but not always
-- unhealthy
-  - not in or exhibiting good health in body or mind
 - chocolate
   - a beverage made from cocoa powder and milk and sugar
+- unhealthy
+  - not in or exhibiting good health in body or mind
+- sometimes
+  - on certain occasions or in certain cases but not always
 
 <!-- blank -->
 
@@ -53,3 +53,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

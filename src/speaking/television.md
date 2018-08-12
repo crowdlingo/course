@@ -13,23 +13,22 @@ cover: false
 - Did you watch much TV when you were a child? (How much?)
 - What (types of) programmes did you watch when you were a child?
 - Do you think television has changed since you were a child?
-- Has television changed your life in any way?
 
 ## Vocabulary
 
 <vocab-list>
-- favourite
-  - appealing to the general public
+- especially
+  - to a distinctly greater extent or degree than is common
 - exciting
   - creating or arousing excitement
-- Watching
-  - the act of observing
-- programme
-  - write a computer program  
-- television
-  - broadcasting visual images of stationary or moving objects
-- childhood
-  - the time of person&#39;s life when they are a child  
+- computer
+  - a machine for performing calculations automatically  
+- obsessed
+  - having or showing excessive or compulsive concern with something
+- remember
+  - recall knowledge from memory
+- advanced
+  - farther along in physical or mental development
 
 <!-- blank -->
 
@@ -52,9 +51,11 @@ Try to make up your own answers first!
   - I became obsessed with various TV programmes, including the adverts. I can still remember my favourite cartoons like Transformers, Tom and Jerry, Dragon Ball, etc, which I watched all through my childhood.
 - Do you think television has changed since you were a child?
   - Yes, as the techniques have advanced in these years, the TV has also developed a lot. They have become thinner and clearer to be exact. I remember those old TV screens were made with a plasma panel, making the whole TV heavy and big. Then LCD technology and the LED display came out making the TV thinner and lighter so we can enjoy brighter and clearer programmes.
-- Has television changed your life in any way?
-  - I believe that watching TV has benefited me in some way, as well as bringing me some detrimental consequences. Watching TV programmes had enabled me to broaden my horizons as I was born and raised in a small county and there were many places and things I had no opportunities to experience. But the TV had helped me to see them. But spending too much time in front of TV also made meaddicted to it and unfortunately harmed my eyes. So I’ve had to wear glasses since middle school
 
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

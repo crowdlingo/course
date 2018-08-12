@@ -17,18 +17,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- remember
+  - recall knowledge from memory
+- homework
+  - preparatory school work done outside school (especially at home)  
+- learning
+  - the cognitive process of acquiring skill or knowledge
 - actually
   - in actual fact
-- calculator
-  - an expert at calculation (or at operating calculating machines)  
-- difficult
-  - not easy
-- Therefore
-  - (used to introduce a logical conclusion) from that fact or reason or as a result
 - favourite
   - appealing to the general public
-- complicated
-  - difficult to analyze or understand
 
 <!-- blank -->
 
@@ -55,3 +53,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

@@ -17,20 +17,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- metropolis
-  - a large and densely populated urban area
-- pollution
-  - undesirable state of the natural environment being contaminated with harmful substances as a consequence of human activities  
 - favourite
   - appealing to the general public
-- astronomy
-  - the branch of physics that studies celestial bodies and the universe as a whole  
-- sometimes
-  - on certain occasions or in certain cases but not always
-- industrial
-  - of or relating to or resulting from industry
-- hometown
-  - the town (or city) where you grew up or where you have your principal residence
+- stunning
+  - commanding attention
+- remember
+  - recall knowledge from memory
+- invisible
+  - impossible or nearly impossible to see
+- significant
+  - important in effect or meaning
+- knowledge
+  - the psychological result of perception and learning and reasoning  
+- especially
+  - to a distinctly greater extent or degree than is common
 
 <!-- blank -->
 
@@ -57,3 +57,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

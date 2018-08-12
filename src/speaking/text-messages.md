@@ -16,12 +16,10 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- travelling
-  - the act of going from one place to another
-- conference
-  - a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)  
 - carefully
   - taking care or paying attention
+- travelling
+  - the act of going from one place to another
 - telephone
   - get or try to get into communication (with someone) by telephone
 - remember
@@ -52,3 +50,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

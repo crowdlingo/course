@@ -1,14 +1,14 @@
 ---
 cname: hometown
 title: Hometown
-description: What&#39;s the name of your hometown?
+description: What is the name of your hometown?
 cover: false
 ---
 <banner></banner>
 
 ## Questions
 
-- What&#39;s the name of your hometown?
+- What is the name of your hometown?
 - Is that a big city or a small town?
 - Please describe your hometown a little.
 - How long have you been living there?
@@ -17,16 +17,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- describe
-  - give a description of
-- developing
-  - relating to societies in which capital needed to industrialize is in short supply  
-- preserve
-  - a domain that seems to be specially reserved for someone
+- pleasant
+  - affording pleasure
+- definitely
+  - without question and beyond doubt
+- reputation
+  - the state of being held in high esteem and honor  
 - hometown
   - the town (or city) where you grew up or where you have your principal residence
-- massacre
-  - kill a large number of people indiscriminately
+- elsewhere
+  - in or to another place
+- developing
+  - relating to societies in which capital needed to industrialize is in short supply  
+- describe
+  - give a description of
 
 <!-- blank -->
 
@@ -39,7 +43,7 @@ Here are some model answers!
 Try to make up your own answers first!
 :::
 
-- What&#39;s the name of your hometown?
+- What is the name of your hometown?
   - Well, my hometown is the city of Nanjing, which is a big modern city with an ancient history -its a pretty nice place to live. The weather there is quite pleasant all year round, in winter the temperatures are quite mild but in summer it can be hot and humid
 - Is that a big city or a small town?
   - Although Nanjing has been developing quite a lot recently, and expanding every year, it is still a traditional Chinese City with a long history of which it is rightly proud.
@@ -53,3 +57,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

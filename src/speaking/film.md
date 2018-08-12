@@ -13,21 +13,20 @@ cover: false
 - How often do you go to a cinema or watch a movie?
 - Do Chinese people like to go to a cinema to watch a film?
 - What kinds of movies do you like best?
-- What was the first film that you watched?
 
 ## Vocabulary
 
 <vocab-list>
-- particularly
-  - to a distinctly greater extent or degree than is common
-- terrific
-  - very great or intense
-- watching
-  - the act of observing
-- remember
-  - recall knowledge from memory
+- provoking
+  - causing or tending to cause anger or resentment
 - heartfelt
   - sincerely earnest
+- attractive
+  - pleasing to the eye or mind especially through beauty or charm
+- Normally
+  - under normal conditions
+- watching
+  - the act of observing
 
 <!-- blank -->
 
@@ -50,9 +49,11 @@ Try to make up your own answers first!
   - It&#39;s kind of hard to say but people that I know tend to like watching movies in the cinema, but maybe for others, they just prefer to stay at home and watch TV programmes
 - What kinds of movies do you like best?
   - As for me, I like drama films the best because sometimes they just tell simple but warm and heartfelt stories with provoking and often emotional endings which touch me a lot.
-- What was the first film that you watched?
-  - The first film that I watched was the Lion King many years ago in the cinema with my parents. What I can remember now is the terrific animation and the amazing soundtrack. I particularly liked the song Can You Feel the Love Tonight that I knew it was produced by Elton John. And I&#39;ve learned lessons from this movie. It is about living up to our responsibilities, no matter how hard it is.
 
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

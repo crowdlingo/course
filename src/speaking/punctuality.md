@@ -13,26 +13,20 @@ cover: false
 - Are you, yourself, late very often?- How do you feel when you are late?
 - How do you think you could be on time?
 - Do you wear a watch?
-- When does time SEEM to move fast, and when does it SEEM to move Slowly?
-- If you could go back in time, what would you do differently?
 
 ## Vocabulary
 
 <vocab-list>
-- differently
-  - in another and different manner
-- probably
-  - with considerable certainty
-- anywhere
-  - at or in or to any place
-- impression
-  - a vague idea in which some confidence is placed
-- especially
-  - to a distinctly greater extent or degree than is common
+- Important
+  - of great significance or value
 - bothered
   - caused to show discomposure
-- normally
-  - under normal conditions
+- impression
+  - a vague idea in which some confidence is placed
+- definitely
+  - without question and beyond doubt
+- especially
+  - to a distinctly greater extent or degree than is common
 
 <!-- blank -->
 
@@ -55,11 +49,11 @@ Try to make up your own answers first!
   - (If no) No, I would not say I am. You know, most of the time I&#39;m pretty good with being on time for things, because I always make a quite big effort not to be late.
 - Do you wear a watch?
   - I feel pretty bad, especially if I&#39;ve kept the other person waiting for a long time. So if I know I’m gonna be late, I will always try to let the person know in advance, you know, like send them a text message or something, so at least they know when to expect me.
-- When does time SEEM to move fast, and when does it SEEM to move Slowly?
-  - I guess the best thing to do would be to always allow lots of time to get anywhere. So for example, if it normally takes me, say, half an hour to get to the city centre, then I should probably leave home about an hour before I need to get there.
-- If you could go back in time, what would you do differently?
-  - (If yes) Yeah I do - you can see it right here!
 
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

@@ -16,16 +16,14 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- outgoing
-  - leaving a place or a position
-- especially
-  - to a distinctly greater extent or degree than is common
-- sometimes
-  - on certain occasions or in certain cases but not always
-- travelling
-  - the act of going from one place to another
 - undeniable
   - not possible to deny  
+- learning
+  - the cognitive process of acquiring skill or knowledge
+- addicted
+  - compulsively or physiologically dependent on something habit-forming
+- especially
+  - to a distinctly greater extent or degree than is common
 
 <!-- blank -->
 
@@ -50,3 +48,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

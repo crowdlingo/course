@@ -15,11 +15,13 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- compulsory
-  - required by rule
+- swimming
+  - the act of swimming
 - important
   - of great significance or value
-- swimming
+- compulsory
+  - required by rule
+- Swimming
   - the act of swimming
 
 <!-- blank -->
@@ -43,3 +45,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

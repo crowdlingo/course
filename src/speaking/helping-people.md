@@ -16,18 +16,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- important
-  - of great significance or value
-- kindness
-  - the quality of being warmhearted and considerate and humane and sympathetic  
-- sometimes
-  - on certain occasions or in certain cases but not always
-- building
-  - a structure that has a roof and walls and stands more or less permanently in one place
-- thankful
-  - feeling or showing gratitude
+- importance
+  - the quality of being important and worthy of note
 - straight
   - without deviation
+- business
+  - a commercial or industrial enterprise and the people who constitute it
+- sometimes
+  - on certain occasions or in certain cases but not always
+- especially
+  - to a distinctly greater extent or degree than is common
+- important
+  - of great significance or value
 
 <!-- blank -->
 
@@ -52,3 +52,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

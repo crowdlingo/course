@@ -16,18 +16,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- interested
-  - having or showing interest
-- probably
-  - with considerable certainty
-- especially
-  - to a distinctly greater extent or degree than is common
+- computer
+  - a machine for performing calculations automatically  
 - business
   - a commercial or industrial enterprise and the people who constitute it
 - interruption
   - an act of delaying or interrupting the continuity
-- spending
-  - the act of spending or disbursing money  
+- especially
+  - to a distinctly greater extent or degree than is common
+- together
+  - mentally and emotionally stable
 
 <!-- blank -->
 
@@ -52,3 +50,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

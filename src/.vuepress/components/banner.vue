@@ -4,7 +4,6 @@
     </a>
     <div class='banner'>
       <img v-if='$page.frontmatter.cover' class='banner-bg-image' :src='coverPath'></img>
-      <!-- <qrstamp></qrstamp> -->
       <div class='text-box'>
         <div class='title'>
           {{$page.frontmatter.title}}
@@ -13,6 +12,7 @@
           {{$page.frontmatter.description}}
         </div>
       </div>
+      <qrstamp></qrstamp>
     </div>
   </div>
 </template>
@@ -37,8 +37,9 @@
 
 .text-box {
   position: absolute;
-  top: 50px;
+  bottom: 25px;
   left: -50px;
+  right: -50px;
   padding: 10px;
   padding-left: 70px;
   padding-right: 15px;
@@ -50,17 +51,17 @@
 .title {
   font-size: 40px;
   font-weight: bold;
-  width: 100%;
+  width: calc(100% - 100px);
   /* border-bottom: 1px solid white; */
   line-height: 120%;
 }
 
 .description {
   position: relative;
-  width: calc(100% - 50px);
+  width: calc(100% - 80px);
   border: 1px solid white;
   font-size: 24px;
-  padding: 20px;
+  padding: 10px;
   font-weight: normal;
   line-height: 120%;
 }

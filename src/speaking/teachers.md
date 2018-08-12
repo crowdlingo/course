@@ -14,20 +14,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- motivate
+  - give an incentive for action
+- possible
+  - something that can be done
 - background
   - understate the importance or quality of
-- favourite
-  - appealing to the general public
-- encourage
-  - contribute to the progress or growth of
+- influential
+  - having or exercising influence or power
+- frequently
+  - many times at short intervals
 - gymnastics
   - a sport that involves exercises intended to display strength and balance and agility  
 - understand
   - know and comprehend the nature or meaning of
-- remember
-  - recall knowledge from memory
-- influential
-  - having or exercising influence or power
 
 <!-- blank -->
 
@@ -48,3 +48,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

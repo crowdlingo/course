@@ -16,20 +16,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- extrovert
-  - being concerned with the social and physical environment  
-- restaurant
-  - a building where people go to eat  
-- interesting
-  - arousing or holding the attention  
-- sometimes
-  - on certain occasions or in certain cases but not always
+- frequently
+  - many times at short intervals
 - together
   - mentally and emotionally stable
+- interesting
+  - arousing or holding the attention  
+- sociable
+  - inclined to or conducive to companionship with others
+- Actually
+  - in actual fact
 - memorable
   - worth remembering  
-- community
-  - a group of people living in a particular local area
 
 <!-- blank -->
 
@@ -54,3 +52,7 @@ Try to make up your own answers first!
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+

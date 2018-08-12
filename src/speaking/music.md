@@ -13,24 +13,18 @@ cover: false
 - How much time do you spend listening to music every day?
 - What kinds of music do you like to listen to?
 - What&#39;s your favourite kind of music?
-- How often do you listen to that type of music?
-- When did you start listening to this type of music?
 
 ## Vocabulary
 
 <vocab-list>
 - disappointment
   - a feeling of dissatisfaction that results when your expectations are not realized
-- currently
-  - at this time or period
-- sometimes
-  - on certain occasions or in certain cases but not always
-- releasing
-  - emotionally purging (of e.g. art)  
-- studying
-  - reading carefully with intent to remember  
-- nostalgic
-  - unhappy about being away and longing for familiar things or persons  
+- Unfortunately
+  - by bad luck
+- impressive
+  - making a strong or vivid impression
+- favourite
+  - appealing to the general public
 
 <!-- blank -->
 
@@ -53,11 +47,11 @@ Try to make up your own answers first!
   - Oh, yes, I saw a pop singer perform several years ago. It was a really memorable night as the live performances were very exciting. I remembered that after the song, when the singer spoke to the audience, everyone cheered and clapped like crazy. It made me feel so cool being there.
 - What&#39;s your favourite kind of music?
   - Unfortunately, I did not learn to play any type of musical instrument when I was a little boy. I remember that in schools, teachers always told us to put all our energy into studying and preparing for exams. The music lessons, along with physical exercises and paintings, were not so important as the schools claimed them to be. It was a disappointment for me when I grew up.
-- How often do you listen to that type of music?
-  - I don’t get enough time to listen to music because I have to spend all my time studying. This was one of my biggest disappointments during my childhood, so when I got to university the first thing I did was to buy a new mp3 player.
-- When did you start listening to this type of music?
-  - I believe that currently in China the most popular music is pop music. There are many famous pop singers now, they are releasing numerous albums every year, and they are always trendy for a short period of time.
 
 ## Practice
 Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
+
+
+
+
