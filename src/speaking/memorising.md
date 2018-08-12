@@ -1,7 +1,7 @@
 ---
 cname: memorising
 title: Memorising
-description: 
+description: What do you remember to do every day?
 cover: false
 ---
 <banner></banner>
@@ -16,20 +16,22 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- emotional
-  - determined or actuated by emotion rather than reason
-- birthday
-  - an anniversary of the day on which a person was born (or the celebration of it)  
 - remember
   - recall knowledge from memory
-- celebrate
-  - behave as expected during of holidays or rites
-- forgetful
-  - (of memory) deficient in retentiveness or range
-- physical
-  - involving the body as distinguished from the mind or spirit
 - forgotten
   - not noticed inadvertently
+- physical
+  - involving the body as distinguished from the mind or spirit
+- forgetful
+  - (of memory) deficient in retentiveness or range
+- Fortunately
+  - by good fortune
+- birthday
+  - an anniversary of the day on which a person was born (or the celebration of it)  
+- fashioned
+  - planned and made or fashioned artistically
+- traditional
+  - consisting of or derived from tradition
 
 <!-- blank -->
 

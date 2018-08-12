@@ -1,7 +1,7 @@
 ---
 cname: punctuality
 title: Punctuality
-description: 
+description: Do you think its Important to be on time?
 cover: false
 ---
 <banner></banner>
@@ -19,18 +19,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- anywhere
-  - at or in or to any place
+- differently
+  - in another and different manner
 - probably
   - with considerable certainty
-- especially
-  - to a distinctly greater extent or degree than is common
+- anywhere
+  - at or in or to any place
 - impression
   - a vague idea in which some confidence is placed
+- especially
+  - to a distinctly greater extent or degree than is common
 - bothered
   - caused to show discomposure
-- Important
-  - of great significance or value
+- normally
+  - under normal conditions
 
 <!-- blank -->
 

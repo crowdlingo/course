@@ -1,7 +1,7 @@
 ---
 cname: music
 title: Music
-description: 
+description: Do you often like to listen to music?
 cover: false
 ---
 <banner></banner>
@@ -19,14 +19,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- traditional
-  - consisting of or derived from tradition
+- disappointment
+  - a feeling of dissatisfaction that results when your expectations are not realized
+- currently
+  - at this time or period
+- sometimes
+  - on certain occasions or in certain cases but not always
+- releasing
+  - emotionally purging (of e.g. art)  
+- studying
+  - reading carefully with intent to remember  
 - nostalgic
   - unhappy about being away and longing for familiar things or persons  
-- audience
-  - a gathering of spectators or listeners at a (usually public) performance
-- American
-  - of or relating to the United States of America or its people or language or culture
 
 <!-- blank -->
 

@@ -1,7 +1,7 @@
 ---
 cname: teachers
 title: Teachers
-description: 
+description: Do you have a favourite teacher?
 cover: false
 ---
 <banner></banner>
@@ -14,18 +14,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- motivate
-  - give an incentive for action
-- influential
-  - having or exercising influence or power
-- difficult
-  - not easy
-- encourage
-  - contribute to the progress or growth of
 - background
   - understate the importance or quality of
-- enthusiasm
-  - a feeling of excitement  
+- favourite
+  - appealing to the general public
+- encourage
+  - contribute to the progress or growth of
+- gymnastics
+  - a sport that involves exercises intended to display strength and balance and agility  
+- understand
+  - know and comprehend the nature or meaning of
+- remember
+  - recall knowledge from memory
+- influential
+  - having or exercising influence or power
 
 <!-- blank -->
 

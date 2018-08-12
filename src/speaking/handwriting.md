@@ -1,7 +1,7 @@
 ---
 cname: handwriting
 title: Handwriting
-description: 
+description: Do you often write things?
 cover: false
 ---
 <banner></banner>
@@ -18,18 +18,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- opportunity
-  - a possibility due to a favorable combination of circumstances
-- efficient
-  - being effective without wasting time or effort or expense
-- remember
-  - recall knowledge from memory
+- literate
+  - a person who can read and write  
+- communicating
+  - the activity of communicating
+- development
+  - act of improving by expanding or enlarging or refining
 - technical
   - a pickup truck with a gun mounted on it  
-- training
-  - activity leading to skilled behavior  
-- convenience
-  - the state of being suitable or opportune
+- communication
+  - the activity of communicating
+- remember
+  - recall knowledge from memory
+- everyday
+  - found in the ordinary course of events
 
 <!-- blank -->
 

@@ -1,7 +1,7 @@
 ---
 cname: being-in-a-hurry
 title: Being in a hurry
-description: 
+description: When was your last time you did something in a hurry? Do you like to finish things quickly?
 cover: false
 ---
 <banner></banner>

@@ -1,7 +1,7 @@
 ---
 cname: friends
 title: Friends
-description: 
+description: How often do you like to hang out with friends?
 cover: false
 ---
 <banner></banner>
@@ -16,20 +16,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- Normally
-  - under normal conditions
-- kindergarten
-  - a preschool for children age 4 to 6 to prepare them for primary school  
-- frequently
-  - many times at short intervals
-- experience
-  - the accumulation of knowledge or skill that results from direct participation in events or activities
+- extrovert
+  - being concerned with the social and physical environment  
+- restaurant
+  - a building where people go to eat  
 - interesting
   - arousing or holding the attention  
-- playground
-  - an area where many people go for recreation  
+- sometimes
+  - on certain occasions or in certain cases but not always
 - together
   - mentally and emotionally stable
+- memorable
+  - worth remembering  
+- community
+  - a group of people living in a particular local area
 
 <!-- blank -->
 

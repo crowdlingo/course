@@ -1,7 +1,7 @@
 ---
 cname: maths
 title: Maths
-description: 
+description: When did you start learning maths?
 cover: false
 ---
 <banner></banner>
@@ -17,18 +17,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- incorrect
-  - not correct
-- learning
-  - the cognitive process of acquiring skill or knowledge
-- remember
-  - recall knowledge from memory
+- actually
+  - in actual fact
+- calculator
+  - an expert at calculation (or at operating calculating machines)  
+- difficult
+  - not easy
 - Therefore
   - (used to introduce a logical conclusion) from that fact or reason or as a result
-- appropriate
-  - suitable for a particular person or place or condition etc
-- calculate
-  - make a mathematical calculation or computation  
+- favourite
+  - appealing to the general public
+- complicated
+  - difficult to analyze or understand
 
 <!-- blank -->
 

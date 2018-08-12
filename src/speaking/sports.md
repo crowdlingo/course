@@ -1,7 +1,7 @@
 ---
 cname: sports
 title: Sports
-description: 
+description: Do you like to watch sports on TV?
 cover: false
 ---
 <banner></banner>
@@ -18,18 +18,22 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- dangerous
-  - involving or causing danger or risk
-- regularly
-  - in a regular manner
-- footballer
-  - an athlete who plays American football  
-- strength
-  - the property of being physically or mentally strong
-- equipment
-  - an instrumentality needed for an undertaking or to perform a service  
+- watching
+  - the act of observing
 - football
   - any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other&#39;s goal  
+- toughness
+  - enduring strength and energy  
+- Barcelona
+  - a city in northeastern Spain on the Mediterranean
+- basketball
+  - a game played on a court by two opposing teams of 5 players
+- strength
+  - the property of being physically or mentally strong
+- footballer
+  - an athlete who plays American football  
+- activity
+  - any specific behavior
 
 <!-- blank -->
 

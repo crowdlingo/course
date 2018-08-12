@@ -1,7 +1,7 @@
 ---
 cname: snacks
 title: Snacks
-description: 
+description: Do you like snacks?
 cover: false
 ---
 <banner></banner>
@@ -17,14 +17,14 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- unhealthy
-  - not in or exhibiting good health in body or mind
-- generally
-  - usually
-- perfectly
-  - completely and without qualification
 - healthier
   - improved in health or physical condition  
+- generally
+  - usually
+- sometimes
+  - on certain occasions or in certain cases but not always
+- unhealthy
+  - not in or exhibiting good health in body or mind
 - chocolate
   - a beverage made from cocoa powder and milk and sugar
 

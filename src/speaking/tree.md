@@ -1,7 +1,7 @@
 ---
 cname: tree
 title: Tree
-description: 
+description: Do you like trees?
 cover: false
 ---
 <banner></banner>
@@ -21,16 +21,22 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- Thinking
-  - endowed with the capacity to reason  
-- sycamore
-  - variably colored and sometimes variegated hard tough elastic wood of a sycamore tree  
+- lifestyle
+  - a manner of living that reflects the person&#39;s values and attitudes  
 - remember
   - recall knowledge from memory
-- supposed
-  - required or under orders
-- balanced
-  - being in a state of proper equilibrium
+- comfortable
+  - providing or experiencing physical well-being or relief (&#x60;comfy&#39; is informal)
+- hometown
+  - the town (or city) where you grew up or where you have your principal residence
+- furniture
+  - furnishings that make a room or other area ready for occupancy
+- ecosystem
+  - a system formed by the interaction of a community of organisms with their physical environment  
+- polluted
+  - rendered unwholesome by contaminants and pollution
+- sycamore
+  - variably colored and sometimes variegated hard tough elastic wood of a sycamore tree  
 
 <!-- blank -->
 

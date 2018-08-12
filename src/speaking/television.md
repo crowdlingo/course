@@ -1,14 +1,14 @@
 ---
 cname: television
 title: Television
-description: 
+description: How much TV do you usually watch?
 cover: false
 ---
 <banner></banner>
 
 ## Questions
 
-- How much TV do you (usually) watch?
+- How much TV do you usually watch?
 - What&#39;s your favourite TV programme?
 - Did you watch much TV when you were a child? (How much?)
 - What (types of) programmes did you watch when you were a child?
@@ -18,20 +18,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- Definition
-  - a concise explanation of the meaning of a word or phrase or symbol  
-- watching
-  - the act of observing
-- detrimental
-  - (sometimes followed by &#x60;to&#39;) causing harm or injury
-- football
-  - any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other&#39;s goal  
-- entertaining
-  - agreeably diverting
-- bringing
-  - the act of delivering or distributing something (as goods or mail)
 - favourite
   - appealing to the general public
+- exciting
+  - creating or arousing excitement
+- Watching
+  - the act of observing
+- programme
+  - write a computer program  
+- television
+  - broadcasting visual images of stationary or moving objects
+- childhood
+  - the time of person&#39;s life when they are a child  
 
 <!-- blank -->
 
@@ -44,7 +42,7 @@ Here are some model answers!
 Try to make up your own answers first!
 :::
 
-- How much TV do you (usually) watch?
+- How much TV do you usually watch?
   - I seldom watch TV. I only turn on the TV to watch a football match on weekends. That is once a week. I am a big fan of football so I watch a lot of football matches. It&#39;s exciting and entertaining to see how players push their limits to win the games. I also enjoy watching movies, especially when I connect my computer to the TV screen and watch movies in High Definition from my bed; it is really enjoyable at night.
 - What&#39;s your favourite TV programme?
   - Lately I have tried to watch BBC programmes, because they are all in English and it can improve my listening for my IELTS exams.

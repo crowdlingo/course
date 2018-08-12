@@ -1,7 +1,7 @@
 ---
 cname: social-network
 title: Social network
-description: 
+description: What kinds of social networking websites do you like to use?
 cover: false
 ---
 <banner></banner>
@@ -18,14 +18,14 @@ cover: false
 <vocab-list>
 - outgoing
   - leaving a place or a position
+- especially
+  - to a distinctly greater extent or degree than is common
 - sometimes
   - on certain occasions or in certain cases but not always
-- addicted
-  - compulsively or physiologically dependent on something habit-forming
-- learning
-  - the cognitive process of acquiring skill or knowledge
 - travelling
   - the act of going from one place to another
+- undeniable
+  - not possible to deny  
 
 <!-- blank -->
 

@@ -1,7 +1,7 @@
 ---
 cname: weekend
 title: Weekend
-description: 
+description: How do you usually spend your weekends?
 cover: false
 ---
 <banner></banner>
@@ -22,20 +22,14 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- Normally
-  - under normal conditions
+- horrible
+  - provoking horror
 - experience
   - the accumulation of knowledge or skill that results from direct participation in events or activities
-- remarkable
-  - unusual or striking
-- exercise
-  - put to use
-- tradition
-  - an inherited pattern of thought or action  
-- Absolutely
-  - completely and without qualification
 - exhibition
   - the act of exhibiting
+- speaking
+  - capable of or involving speech or speaking
 
 <!-- blank -->
 

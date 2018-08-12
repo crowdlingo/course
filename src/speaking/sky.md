@@ -1,7 +1,7 @@
 ---
 cname: sky
 title: Sky
-description: 
+description: Do you like to watch the sky?
 cover: false
 ---
 <banner></banner>
@@ -17,22 +17,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- especially
-  - to a distinctly greater extent or degree than is common
-- important
-  - of great significance or value
+- metropolis
+  - a large and densely populated urban area
+- pollution
+  - undesirable state of the natural environment being contaminated with harmful substances as a consequence of human activities  
+- favourite
+  - appealing to the general public
+- astronomy
+  - the branch of physics that studies celestial bodies and the universe as a whole  
+- sometimes
+  - on certain occasions or in certain cases but not always
+- industrial
+  - of or relating to or resulting from industry
 - hometown
   - the town (or city) where you grew up or where you have your principal residence
-- encyclopaedia
-  - a reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty  
-- definitely
-  - without question and beyond doubt
-- constellation
-  - an arrangement of parts or elements
-- invisible
-  - impossible or nearly impossible to see
-- knowledge
-  - the psychological result of perception and learning and reasoning  
 
 <!-- blank -->
 

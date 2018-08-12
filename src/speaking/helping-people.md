@@ -1,7 +1,7 @@
 ---
 cname: helping-people
 title: Helping people
-description: 
+description: Do you like to help others?
 cover: false
 ---
 <banner></banner>
@@ -16,18 +16,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- familiar
-  - a person attached to the household of a high official (as a pope or bishop) who renders service in return for support  
-- importance
-  - the quality of being important and worthy of note
 - important
   - of great significance or value
-- business
-  - a commercial or industrial enterprise and the people who constitute it
-- community
-  - a group of people living in a particular local area
+- kindness
+  - the quality of being warmhearted and considerate and humane and sympathetic  
+- sometimes
+  - on certain occasions or in certain cases but not always
+- building
+  - a structure that has a roof and walls and stands more or less permanently in one place
 - thankful
   - feeling or showing gratitude
+- straight
+  - without deviation
 
 <!-- blank -->
 

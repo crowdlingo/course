@@ -1,7 +1,7 @@
 ---
 cname: travelling
 title: Travelling
-description: 
+description: Do you like travelling?
 cover: false
 ---
 <banner></banner>
@@ -16,18 +16,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- beautiful
-  - delighting the senses or exciting intellectual or emotional admiration
-- historical
-  - of or relating to the study of history
+- picturesque
+  - suggesting or suitable for a picture
+- experience
+  - the accumulation of knowledge or skill that results from direct participation in events or activities
 - instance
   - clarify by giving an example of  
-- renowned
-  - widely known and esteemed
-- hospitality
-  - kindness in welcoming guests or strangers  
-- comfortable
-  - providing or experiencing physical well-being or relief (&#x60;comfy&#39; is informal)
+- memorable
+  - worth remembering  
+- indispensable
+  - not to be dispensed with
+- travelling
+  - the act of going from one place to another
 
 <!-- blank -->
 

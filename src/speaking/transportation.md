@@ -1,7 +1,7 @@
 ---
 cname: transportation
 title: Transportation
-description: 
+description: What&#39;s the most popular means of transportation in your hometown?
 cover: false
 ---
 <banner></banner>
@@ -20,16 +20,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- somewhere
-  - in or at or to some place
-- impossible
-  - something that cannot be done
-- alternative
-  - one of a number of things from which only one can be chosen
-- transportation
-  - a facility consisting of the means and equipment necessary for the movement of passengers or goods  
+- distance
+  - keep at a distance
 - obviously
   - unmistakably (&#x60;plain&#39; is often used informally for &#x60;plainly&#39;)
+- expensive
+  - high in price or charging high prices
+- impossible
+  - something that cannot be done
+- probably
+  - with considerable certainty
+- relatively
+  - in a relative manner
 
 <!-- blank -->
 

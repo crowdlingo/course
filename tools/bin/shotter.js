@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // https://github.com/GoogleChrome/puppeteer/blob/v1.7.0/docs/api.md#pagesetviewportviewport
 
 const fs = require('fs')
@@ -5,16 +7,18 @@ const fs = require('fs')
 const puppeteer = require('puppeteer')
 let log = console.log
 
-let allPages = require('./data/pagelist.json')
+let allPages = require('../data/pagelist.json')
 allPages.push('movies')
 allPages.push('free-time')
 
+allPages = allPages.slice(0, 2)
+
 const sections = [
   ['topic', 1500],
-  // ['practice', 1200],
-  // ['vocabulary', 800],
-  // ['discussion', 1200],
-  // ['answers', 1200]
+  ['questions', 350],
+  ['vocabulary', 1000],
+  ['answers', 1000],
+  ['practice', 600]
 ]
 
 async function main() {
@@ -23,7 +27,7 @@ async function main() {
 
   for (let page of allPages) {
 
-    let outDir = `../src/.vuepress/public/assets/speaking/${page}/shots`
+    let outDir = `../src/.vuepress/public/assets/shots/${page}/`
     log('outDir', outDir)
     try {
       fs.mkdirSync(outDir)

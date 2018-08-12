@@ -1,7 +1,7 @@
 ---
 cname: being-alone
 title: Being alone
-description: 
+description: Do you like to be alone?
 cover: false
 ---
 <banner></banner>
@@ -16,14 +16,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- spending
-  - the act of spending or disbursing money  
-- interruption
-  - an act of delaying or interrupting the continuity
+- interested
+  - having or showing interest
+- probably
+  - with considerable certainty
+- especially
+  - to a distinctly greater extent or degree than is common
 - business
   - a commercial or industrial enterprise and the people who constitute it
-- sleeping
-  - lying with head on paws as if sleeping  
+- interruption
+  - an act of delaying or interrupting the continuity
+- spending
+  - the act of spending or disbursing money  
 
 <!-- blank -->
 

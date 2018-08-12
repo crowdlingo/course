@@ -1,7 +1,7 @@
 ---
 cname: text-messages
 title: Text messages
-description: 
+description: Do you text someone if he doesn&#39;t answer your phone?
 cover: false
 ---
 <banner></banner>
@@ -16,16 +16,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- telephone
-  - get or try to get into communication (with someone) by telephone
-- difficulty
-  - an effort that is inconvenient
-- carefully
-  - taking care or paying attention
-- conference
-  - a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)  
 - travelling
   - the act of going from one place to another
+- conference
+  - a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)  
+- carefully
+  - taking care or paying attention
+- telephone
+  - get or try to get into communication (with someone) by telephone
+- remember
+  - recall knowledge from memory
+- difficulty
+  - an effort that is inconvenient
 
 <!-- blank -->
 

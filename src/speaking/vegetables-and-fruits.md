@@ -1,7 +1,7 @@
 ---
 cname: vegetables-and-fruits
 title: Vegetables and fruits
-description: 
+description: What&#39;s your favourite vegetable and fruit?
 cover: false
 ---
 <banner></banner>
@@ -16,18 +16,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- honourable
-  - worthy of being honored
 - different
   - unlike in nature or quality or form or degree
-- everyday
-  - found in the ordinary course of events
-- vegetable
-  - edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant  
-- medicinal
-  - having the properties of medicine
 - perfectly
   - completely and without qualification
+- nutritious
+  - of or providing nourishment
+- broccoli
+  - plant with dense clusters of tight green flower buds  
+- shopping
+  - searching for or buying goods or services
+- medicinal
+  - having the properties of medicine
 
 <!-- blank -->
 

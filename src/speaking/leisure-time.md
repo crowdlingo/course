@@ -1,7 +1,7 @@
 ---
 cname: leisure-time
 title: Leisure Time
-description: 
+description: What do you do in your spare time?
 cover: false
 ---
 <banner></banner>
@@ -19,16 +19,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- contrary
-  - a relation of direct opposition
-- different
-  - unlike in nature or quality or form or degree
-- shopping
-  - searching for or buying goods or services
-- countryside
-  - rural regions  
 - convenience
   - the state of being suitable or opportune
+- contrary
+  - a relation of direct opposition
+- discover
+  - discover or determine the existence, presence, or fact of
+- probably
+  - with considerable certainty
+- socialise
+  - take part in social activities
 
 <!-- blank -->
 

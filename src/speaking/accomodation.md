@@ -1,14 +1,14 @@
 ---
 cname: accomodation
 title: Accomodation
-description: 
+description: What kind of accommodation do you live in?
 cover: false
 ---
 <banner></banner>
 
 ## Questions
 
-- What kind of housing&#x2F;accommodation do you live in?
+- What kind of accommodation do you live in?
 - Do you live in a house or a flat?
 - Who do you live with?
 - Do you plan to live there for a long time?
@@ -18,18 +18,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- Apartment
+  - a suite of rooms usually on one floor of an apartment house  
+- apartment
+  - a suite of rooms usually on one floor of an apartment house  
 - convenient
   - suited to your comfort or purpose or needs
 - spacious
   - very large in expanse or scope
-- bookshelf
-  - a shelf on which to keep books  
-- addition
-  - a component that is added to something to improve it
 - furnished
   - provided with whatever is necessary for a purpose (as furniture or equipment or authority)
-- sometimes
-  - on certain occasions or in certain cases but not always
+- generally
+  - usually
 
 <!-- blank -->
 
@@ -42,7 +42,7 @@ Here are some model answers!
 Try to make up your own answers first!
 :::
 
-- What kind of housing&#x2F;accommodation do you live in?
+- What kind of accommodation do you live in?
   - We live in a pretty spacious apartment in Nanjing. I live on the 8th floor of a high- rise, and its size about 120 square metres. It is a fairly nice place. 
 - Do you live in a house or a flat?
   - An Apartment. Our apartment has six rooms - one living room, one kitchen, two bathrooms and another two bedrooms. All of them are well decorated and furnished. There is a big bookshelf beside my brother’s room so that my brother can easily get books to read. In addition, we have a big balcony outside so that we can enjoy eating dinner and having tea there.

@@ -46,7 +46,7 @@
 - topic: Hometown
   cname: hometown
   pairs:
-    - q: What's (the name of) your hometown (again)?
+    - q: What's the name of your hometown?
       a: 'Well, my hometown is the city of Nanjing, which is a big modern city with an ancient history -its a pretty nice place to live. The weather there is quite pleasant all year round, in winter the temperatures are quite mild but in summer it can be hot and humid'
     - q: Is that a big city or a small town?
       a: 'Although Nanjing has been developing quite a lot recently, and expanding every year, it is still a traditional Chinese City with a long history of which it is rightly proud.'
@@ -67,7 +67,7 @@
 - topic: Accomodation
   cname: accomodation
   pairs:
-    - q: What kind of housing/accommodation do you live in?
+    - q: What kind of accommodation do you live in?
       a: 'We live in a pretty spacious apartment in Nanjing. I live on the 8th floor of a high- rise, and its size about 120 square metres. It is a fairly nice place. '
     - q: Do you live in a house or a flat?
       a: An Apartment. Our apartment has six rooms - one living room, one kitchen, two bathrooms and another two bedrooms. All of them are well decorated and furnished. There is a big bookshelf beside my brother’s room so that my brother can easily get books to read. In addition, we have a big balcony outside so that we can enjoy eating dinner and having tea there.
@@ -152,7 +152,7 @@
 - topic: Television
   cname: television
   pairs:
-    - q: How much TV do you (usually) watch?
+    - q: How much TV do you usually watch?
       a: 'I seldom watch TV. I only turn on the TV to watch a football match on weekends. That is once a week. I am a big fan of football so I watch a lot of football matches. It''s exciting and entertaining to see how players push their limits to win the games. I also enjoy watching movies, especially when I connect my computer to the TV screen and watch movies in High Definition from my bed; it is really enjoyable at night.'
     - q: What's your favourite TV programme?
       a: 'Lately I have tried to watch BBC programmes, because they are all in English and it can improve my listening for my IELTS exams.'
@@ -167,7 +167,7 @@
 - topic: Museum
   cname: museum
   pairs:
-    - q: 'Are there many (or, any) museums in your hometown?'
+    - q: 'Are there many museums in your hometown?'
       a: There are a lot of museums in Nanjing because Nanjing has a central place in the history of China. It allows the local residents to know more about their traditions and historical celebrities.
     - q: Do you think museums are useful for visitors to your hometown/country?
       a: 'I go to the museums a lot, when I go to a new place, I''ll find the local museums that have interesting features. The museum I visited last time was the Guanfu Museum located in the rural area of Beijing. It is a private-owned museum featuring Chinese antiques like porcelain, furniture, jade and some paintings.'
@@ -593,7 +593,7 @@
 - topic: History
   cname: history
   pairs:
-    - q: Do you like (to learn about) history?
+    - q: Do you like to learn about history?
       a: 'Yes, I am a big fan of reading historical stories. When I was a little boy, I always took the historical books from my father''s bookshelf and read about historical events. I feel that history not only helps me learn, but also gives me a better understanding of human society.'
     - q: What historical event do you find most interesting?
       a: Personally I am fond of the Battle of Red Cliffs which happened during the early period of the Three Kingdoms. This was a decisive battle at the end of the Han Dynasty. It was also a typical battle in Chinese history renowned for a smaller and weaker army defeating a larger and stronger foe.
@@ -678,7 +678,7 @@
 - topic: Colours
   cname: colours
   pairs:
-    - q: What's your favourite colour?
+    - q: What is your favourite colour?
       a: 'My favourite colour is blue; for me it is the colour of depth and stability. Blue symbolises wisdom, confidence and intelligence. I don''t like the pink because it is too girly.'
     - q: Are there any colours you dislike (Why?)
       a: 'I suppose so. You know, different colours convey different meaning to people. Red represents passion and enthusiasm while green can be energetic. So I always choose the most suitable colours for things.'

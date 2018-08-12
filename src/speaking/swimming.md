@@ -1,7 +1,7 @@
 ---
 cname: swimming
 title: Swimming
-description: 
+description: Can you swim?
 cover: false
 ---
 <banner></banner>
@@ -15,9 +15,11 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- compulsory
+  - required by rule
+- important
+  - of great significance or value
 - swimming
-  - the act of swimming
-- Swimming
   - the act of swimming
 
 <!-- blank -->

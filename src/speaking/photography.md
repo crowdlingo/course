@@ -1,7 +1,7 @@
 ---
 cname: photography
 title: Photography
-description: 
+description: Do you like to take photographs?
 cover: false
 ---
 <banner></banner>
@@ -18,20 +18,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- ceremony
-  - a formal event performed on a special occasion
-- embarrassed
-  - feeling or caused to feel ill at ease or self-conscious or ashamed
-- twilight
-  - lighted by or as if by twilight
-- happiness
-  - state of well-being characterized by emotions ranging from contentment to intense joy  
-- precious
-  - extremely
+- characteristic
+  - typical or distinctive
 - graduation
   - the successful completion of a program of study  
-- Normally
-  - under normal conditions
+- twilight
+  - lighted by or as if by twilight
+- together
+  - mentally and emotionally stable
+- probably
+  - with considerable certainty
+- embarrassed
+  - feeling or caused to feel ill at ease or self-conscious or ashamed
+- positive
+  - the primary form of an adjective or adverb
 
 <!-- blank -->
 

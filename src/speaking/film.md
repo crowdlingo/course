@@ -1,7 +1,7 @@
 ---
 cname: film
 title: Film
-description: 
+description: Do you like to watch films?
 cover: false
 ---
 <banner></banner>
@@ -18,20 +18,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- remember
-  - recall knowledge from memory
-- attractive
-  - pleasing to the eye or mind especially through beauty or charm
 - particularly
   - to a distinctly greater extent or degree than is common
-- soundtrack
-  - sound recording on a narrow strip of a motion picture film  
-- charismatic
-  - possessing an extraordinary ability to attract
+- terrific
+  - very great or intense
+- watching
+  - the act of observing
+- remember
+  - recall knowledge from memory
 - heartfelt
   - sincerely earnest
-- especially
-  - to a distinctly greater extent or degree than is common
 
 <!-- blank -->
 

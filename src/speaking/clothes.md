@@ -1,7 +1,7 @@
 ---
 cname: clothes
 title: Clothes
-description: 
+description: What clothes do you usually like to wear?
 cover: false
 ---
 <banner></banner>
@@ -17,22 +17,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- colourful
-  - striking in variety and interest
 - definitely
   - without question and beyond doubt
-- comfortable
-  - providing or experiencing physical well-being or relief (&#x60;comfy&#39; is informal)
+- instinct
+  - (followed by &#x60;with&#39;) deeply filled or permeated
 - fashioned
   - planned and made or fashioned artistically
-- sometimes
-  - on certain occasions or in certain cases but not always
-- reluctant
-  - unwillingness to do something contrary to your custom
+- colourful
+  - striking in variety and interest
+- actually
+  - in actual fact
 - addition
   - a component that is added to something to improve it
-- Australia
-  - a nation occupying the whole of the Australian continent
 
 <!-- blank -->
 

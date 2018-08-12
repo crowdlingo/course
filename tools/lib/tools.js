@@ -177,6 +177,7 @@ const Tools = {
         page.words = Tools.findLongWords(page)
       }
       page.vocab = await Tools.buildVocab(page.words)
+      page.description = page.description || page.pairs[0].q
     }
 
     let dump = yaml.dump(doc, {

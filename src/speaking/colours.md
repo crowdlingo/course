@@ -1,14 +1,14 @@
 ---
 cname: colours
 title: Colours
-description: 
+description: What is your favourite colour?
 cover: false
 ---
 <banner></banner>
 
 ## Questions
 
-- What&#39;s your favourite colour?
+- What is your favourite colour?
 - Are there any colours you dislike (Why?)
 - Are colours important to you?
 - Were colours important to you when you were a child?
@@ -19,20 +19,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- mysterious
-  - of an obscure nature
-- suitable
-  - meant or adapted for an occasion or use
-- tranquil
-  - (of a body of water) free from disturbance by heavy waves
-- highlight
-  - move into the foreground to make more visible or prominent
-- confidence
-  - freedom from doubt
+- enthusiasm
+  - a feeling of excitement  
+- generation
+  - all the people living at the same time or of approximately the same age  
+- probably
+  - with considerable certainty
 - energetic
   - possessing or exerting or displaying energy
-- professionalism
-  - the expertness characteristic of a professional person  
+- favourite
+  - appealing to the general public
+- rebellious
+  - resisting control or authority
+- tranquil
+  - (of a body of water) free from disturbance by heavy waves
 
 <!-- blank -->
 
@@ -45,7 +45,7 @@ Here are some model answers!
 Try to make up your own answers first!
 :::
 
-- What&#39;s your favourite colour?
+- What is your favourite colour?
   - My favourite colour is blue; for me it is the colour of depth and stability. Blue symbolises wisdom, confidence and intelligence. I don&#39;t like the pink because it is too girly.
 - Are there any colours you dislike (Why?)
   - I suppose so. You know, different colours convey different meaning to people. Red represents passion and enthusiasm while green can be energetic. So I always choose the most suitable colours for things.

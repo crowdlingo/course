@@ -1,14 +1,14 @@
 ---
 cname: history
 title: History
-description: 
+description: Do you like to learn about history?
 cover: false
 ---
 <banner></banner>
 
 ## Questions
 
-- Do you like (to learn about) history?
+- Do you like to learn about history?
 - What historical event do you find most interesting?
 - Do you think history is important?
 - Do you like to watch programmes on TV about history?
@@ -19,18 +19,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- interesting
+  - arousing or holding the attention  
 - renowned
   - widely known and esteemed
-- decisive
-  - determining or having the power to determine an outcome
-- possible
-  - something that can be done
-- identity
-  - the distinct personality of an individual regarded as a persisting entity
-- understanding
-  - characterized by understanding based on comprehension and discernment and empathy
-- Personally
-  - as yourself
+- personality
+  - the complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual
+- historical
+  - of or relating to the study of history
+- watching
+  - the act of observing
 
 <!-- blank -->
 
@@ -43,7 +41,7 @@ Here are some model answers!
 Try to make up your own answers first!
 :::
 
-- Do you like (to learn about) history?
+- Do you like to learn about history?
   - Yes, I am a big fan of reading historical stories. When I was a little boy, I always took the historical books from my father&#39;s bookshelf and read about historical events. I feel that history not only helps me learn, but also gives me a better understanding of human society.
 - What historical event do you find most interesting?
   - Personally I am fond of the Battle of Red Cliffs which happened during the early period of the Three Kingdoms. This was a decisive battle at the end of the Han Dynasty. It was also a typical battle in Chinese history renowned for a smaller and weaker army defeating a larger and stronger foe.

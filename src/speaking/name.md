@@ -1,7 +1,7 @@
 ---
 cname: name
 title: Name
-description: 
+description: Who gave you your name?
 cover: false
 ---
 <banner></banner>
@@ -18,14 +18,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- important
-  - of great significance or value
-- magnanimous
-  - noble and generous in spirit
+- accumulation
+  - an increase by natural growth or addition  
+- particular
+  - a fact about some part (as opposed to general)
+- Sometimes
+  - on certain occasions or in certain cases but not always
+- knowledgeable
+  - highly educated
 - pressure
   - to cause to do through pressure or necessity, by physical, moral or intellectual means
-- classical
-  - traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste  
 
 <!-- blank -->
 

@@ -1,7 +1,7 @@
 ---
 cname: sleep
 title: Sleep
-description: 
+description: How many hours do you sleep every day?
 cover: false
 ---
 <banner></banner>
@@ -18,20 +18,22 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- afternoon
-  - the part of the day between noon and evening
-- wherever
-  - where in the world  
-- dinnertime
-  - the customary or habitual hour for the evening meal  
-- hometown
-  - the town (or city) where you grew up or where you have your principal residence
-- physical
-  - involving the body as distinguished from the mind or spirit
+- recharge
+  - load anew
 - normally
   - under normal conditions
+- dinnertime
+  - the customary or habitual hour for the evening meal  
+- consequently
+  - (sentence connectors) because of the reason given
+- comfortable
+  - providing or experiencing physical well-being or relief (&#x60;comfy&#39; is informal)
+- afternoon
+  - the part of the day between noon and evening
 - important
   - of great significance or value
+- beneficial
+  - promoting or enhancing well-being
 
 <!-- blank -->
 

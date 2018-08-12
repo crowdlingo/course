@@ -1,7 +1,7 @@
 ---
 cname: countryside
 title: Countryside
-description: 
+description: Would you like to live in the countryside in the future?
 cover: false
 ---
 <banner></banner>
@@ -16,14 +16,14 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- exercise
+  - put to use
+- Absolutely
+  - completely and without qualification
 - countryside
   - rural regions  
 - significantly
   - in a statistically significant way
-- pollution
-  - undesirable state of the natural environment being contaminated with harmful substances as a consequence of human activities  
-- exposure
-  - vulnerability to the elements
 
 <!-- blank -->
 

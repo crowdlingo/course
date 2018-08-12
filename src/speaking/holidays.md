@@ -1,7 +1,7 @@
 ---
 cname: holidays
 title: Holidays
-description: 
+description: What public holidays do you have in your country?
 cover: false
 ---
 <banner></banner>
@@ -17,20 +17,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- personally
-  - as yourself
 - Christmas
   - period extending from Dec. 24 to Jan. 6  
+- together
+  - mentally and emotionally stable
 - favourite
   - appealing to the general public
-- travelling
-  - the act of going from one place to another
-- advantage
-  - give an advantage to
-- celebrate
-  - behave as expected during of holidays or rites
-- Festival
-  - a day or period of time set aside for feasting and celebration  
+- important
+  - of great significance or value
+- personally
+  - as yourself
 
 <!-- blank -->
 

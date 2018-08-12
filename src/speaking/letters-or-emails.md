@@ -1,7 +1,7 @@
 ---
 cname: letters-or-emails
 title: Letters or Emails
-description: 
+description: Do you write many letters or emails?
 cover: false
 ---
 <banner></banner>
@@ -19,16 +19,14 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- traditional
-  - consisting of or derived from tradition
-- receiver
-  - set that receives radio or tv signals  
-- conversation
-  - the use of speech for informal exchange of views or ideas or information etc.  
 - probably
   - with considerable certainty
-- personal
-  - a short newspaper article about a particular person or group  
+- compliment
+  - a remark (or act) expressing praise and admiration  
+- impersonal
+  - not relating to or responsive to individual persons
+- handwritten
+  - written by hand  
 
 <!-- blank -->
 

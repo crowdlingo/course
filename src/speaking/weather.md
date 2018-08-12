@@ -1,7 +1,7 @@
 ---
 cname: weather
 title: Weather
-description: 
+description: What&#39;s the weather like today?
 cover: false
 ---
 <banner></banner>
@@ -21,20 +21,22 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- indicator
-  - a number or ratio (a value on a scale of measurement) derived from a series of observed facts
-- photography
-  - the act of taking and printing photographs  
-- pleasant
-  - affording pleasure
+- primarily
+  - for the most part
+- suitable
+  - meant or adapted for an occasion or use
+- physical
+  - involving the body as distinguished from the mind or spirit
+- conditioning
+  - a learning process in which an organism&#39;s behavior becomes dependent on the occurrence of a stimulus in its environment  
+- snowball
+  - increase or accumulate at a rapidly accelerating rate  
+- watchful
+  - engaged in or accustomed to close observation
 - different
   - unlike in nature or quality or form or degree
 - Actually
   - in actual fact
-- swimming
-  - the act of swimming
-- oppressive
-  - weighing heavily on the senses or spirit
 
 <!-- blank -->
 

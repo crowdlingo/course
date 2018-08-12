@@ -1,14 +1,14 @@
 ---
 cname: museum
 title: Museum
-description: 
+description: Are there many museums in your hometown?
 cover: false
 ---
 <banner></banner>
 
 ## Questions
 
-- Are there many (or, any) museums in your hometown?
+- Are there many museums in your hometown?
 - Do you think museums are useful for visitors to your hometown&#x2F;country?
 - Do you often visit a museum?
 - Did you go to any museums when you were a child?
@@ -16,14 +16,12 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- nonprofit
-  - not commercially motivated  
 - generally
   - usually
-- numerous
-  - amounting to a large indefinite number
 - furniture
   - furnishings that make a room or other area ready for occupancy
+- hometown
+  - the town (or city) where you grew up or where you have your principal residence
 
 <!-- blank -->
 
@@ -36,7 +34,7 @@ Here are some model answers!
 Try to make up your own answers first!
 :::
 
-- Are there many (or, any) museums in your hometown?
+- Are there many museums in your hometown?
   - There are a lot of museums in Nanjing because Nanjing has a central place in the history of China. It allows the local residents to know more about their traditions and historical celebrities.
 - Do you think museums are useful for visitors to your hometown&#x2F;country?
   - I go to the museums a lot, when I go to a new place, I&#39;ll find the local museums that have interesting features. The museum I visited last time was the Guanfu Museum located in the rural area of Beijing. It is a private-owned museum featuring Chinese antiques like porcelain, furniture, jade and some paintings.

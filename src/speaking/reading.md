@@ -1,7 +1,7 @@
 ---
 cname: reading
 title: Reading
-description: 
+description: Do you like reading books? Why or why not?
 cover: false
 ---
 <banner></banner>
@@ -17,20 +17,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- articulate
-  - expressing yourself easily or characterized by clear expressive language
-- development
-  - act of improving by expanding or enlarging or refining
-- knowledge
-  - the psychological result of perception and learning and reasoning  
-- visiting
-  - the activity of making visits
-- communication
-  - the activity of communicating
-- numerous
-  - amounting to a large indefinite number
-- bookshelf
-  - a shelf on which to keep books  
+- learning
+  - the cognitive process of acquiring skill or knowledge
+- historical
+  - of or relating to the study of history
+- remember
+  - recall knowledge from memory
+- linguistic
+  - consisting of or related to language
+- autobiography
+  - a biography of yourself  
+- different
+  - unlike in nature or quality or form or degree
 
 <!-- blank -->
 

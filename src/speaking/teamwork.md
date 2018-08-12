@@ -1,7 +1,7 @@
 ---
 cname: teamwork
 title: Teamwork
-description: 
+description: When was your last time worked with a team?
 cover: false
 ---
 <banner></banner>
@@ -16,18 +16,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- warehouse
-  - store in a warehouse  
-- specific
-  - a fact about some part (as opposed to general)
-- analysis
-  - an investigation of the component parts of a whole and their relations in making up the whole  
-- responsibility
-  - the social force that binds you to the courses of action demanded by that force
-- Personally
-  - as yourself
+- important
+  - of great significance or value
+- graduate
+  - of or relating to studies beyond a bachelor&#39;s degree
 - teamwork
   - cooperative work done by a team (especially when it is effective)
+- international
+  - any of several international socialist organizations  
+- deciding
+  - having the power or quality of deciding
+- warehouse
+  - store in a warehouse  
+- assignment
+  - a duty that you are assigned to perform (especially in the armed forces)
 
 <!-- blank -->
 

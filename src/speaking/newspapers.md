@@ -1,7 +1,7 @@
 ---
 cname: newspapers
 title: Newspapers
-description: 
+description: Do you often read newspapers?
 cover: false
 ---
 <banner></banner>
@@ -22,12 +22,14 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- sometimes
-  - on certain occasions or in certain cases but not always
-- education
-  - the activities of educating or instructing
-- interested
-  - having or showing interest
+- international
+  - any of several international socialist organizations  
+- attention
+  - the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others  
+- indispensable
+  - not to be dispensed with
+- Moreover
+  - in addition
 
 <!-- blank -->
 

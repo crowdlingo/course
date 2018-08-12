@@ -1,7 +1,7 @@
 ---
 cname: hanging-out-with-friends
 title: Hanging out with friends
-description: 
+description: How often do you like to hang out with friends?
 cover: false
 ---
 <banner></banner>
@@ -16,20 +16,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- interesting
+  - arousing or holding the attention  
+- extrovert
+  - being concerned with the social and physical environment  
+- memorable
+  - worth remembering  
+- Actually
+  - in actual fact
 - together
   - mentally and emotionally stable
 - different
   - unlike in nature or quality or form or degree
-- extrovert
-  - being concerned with the social and physical environment  
-- community
-  - a group of people living in a particular local area
-- memorable
-  - worth remembering  
-- kindergarten
-  - a preschool for children age 4 to 6 to prepare them for primary school  
-- sociable
-  - a party of people assembled to promote sociability and communal activity  
 
 <!-- blank -->
 
