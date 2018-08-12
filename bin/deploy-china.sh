@@ -1,7 +1,7 @@
 # http://tutorweb.rikai-bots.com/static/assets/check.html
 
 DEPLOY_LOGIN="ubuntu@www.rikai-bots.com"
-DEPLOY_DIR=/opt/rikai/web-apps/tutorweb/public/static/course
+DEPLOY_DIR=/opt/rikai/web-apps/tutorweb/course
 SOURCE_DIR=docs
 
 set -x
@@ -22,4 +22,4 @@ syncRemote
 
 echo "DONE!"
 
-echo "find here: http://tutorweb.rikai-bots.com/static/assets/"
+echo "find here: http://tutorweb.rikai-bots.com/course/"

@@ -1,7 +1,12 @@
 module.exports = {
   title: 'CrowdLingo',
   description: 'speak with your friends',
-  base: "/static/course/",
+  base: "/course/",
+
+  app: {
+    showqr: false,
+    qrpath: ''
+  },
 
   themeConfig: {
     // displayAllHeaders: true,
