@@ -3,11 +3,6 @@ cname: {{cname}}
 title: {{topic}}
 description: {{description}}
 cover: false
-
-vocab:
-{{#vocab}}
-  - {{.}}
-{{/vocab}}
 ---
 <banner></banner>
 
@@ -19,7 +14,15 @@ vocab:
 
 ## Vocabulary
 
-<vocab-box></vocab-box>
+<vocab-list>
+{{#vocab}}
+- {{en}}
+  - {{def}}
+{{/vocab}}
+
+<!-- blank -->
+
+</vocab-list>
 
 ## Answers
 

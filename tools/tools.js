@@ -3,14 +3,17 @@ const fs   = require('fs')
 const path = require('path')
 const Mustache = require('mustache')
 const log = console.log
-const YAMLPATH = './data/lessonDataInput.yaml'
+
+
+const inputYaml = './data/lessonDataInput.yaml'  // hand edit
+const outputYaml = './data/lessonDataOutput.yaml'   // auto generated output
 
 const ConceptNet = require( 'concept-net' )
 let conceptNet = ConceptNet(null, null, '5.3')
 // let conceptNet = ConceptNet()
 
-
-// const natural = require('natural')
+const natural = require('natural')
+// const wordnet = new natural.WordNet()
 
 const WordPOS = require('wordpos')
 const wordpos = new WordPOS()
@@ -27,9 +30,15 @@ const Tools = {
     }
   },
 
-  readYaml() {
+  readYaml(which) {
+    let yamlPath
+    if (which === 'input') {
+      yamlPath = inputYaml
+    } else {
+      yamlPath = outputYaml
+    }
     try {
-      let doc = yaml.safeLoad(fs.readFileSync(YAMLPATH, 'utf8'))
+      let doc = yaml.safeLoad(fs.readFileSync(yamlPath, 'utf8'))
       return doc
       // console.log(doc)
     } catch (e) {
@@ -57,25 +66,86 @@ const Tools = {
   //   return items
   // }
 
-  cleanDoc() {
-    let doc = Tools.readYaml()
-    doc = doc.map( item => {
-      item.pairs = item.pairs.map( pair => {
-        pair.a = pair.a || '...'  // needed for .md formatting
-        return pair
-      })
-      return item
+  checkPairs(pairs) {
+    pairs = pairs.map( pair => {
+      pair.a = pair.a || '...'  // needed for .md formatting
+      return pair
     })
+    return pairs
+  },
+
+  async buildVocab(words) {
+    if (!words) {
+      return []
+    }
+    let vocab = []
+    for (let word of words) {
+      let obj = await Tools.checkWord(word)
+      vocab.push(obj)
+    }
+    log('vocab', vocab)
+    return vocab
+  },
+
+  async checkWord(word) {
+    let stem = natural.LancasterStemmer.stem(word)
+    if(word !== stem) {
+      log("stemmed", word, " => ", stem)
+    }
+    let result = await wordpos.lookup(word)
+    log(result)
+    // TODO - somehow judge which one to use?
+    let first = result[0]
+    if (!first) {
+      console.error('no result for ', word, stem)
+      return {
+        en: stem
+      }
+    }
+    let syns
+    if (first.synonyms) {
+      syns = first.synonyms.filter(elem => elem !== word )
+    }
+    // let pos = first.lexName ? first.lexName.split('.').shift() : ''
+    let obj = {
+      en: word,
+      stem: stem,
+      pos: first.pos,
+      syns: syns,
+      def: first.def
+    }
+    log('obj', obj)
+    return obj
+    // wordpos.lookup(word, function(res) {
+    //   log('word', res)
+    // })
+    // wordpos.getAdjectives('The angry bear chased the frightened little squirrel.', function(result){
+    //   console.log(JSON.stringify(result))
+    // })
+    // wordpos.lookup('accomodation', function(result){
+    //   // console.log(result)
+    //   console.log(JSON.stringify(result, null, 2))
+    // })
+  },
+
+  // clean and process
+  async parseYaml() {
+    let doc = Tools.readYaml('input')
+    for (let page of doc) {
+      // page.pairs = Tools.checkPairs(page.pairs)
+      page.vocab = await Tools.buildVocab(page.words)
+    }
+
     let dump = yaml.dump(doc, {
       sortKeys: false,
       lineWidth: 20000
     })
-    console.log(dump)
-
+    dump = "# DO NOT EDIT - auto generated file \n" + dump
+    fs.writeFileSync(outputYaml, dump)
   },
 
   async renderPages() {
-    let items = Tools.readYaml()
+    let items = Tools.readYaml('output')
     let template = fs.readFileSync('./data/speaking.mustache', 'utf8')
     Mustache.parse(template)
 
@@ -98,29 +168,6 @@ const Tools = {
     fs.writeFileSync('./data/pagelist.json', JSON.stringify(pageList, null, 2))
   },
 
-  // async findVocab() {
-  //   let pages = Tools.readYaml()
-  //   let page = pages[1]
-  //   var wordnet = new natural.WordNet()
-  //   for (let pair of page.pairs) {
-  //     let words = pair.q.split(' ')
-  //     log(words)
-  //   }
-  // },
-
-  async checkWord(word) {
-    // wordpos.lookup(word, function(res) {
-    //   log('word', res)
-    // })
-    // wordpos.getAdjectives('The angry bear chased the frightened little squirrel.', function(result){
-    //   console.log(JSON.stringify(result))
-    // })
-
-    wordpos.lookup('accomodation', function(result){
-      // console.log(result)
-      console.log(JSON.stringify(result, null, 2))
-    })
-  },
 
   async checkIdea(word) {
 
@@ -146,12 +193,12 @@ const Tools = {
 
 module.exports = Tools
 
-// Tools.cleanDoc()
+// Tools.parseYaml()
 
-// Tools.renderPages()
+Tools.renderPages()
+
+
 // Tools.findVocab()
+// Tools.checkWord('major')
+// Tools.checkIdea('accomodation')
 
-Tools.checkWord('apartment')
-Tools.checkIdea('accomodation')
-
-// cleanDoc()

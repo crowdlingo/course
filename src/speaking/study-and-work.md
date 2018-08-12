@@ -3,15 +3,6 @@ cname: study-and-work
 title: Study and Work
 description: Talking about your job or college life.
 cover: false
-
-vocab:
-  - popular
-  - subjects
-  - choose
-  - favorite
-  - classes
-  - currently
-  - no doubt
 ---
 <banner></banner>
 
@@ -25,7 +16,25 @@ vocab:
 
 ## Vocabulary
 
-<vocab-box></vocab-box>
+<vocab-list>
+- popular
+  - regarded with great favor, approval, or affection especially by the general public
+- currently
+  - at this time or period
+- subject
+  - possibly accepting or permitting
+- major
+  - have as one&#39;s principal field of study
+- doubt
+  - consider unlikely or have doubts about
+- really
+  - in accordance with truth or fact or reality
+- focus
+  - direct one&#39;s attention on something
+
+<!-- blank -->
+
+</vocab-list>
 
 ## Answers
 

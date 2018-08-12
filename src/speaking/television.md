@@ -3,8 +3,6 @@ cname: television
 title: Television
 description: 
 cover: false
-
-vocab:
 ---
 <banner></banner>
 
@@ -19,7 +17,11 @@ vocab:
 
 ## Vocabulary
 
-<vocab-box></vocab-box>
+<vocab-list>
+
+<!-- blank -->
+
+</vocab-list>
 
 ## Answers
 

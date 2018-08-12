@@ -3,8 +3,6 @@ cname: holidays
 title: Holidays
 description: 
 cover: false
-
-vocab:
 ---
 <banner></banner>
 
@@ -22,7 +20,11 @@ vocab:
 
 ## Vocabulary
 
-<vocab-box></vocab-box>
+<vocab-list>
+
+<!-- blank -->
+
+</vocab-list>
 
 ## Answers
 

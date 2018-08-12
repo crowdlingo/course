@@ -1,3 +1,4 @@
+# DO NOT EDIT - auto generated file 
 - topic: Name
   cname: name
   pairs:
@@ -19,9 +20,9 @@
       a: ...
     - q: What names are most common in your hometown?
       a: ...
+  vocab: []
 - topic: Study and Work
   description: Talking about your job or college life.
-  # enter words, app will look up definitions etc
   words:
     - popular
     - currently
@@ -43,6 +44,52 @@
       a: I would love to go to XXXXXX University – I have an offer for that university right now but of course I need to get a good IELTS score.
     - q: What are your favourite classes/ courses/ subjects?
       a: My favorite class is computing. You know many students like to play computer games so there is no doubt that people are into that subject.
+  vocab:
+    - en: popular
+      stem: popul
+      pos: a
+      syns: []
+      def: 'regarded with great favor, approval, or affection especially by the general public'
+    - en: currently
+      stem: cur
+      pos: r
+      syns:
+        - presently
+      def: at this time or period
+    - en: subject
+      stem: subject
+      pos: s
+      syns:
+        - capable
+        - open
+      def: possibly accepting or permitting
+    - en: major
+      stem: mas
+      pos: v
+      syns: []
+      def: have as one's principal field of study
+    - en: doubt
+      stem: doubt
+      pos: v
+      syns: []
+      def: consider unlikely or have doubts about
+    - en: really
+      stem: real
+      pos: r
+      syns:
+        - truly
+        - genuinely
+      def: in accordance with truth or fact or reality
+    - en: focus
+      stem: foc
+      pos: v
+      syns:
+        - concentrate
+        - center
+        - centre
+        - pore
+        - rivet
+      def: direct one's attention on something
 - topic: Hometown
   cname: hometown
   pairs:
@@ -64,17 +111,18 @@
       a: ...
     - q: Do you think you will continue living there for a long time?
       a: ...
+  vocab: []
 - topic: Accomodation
   cname: accomodation
   pairs:
     - q: What kind of housing/accommodation do you live in?
       a: 'We live in a pretty spacious apartment in Nanjing. I live on the 8th floor of a high- rise, and its size about 120 square metres. It is a fairly nice place. '
     - q: Do you live in a house or a flat?
-      a: An Apartment. Our apartment has six rooms - one living room, one kitchen, two bathrooms and another two bedrooms. All of them are well decorated and furnished. There is a big bookshelf beside my brother’s room so that my brother can easily get books to read. In addition, we have a big balcony outside so that we can enjoy eating dinner and having tea there.
+      a: 'An Apartment. Our apartment has six rooms - one living room, one kitchen, two bathrooms and another two bedrooms. All of them are well decorated and furnished. There is a big bookshelf beside my brother’s room so that my brother can easily get books to read. In addition, we have a big balcony outside so that we can enjoy eating dinner and having tea there.'
     - q: Who do you live with?
-      a: 'I live with my mum and dad and my brother. Our apartment is pretty big so there is enough space for everyone.'
+      a: I live with my mum and dad and my brother. Our apartment is pretty big so there is enough space for everyone.
     - q: Do you plan to live there for a long time?
-      a: We bought the apartment four years ago. And my brother is in the school near my home, so we won''t intend to move in the future.'
+      a: 'We bought the apartment four years ago. And my brother is in the school near my home, so we won''''t intend to move in the future.'''
     - q: Are the transport facilities to your home very good?
       a: 'We sometimes go out by car because it is not convenient to take a taxi in that area, and it takes nearly 30 minutes to walk to the nearest subway station. So generally speaking, it is not good to go out without a car.'
     - q: What part of your home do you like the most?
@@ -87,6 +135,7 @@
       a: ...
     - q: Please describe the room you live in?
       a: ...
+  vocab: []
 - topic: Weather
   cname: weather
   pairs:
@@ -128,6 +177,7 @@
       a: ...
     - q: 'Would you prefer to live in a place that has just one, warm season that'
       a: ...
+  vocab: []
 - topic: Punctuality
   cname: punctuality
   pairs:
@@ -145,6 +195,7 @@
       a: 'I guess the best thing to do would be to always allow lots of time to get anywhere. So for example, if it normally takes me, say, half an hour to get to the city centre, then I should probably leave home about an hour before I need to get there.'
     - q: 'If you could go back in time, what would you do differently?'
       a: (If yes) Yeah I do - you can see it right here!
+  vocab: []
 - topic: Television
   cname: television
   pairs:
@@ -160,6 +211,7 @@
       a: 'Yes, as the techniques have advanced in these years, the TV has also developed a lot. They have become thinner and clearer to be exact. I remember those old TV screens were made with a plasma panel, making the whole TV heavy and big. Then LCD technology and the LED display came out making the TV thinner and lighter so we can enjoy brighter and clearer programmes.'
     - q: Has television changed your life in any way?
       a: 'I believe that watching TV has benefited me in some way, as well as bringing me some detrimental consequences. Watching TV programmes had enabled me to broaden my horizons as I was born and raised in a small county and there were many places and things I had no opportunities to experience. But the TV had helped me to see them. But spending too much time in front of TV also made meaddicted to it and unfortunately harmed my eyes. So I’ve had to wear glasses since middle school'
+  vocab: []
 - topic: Museum
   cname: museum
   pairs:
@@ -177,6 +229,7 @@
       a: ...
     - q: Do you think it's suitable for museums to sell things to visitors?
       a: ...
+  vocab: []
 - topic: Holidays
   cname: holidays
   pairs:
@@ -198,6 +251,7 @@
       a: ...
     - q: Do you think there should be more public holidays in your country?
       a: ...
+  vocab: []
 - topic: Film
   cname: film
   pairs:
@@ -213,6 +267,7 @@
       a: 'As for me, I like drama films the best because sometimes they just tell simple but warm and heartfelt stories with provoking and often emotional endings which touch me a lot.'
     - q: What was the first film that you watched?
       a: 'The first film that I watched was the Lion King many years ago in the cinema with my parents. What I can remember now is the terrific animation and the amazing soundtrack. I particularly liked the song Can You Feel the Love Tonight that I knew it was produced by Elton John. And I''ve learned lessons from this movie. It is about living up to our responsibilities, no matter how hard it is.'
+  vocab: []
 - topic: Leisure Time
   cname: leisure-time
   pairs:
@@ -242,6 +297,7 @@
       a: ...
     - q: 'If you had a child, what leisure places would you go to with your child?'
       a: ...
+  vocab: []
 - topic: Sports
   cname: sports
   pairs:
@@ -257,6 +313,7 @@
       a: 'Well, I guess what I''ll try in the future is tennis because it can help me build strength and can improve my flexibility and balance. Besides, tennis is a social activity too; it''s a sport I can enjoy with friends if I play regularly.'
     - q: Have you ever tried any dangerous sports?
       a: 'Oh, no, though my life is quite a bit boring, I''m too scared to do any extreme sports because I don''t think I have enough guts to put myself in these difficult situations.'
+  vocab: []
 - topic: Vegetables and fruits
   cname: vegetables-and-fruits
   pairs:
@@ -268,6 +325,7 @@
       a: 'Oh yes, there are loquat trees everywhere in my hometown. Loquat is very sweet and has lots of nutrition and is actually medicinal too.'
     - q: Should we eat vegetables every day?
       a: 'We really need to eat vegetables everyday because you simply cannot find another food group that is as perfectly matched to our everyday human needs. There are various proteins, fibre and vitamin that cannot be found in other foods such as meat.'
+  vocab: []
 - topic: Maths
   cname: maths
   pairs:
@@ -283,6 +341,7 @@
       a: 'No, actually we were not allowed to use the calculator in class or exams because we were asked to calculate the results with pencil and paper. Therefore I''m not that used to using a calculator now.'
     - q: Do you like to use a calculator?
       a: ...
+  vocab: []
 - topic: Sky
   cname: sky
   pairs:
@@ -298,6 +357,7 @@
       a: 'My favourite star constellation is Orion. It''s very easy to spot on winter nights. Firstly, it has a huge red giant star, which may explode any time soon. Besides, it has a massive blue star which is very young. On top of that it also has a big nebula where new stars are being born - so it has everything!'
     - q: What's your favourite star?
       a: ...
+  vocab: []
 - topic: Clothes
   cname: clothes
   pairs:
@@ -311,6 +371,7 @@
       a: 'Yes, when I was a child, I needed to wear a uniform at school from primary school all the way to the very last year of high school; it is a tradition in China, so I believe my parents had to follow this tradition too.'
     - q: Did you like them?
       a: 'No, I really couldn''t stand the school uniform because the clothes were a bit too old- fashioned; in addition, sometimes I was reluctant to wear them because they were too large. I don’t know why they couldn''t be a bit more trendy and colourful like the ones in other countries, like Japan and Australia.'
+  vocab: []
 - topic: Weekend
   cname: weekend
   pairs:
@@ -336,6 +397,7 @@
       a: 'Yes, the main factor is that after five-days of hard work, I really need some leisure time to let off steam, or travel around to experience the countryside. Whereas, when I was a kid, I had plenty of time to play, every day was almost the same.'
     - q: Do you feel that weekends now are more important to you than when you were a child?
       a: ...
+  vocab: []
 - topic: Reading
   cname: reading
   pairs:
@@ -353,6 +415,7 @@
       a: ...
     - q: What do you think are the benefits of reading to children?
       a: ...
+  vocab: []
 - topic: Sleep
   cname: sleep
   pairs:
@@ -368,6 +431,7 @@
       a: 'Yes, getting up early in the morning is really beneficial for our health, because we can enjoy the fresh air in the morning; besides we have plenty of time to do some physical exercises liking running and jogging. In the morning I can also prepare a good dinner for the family.'
     - q: Can you sleep well if you are in a noisy environment?
       a: 'Well, I''m afraid that at night I can''t fall asleep in such a noisy place what with barking dogs, loud neighbours and city traffic. This is because I used to sleep in my quiet hometown when I was a kid. So sometimes I envy people who have grown accustomed to environmental noise and can sleep well wherever they lay their head.'
+  vocab: []
 - topic: Tree
   cname: tree
   pairs:
@@ -397,6 +461,7 @@
       a: ...
     - q: Do you think we need to protect trees?
       a: ...
+  vocab: []
 - topic: Newspapers
   cname: newspapers
   pairs:
@@ -428,6 +493,7 @@
       a: ...
     - q: Do you think the Internet is a good way to get news?
       a: ...
+  vocab: []
 - topic: Text messages
   cname: text-messages
   pairs:
@@ -439,6 +505,7 @@
       a: 'Yes, I remember when I had to refuse some friends requests I had to think carefully for a long time about how to reply.'
     - q: How often do you send text messages?
       a: 'I send text messages almost on a daily basis. I always text my friends and family to say hello, chat and make travelling plans.'
+  vocab: []
 - topic: Memorising
   cname: memorising
   pairs:
@@ -450,6 +517,7 @@
       a: 'Well, I guess it''s quite normal that elderly people become more and more forgetful. Apart from some negative emotional factors like stress and depression, elderly people tend to forget things because of the normal ageing process.'
     - q: Have you ever forgotten something important?
       a: 'Oh yes, I nearly forgot the birthday of a woman I liked. I had asked her what her birthday was, and told her I would send her a gift, but unbelievably I forgot it until the evening of that day. Fortunately I asked her out to dinner to celebrate and I saved the day.'
+  vocab: []
 - topic: Friends
   cname: friends
   pairs:
@@ -461,6 +529,7 @@
       a: 'Well, that depends. We sometimes go to a restaurant to enjoy tasty food if someone knows a decent place. Also if we have plenty of time we like to plan a hike or camp in a nearby forest park to enjoy outdoor life. That would be a very memorable experience.'
     - q: Do you like to go out with a big group or just few friends?
       a: 'Well, if I had to choose between the two, I would probably go with hanging out with a big group people because I think that I am an extrovert. I like to meet different people to know about different kinds of life and make myself more sociable; whereas, you know, with only a few people around, it would be hard to find something interesting to do, such as travelling, hiking, etc.'
+  vocab: []
 - topic: Travelling
   cname: travelling
   pairs:
@@ -472,6 +541,7 @@
       a: 'yellow or red so you will see the beautiful colours of the trees all around you. Wherever you go, you will have a memorable trip.'
     - q: Would you say your country is a good place for travellers to visit?
       a: 'Yes, Chinese people are renowned for their hospitality to visitors. There are numerous tourist attractions around the country. For instance, you can visit the countryside to see the picturesque views, or you can visit historical relics to get to know about the events that have shaped Chinas long history, or you can just stay in the cities to experience how the local people live.'
+  vocab: []
 - topic: Transportation
   cname: transportation
   pairs:
@@ -491,6 +561,7 @@
       a: 'I believe private transportation will become the most popular means of transportation in my country because as people get richer, people will tend to buy cars for their families and businesses, and obviously China has already become the biggest market for vehicles in the world.'
     - q: Do you prefer public transportation or private transportation?
       a: 'Well, if I had to choose between the two, I''d probably go to work in my own car because it''s much more comfortable than being in a crowded bus or subway.'
+  vocab: []
 - topic: Letters or Emails
   cname: letters-or-emails
   pairs:
@@ -520,6 +591,7 @@
       a: ...
     - q: How do you communicate with others at work - by emails or is it more convenient to communicate face-to-face?
       a: ...
+  vocab: []
 - topic: Swimming
   cname: swimming
   pairs:
@@ -529,6 +601,7 @@
       a: 'Yes, there are a few public swimming pools. There is the main indoor one at a big sports complex in the centre of town. There are also a couple of outdoor ones, but you can only use them in summer, as it is too cold in winter. There is a big one in a park, whereas the other is much smaller.'
     - q: Do you think everyone should learn to swim?
       a: 'Of course, I think it''s very important to learn to swim. First, you might spend a lot of holidays by water, for example, when you go to the beach or go to a lake, so you won''t be able to enjoy yourself with your friends if you can''t swim. Also, for safety reasons it''s very important. You often hear about accidents involving young children so it''s very important.'
+  vocab: []
 - topic: Snacks
   cname: snacks
   pairs:
@@ -542,6 +615,7 @@
       a: 'I think that if you’re hungry, it’s perfectly fine to have some fruit but if people eat junk food between meals, then it’s really unhealthy.'
     - q: What about snacking between meals?
       a: 'I think all kind of snacking between main meals is bad for your health. If people avoided snacking, they would be much healthier and less over weight.'
+  vocab: []
 - topic: Photography
   cname: photography
   pairs:
@@ -573,6 +647,7 @@
       a: ...
     - q: Do you prefer to send postcards to people or to send photos that you took yourself?
       a: ...
+  vocab: []
 - topic: Helping people
   cname: helping-people
   pairs:
@@ -586,6 +661,7 @@
       a: 'Yeah, sometimes when I am in hurry or on business I don’t have time so I have to say sorry that I can’t help'
     - q: Would you like to keep helping others in future?
       a: ...
+  vocab: []
 - topic: History
   cname: history
   pairs:
@@ -605,6 +681,7 @@
       a: 'The person I''d like to learn about is Wu Chengen, the author of A Journey to the West. He combined folk tales and his own imagination to write this great fairy story in the 16th century. I want to know about his personality and find out as much as possible about him. I believe that his imagination is what is lacking in many writers nowadays.'
     - q: Why would you like to learn more about him/her?
       a: ...
+  vocab: []
 - topic: Handwriting
   cname: handwriting
   pairs:
@@ -638,6 +715,7 @@
       a: ...
     - q: What impression does a person's handwriting have on other people?
       a: ...
+  vocab: []
 - topic: Music
   cname: music
   pairs:
@@ -671,6 +749,7 @@
       a: ...
     - q: What kinds of music are most popular in China?
       a: ...
+  vocab: []
 - topic: Colours
   cname: colours
   pairs:
@@ -698,6 +777,7 @@
       a: ...
     - q: Do you think different types of people like different colours?
       a: ...
+  vocab: []
 - topic: Teachers
   cname: teachers
   pairs:
@@ -711,6 +791,7 @@
       a: ...
     - q: Would you like to be a teacher?
       a: ...
+  vocab: []
 - topic: Being in a hurry
   cname: being-in-a-hurry
   pairs:
@@ -720,6 +801,7 @@
       a: 'I guess when people are working, for example if a doctor is doing an operation a slight mistake could be vital to the patient. Also if a person is taking a test they should concentrate or they might make mistakes'
     - q: Why do people make mistakes when they are in hurry?
       a: 'No, I don''t like to do things quickly because I will not concentrate or I might make mistakes.'
+  vocab: []
 - topic: Being alone
   cname: being-alone
   pairs:
@@ -731,6 +813,7 @@
       a: 'Well, if I had to choose between the two, I will probably go with hanging out with my close friends because such friendships really adds spice to my life; whereas, you know, spending too much time being alone is really boring.'
     - q: When was the last time you were being alone?
       a: 'The last time I stayed alone at home was when my wife went on a business trip with our child for several days. So I was living, eating, sleeping at home alone. It was quite a quiet time so I could do what I wanted when I wanted to do it. .'
+  vocab: []
 - topic: Teamwork
   cname: teamwork
   pairs:
@@ -742,6 +825,7 @@
       a: I think the most important thing for teamwork is deciding who does what. Every member of team should be assigned specific tasks and he or she should stick to that. Also team spirit is equally important
     - q: Do you like to be a leader?
       a: 'Honestly, I would like to be a leader. Being a leader would reflect the hard work I’ve put into the job. I can win other peoples respect as well'
+  vocab: []
 - topic: Countryside
   cname: countryside
   pairs:
@@ -753,6 +837,7 @@
       a: 'Living in the countryside can definitely benefit people in a number of ways. For one thing, it''s good for one''s health thanks to significantly lower levels of pollution. It is undeniable that air quality in big cities is so bad that long-term exposure to it may cause respiratory diseases and other health problems. Besides, the cost of living in rural areas is likely to be lower than that in cities.'
     - q: What are the differences between living in the city and the countryside?
       a: 'However, many people have been attracted to live and work in big cities because of better employment opportunities and higher living standards.'
+  vocab: []
 - topic: Social network
   cname: social-network
   pairs:
@@ -764,6 +849,7 @@
       a: 'I love to make friends with people who have same interests as me such as music, travelling and learning English'
     - q: Is it good to find real friends on social network?
       a: 'I think no, most of the friends I have on Facebook are just normal friends, it is common that people just make friends for fun and sometimes will not even meet face to face. But we do tend to share things a lot on social websites.'
+  vocab: []
 - topic: Hanging out with friends
   cname: hanging-out-with-friends
   pairs:
@@ -775,4 +861,4 @@
       a: 'Well, that depends. Sometimes we go to a restaurant to enjoy tasty food if someone knows a decent place. But if we have plenty of time, we like to plan a hike or camp in a nearby forest park to enjoy the countryside. That would be a very memorable experience.'
     - q: Do you like to go out with a big group or just few friends?
       a: 'Well, if I had to choose between the two, I would go with hanging out with a big group people because I feel that I am an extrovert. I like to meet different people and get to know about them and their different kinds of life. I like to be sociable whereas, you know, with few people around, it would be hard to find something interesting to do, such as travelling, hiking, etc.'
-
+  vocab: []

@@ -3,8 +3,6 @@ cname: hanging-out-with-friends
 title: Hanging out with friends
 description: 
 cover: false
-
-vocab:
 ---
 <banner></banner>
 
@@ -17,7 +15,11 @@ vocab:
 
 ## Vocabulary
 
-<vocab-box></vocab-box>
+<vocab-list>
+
+<!-- blank -->
+
+</vocab-list>
 
 ## Answers
 
