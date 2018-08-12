@@ -52,13 +52,13 @@ vocab:
 - What kinds of news do Chinese people read in newspapers?
   - Yes, getting news from the Internet is popular now because it&#39;s very convenient to get news from the Internet via a mobile phone. The news apps on my mobile phone usually send me the most urgent notifications so it keeps me posted minute by minute.
 - Do you prefer to read about domestic (or local) news or international news? (Why?)
-  - 
+  - ...
 - What are some methods that newspapers use to attract readers?
-  - 
+  - ...
 - What influence do you think newspapers have on society?
-  - 
+  - ...
 - Do you think the Internet is a good way to get news?
-  - 
+  - ...
 
 ## Practice
 

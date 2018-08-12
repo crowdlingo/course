@@ -33,11 +33,11 @@ vocab:
 - Did you go to any museums when you were a child?
   - Yes, the reason is that generally, most museums are non-profit organisations, and these goods make up a large part of their income, except for the tickets of course, and also partly because these items are closely related to the theme of the museums, which cannot be bought in other bookstores or shops.
 - When was the last time you visited a museum?
-  - 
+  - ...
 - Do you think museums are important?
-  - 
+  - ...
 - Do you think it&#39;s suitable for museums to sell things to visitors?
-  - 
+  - ...
 
 ## Practice
 

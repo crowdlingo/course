@@ -44,21 +44,21 @@ vocab:
 - In what situations do you take photographs?
   - Well, if I had to choose between the two, I&#39;ll probably go with my own photos because they are unique and getting a lot of positive comments from friends is a pleasant thing. Whereas postcards are not as meaningful to me as the photos I take myself.
 - What kind of photos do you like to take?
-  - 
+  - ...
 - Do you prefer to take pictures of people or of scenery?
-  - 
+  - ...
 - Who do you take photos of?
-  - 
+  - ...
 - How do you keep your photos?
-  - 
+  - ...
 - Do you keep your photographs on your computer?
-  - 
+  - ...
 - Are there any photos on the walls of your home?
-  - 
+  - ...
 - Do you frame (of have you framed) any of your photos? (If yes, which? &amp; why?)
-  - 
+  - ...
 - Do you prefer to send postcards to people or to send photos that you took yourself?
-  - 
+  - ...
 
 ## Practice
 

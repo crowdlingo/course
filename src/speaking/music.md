@@ -47,21 +47,21 @@ vocab:
 - When did you start listening to this type of music?
   - I believe that currently in China the most popular music is pop music. There are many famous pop singers now, they are releasing numerous albums every year, and they are always trendy for a short period of time.
 - Where do you listen to it?
-  - 
+  - ...
 - How do you feel when you listen to this music?
-  - 
+  - ...
 - Do you like listening to songs?
-  - 
+  - ...
 - Have you ever been to a musical performance?
-  - 
+  - ...
 - Have you ever learned to play a musical instrument?
-  - 
+  - ...
 - Is music an important subject at school in China?
-  - 
+  - ...
 - Did you often listen to music when you were a child? (If yes, give details.)
-  - 
+  - ...
 - What kinds of music are most popular in China?
-  - 
+  - ...
 
 ## Practice
 

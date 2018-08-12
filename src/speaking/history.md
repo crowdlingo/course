@@ -40,7 +40,7 @@ vocab:
 - Can you name a person from history who you would like to learn more about?
   - The person I&#39;d like to learn about is Wu Chengen, the author of A Journey to the West. He combined folk tales and his own imagination to write this great fairy story in the 16th century. I want to know about his personality and find out as much as possible about him. I believe that his imagination is what is lacking in many writers nowadays.
 - Why would you like to learn more about him&#x2F;her?
-  - 
+  - ...
 
 ## Practice
 

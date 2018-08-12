@@ -34,7 +34,7 @@ vocab:
 - Is maths difficult for you to learn?
   - No, actually we were not allowed to use the calculator in class or exams because we were asked to calculate the results with pencil and paper. Therefore I&#39;m not that used to using a calculator now.
 - Do you like to use a calculator?
-  - 
+  - ...
 
 ## Practice
 

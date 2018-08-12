@@ -31,7 +31,7 @@ vocab:
 - Have you ever refused to help others?
   - Yeah, sometimes when I am in hurry or on business I don’t have time so I have to say sorry that I can’t help
 - Would you like to keep helping others in future?
-  - 
+  - ...
 
 ## Practice
 

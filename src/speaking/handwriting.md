@@ -45,23 +45,23 @@ vocab:
 - What are your main reasons for using e-mails?
   - Yes, I feel that handwriting allows people to have more opportunity because if you have decent handwriting, people will admire you and you are considered to be both well educated and literate.
 - Do you like to send e-mails?
-  - 
+  - ...
 - Do you usually write by hand or write using a computer?
-  - 
+  - ...
 - Nowadays, how do most people write things?
-  - 
+  - ...
 - Do you think computers might one day replace handwriting?
-  - 
+  - ...
 - When do children begin to write in your country?
-  - 
+  - ...
 - How did you learn to write?
-  - 
+  - ...
 - Do you think handwriting is very important (nowadays)?
-  - 
+  - ...
 - How can children today improve (or, practice) their handwriting?
-  - 
+  - ...
 - What impression does a person&#39;s handwriting have on other people?
-  - 
+  - ...
 
 ## Practice
 

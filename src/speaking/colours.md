@@ -44,15 +44,15 @@ vocab:
 - Is colour very important to you when you are buying clothes?
   - Yes, I believe different people have different psychological need for colours. Some need peace of mind, whereas others colours might be more energetic and rebellious.
 - Do you prefer light or dark (or, bright) colours?
-  - 
+  - ...
 - Are there any colours that have a special meaning in your country?
-  - 
+  - ...
 - What colour would you choose to paint the walls of your room?
-  - 
+  - ...
 - Is there any colour you would not want your walls to be? (Why?)
-  - 
+  - ...
 - Do you think different types of people like different colours?
-  - 
+  - ...
 
 ## Practice
 

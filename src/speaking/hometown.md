@@ -37,13 +37,13 @@ vocab:
 - What do you like (most) about your hometown?
   - Well, my hometown, Nanjing has a big reputation because of its long history as a capital of China. Also for events such as the Nanjing massacre during the 1940’s.
 - Do you like your hometown?
-  - 
+  - ...
 - Do you like living there?
-  - 
+  - ...
 - Is there anything you dislike about it?
-  - 
+  - ...
 - Do you think you will continue living there for a long time?
-  - 
+  - ...
 
 ## Practice
 

@@ -39,7 +39,7 @@ vocab:
 - What&#39;s the weather like today?
   - It&#39;s really freezing (sunny, cool, breezy, chilly, warm, humid, hot) today. If I didn’t have to take the IELTS exams, I would prefer to stay at home.
 - Do people in China play the same sports in different seasons of the year?
-  - 
+  - ...
 - What&#39;s your favourite weather? (Why?)
   - Actually I prefer cloudy days, because then it&#39;&#39;s neither too hot nor too cold. And what&#39;&#39;s more important to me is that this weather is perfect for photography as the light is so soft. So at this time of day, I like to go out with my camera to take photos.&#39;
 - It lasts the whole year or a place with different seasons?
@@ -57,23 +57,23 @@ vocab:
 - Are there any bad points about the weather in your city?
   - No, in spring and autumn, when the temperature is neither too cold nor too hot, people in China tend to hike in the mountains, or go running. When it comes to summer, people can choose more physical activities like swimming, camping in the forests and playing balls, etc. But in winter, people believe it not suitable for outdoor exercises, so they prefer to stay at home to keep warm.
 - What is the typical weather in China like?
-  - 
+  - ...
 - Have there been any changes in the weather over the past few years?
-  - 
+  - ...
 - Does the weather ever affect what you do?
-  - 
+  - ...
 - How does the weather affect people (or, you)? (If yes, how?)
-  - 
+  - ...
 - How do you feel when the weather is cloudy?
-  - 
+  - ...
 - Do you always pay attention to the weather forecast?
-  - 
+  - ...
 - Can you give any examples of unusual weather?
-  - 
+  - ...
 - Do you like snow? (Why?)
-  - 
+  - ...
 - Would you prefer to live in a place that has just one, warm season that
-  - 
+  - ...
 
 ## Practice
 

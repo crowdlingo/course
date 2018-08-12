@@ -45,17 +45,17 @@ vocab:
 - Do you think people today have more time to relax than in the past?
   - Well, it&#39;s kind of hard to say but people that I know around me tend to hang out with friends for dinner, but maybe for others, they will probably go shopping with family in the shopping malls to enjoy themselves.
 - Do you think it&#39;s important for people to have leisure time?
-  - 
+  - ...
 - Do old people and young people spend their leisure time in the same way?
-  - 
+  - ...
 - What do you think are the good points and the possible bad points about having leisure time?
-  - 
+  - ...
 - How do people in your country spend their holidays?
-  - 
+  - ...
 - Do you like to travel in your holidays?
-  - 
+  - ...
 - If you had a child, what leisure places would you go to with your child?
-  - 
+  - ...
 
 ## Practice
 

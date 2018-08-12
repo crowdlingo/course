@@ -27,11 +27,11 @@ vocab:
 - Why do you like the teacher?
   - I don&#39;t think I would be a good teacher; I am not a patient man and cannot bear to repeat the same things frequently. A teachers&#39; job would be really boring for me, you have to make your explanations as easy as possible for students to fully understand. It is a challenging job, I am afraid I cannot do it.
 - How does (did) this teacher help you?
-  - 
+  - ...
 - Do you think you could be a teacher?
-  - 
+  - ...
 - Would you like to be a teacher?
-  - 
+  - ...
 
 ## Practice
 

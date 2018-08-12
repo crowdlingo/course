@@ -49,7 +49,7 @@ vocab:
 - Do you think employees should have to work on weekends?
   - Yes, the main factor is that after five-days of hard work, I really need some leisure time to let off steam, or travel around to experience the countryside. Whereas, when I was a kid, I had plenty of time to play, every day was almost the same.
 - Do you feel that weekends now are more important to you than when you were a child?
-  - 
+  - ...
 
 ## Practice
 

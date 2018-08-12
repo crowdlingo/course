@@ -45,17 +45,17 @@ vocab:
 - What kinds of letter&#x2F;email do you think is the hardest to write?
   - I believe that as a major method of communication between people, letter writing has a long and interesting history; besides, handwritten letters are personal. They show the receiver that someone has spent time and effort in communicating with them. They are a way of connecting two people that cannot be achieved through the impersonal use of texts or instant messages. Therefore, I think that handwritten letters will still be around in the future.
 - How do you feel when you receive a letter or email?
-  - 
+  - ...
 - What sorts of letters or emails are the most difficult to reply to?
-  - 
+  - ...
 - What kinds of emails (or letters) do you receive that make you feel excited?
-  - 
+  - ...
 - Which do you prefer to make a phone call or write an email?
-  - 
+  - ...
 - Do you think people will still write letters in the future?
-  - 
+  - ...
 - How do you communicate with others at work - by emails or is it more convenient to communicate face-to-face?
-  - 
+  - ...
 
 ## Practice
 

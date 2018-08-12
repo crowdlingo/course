@@ -39,11 +39,11 @@ vocab:
 - Is it easy to change your name in your country?
   - Oh, there are some nicknames that are very popular in China. For example, Lili means that their parents hope their daughters would be beautiful; and Kuan kuan, indicates that their sons would be magnanimous when they are grown up
 - Who usually names babies in your country?
-  - 
+  - ...
 - Do you have any special traditions about naming children?
-  - 
+  - ...
 - What names are most common in your hometown?
-  - 
+  - ...
 
 ## Practice
 

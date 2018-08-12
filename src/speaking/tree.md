@@ -49,13 +49,13 @@ vocab:
 - Do you think more people should plant trees?
   - Yes, I believe more trees should be planted both in and outside the cities because they can absorb the pollutant gases and provide more oxygen; besides, trees can save water and prevent soil erosion. Therefore, trees are critically important to keep our eco-system balanced. We are supposed to not only plant more trees, but also protect the existing ones.
 - Do you think we should plant more trees?
-  - 
+  - ...
 - Do you think trees are important?
-  - 
+  - ...
 - What would you say are the benefits of having trees?
-  - 
+  - ...
 - Do you think we need to protect trees?
-  - 
+  - ...
 
 ## Practice
 
