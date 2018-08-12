@@ -18,17 +18,35 @@ cover: false
 - Is there anything new that you&#39;d like to do on weekends?
 - Do you like working on weekends?
 - Do you think employees should have to work on weekends?
-- Do you feel that weekends now are more important to you than when you were a child?
 
 ## Vocabulary
 
 <vocab-list>
+- Normally
+  - under normal conditions
+- experience
+  - the accumulation of knowledge or skill that results from direct participation in events or activities
+- remarkable
+  - unusual or striking
+- exercise
+  - put to use
+- tradition
+  - an inherited pattern of thought or action  
+- Absolutely
+  - completely and without qualification
+- exhibition
+  - the act of exhibiting
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - How do you usually spend your weekends?
   - Normally I&#39;ll go out to some stunning natural places to let off steam with my family or friends on weekends; but if it&#39;s not sunny, I&#39;ll stay at home for the whole weekend. Mostly I just use the Internet to kill time.
@@ -50,9 +68,7 @@ cover: false
   - If I were an employee, I would think this is a horrible idea. Employees are human; we all deserve to have some off-work time.
 - Do you think employees should have to work on weekends?
   - Yes, the main factor is that after five-days of hard work, I really need some leisure time to let off steam, or travel around to experience the countryside. Whereas, when I was a kid, I had plenty of time to play, every day was almost the same.
-- Do you feel that weekends now are more important to you than when you were a child?
-  - ...
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

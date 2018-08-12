@@ -13,17 +13,33 @@ cover: false
 - Who taught you maths?
 - Who&#39;s your favourite teacher so far?
 - Is maths difficult for you to learn?
-- Do you like to use a calculator?
 
 ## Vocabulary
 
 <vocab-list>
+- incorrect
+  - not correct
+- learning
+  - the cognitive process of acquiring skill or knowledge
+- remember
+  - recall knowledge from memory
+- Therefore
+  - (used to introduce a logical conclusion) from that fact or reason or as a result
+- appropriate
+  - suitable for a particular person or place or condition etc
+- calculate
+  - make a mathematical calculation or computation  
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - When did you start learning maths?
   - I firstly started to learn maths when I was in the first grade in primary school. I was about seven years old then.
@@ -35,9 +51,7 @@ cover: false
   - Yes, I&#39;m afraid that I wasn&#39;t quick at figures. And I was also bored with these abstract formulas and found it hard to pick the appropriate ones to solve the maths problems in exams.
 - Is maths difficult for you to learn?
   - No, actually we were not allowed to use the calculator in class or exams because we were asked to calculate the results with pencil and paper. Therefore I&#39;m not that used to using a calculator now.
-- Do you like to use a calculator?
-  - ...
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

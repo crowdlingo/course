@@ -17,12 +17,33 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- colourful
+  - striking in variety and interest
+- definitely
+  - without question and beyond doubt
+- comfortable
+  - providing or experiencing physical well-being or relief (&#x60;comfy&#39; is informal)
+- fashioned
+  - planned and made or fashioned artistically
+- sometimes
+  - on certain occasions or in certain cases but not always
+- reluctant
+  - unwillingness to do something contrary to your custom
+- addition
+  - a component that is added to something to improve it
+- Australia
+  - a nation occupying the whole of the Australian continent
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - What clothes do you usually like to wear?
   - Well, actually I don&#39;t have any instinct for fashion and my look says I&#39;m a laid- back kind of guy. So I usually wear casual clothes. I&#39;m most comfortable wearing jeans, a T-shirt and my flip-flops.
@@ -36,5 +57,5 @@ cover: false
   - No, I really couldn&#39;t stand the school uniform because the clothes were a bit too old- fashioned; in addition, sometimes I was reluctant to wear them because they were too large. I don’t know why they couldn&#39;t be a bit more trendy and colourful like the ones in other countries, like Japan and Australia.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

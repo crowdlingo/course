@@ -14,25 +14,33 @@ cover: false
 - Do you like writing to people?
 - How often do you send e-mails?
 - What are your main reasons for using e-mails?
-- Do you like to send e-mails?
-- Do you usually write by hand or write using a computer?
-- Nowadays, how do most people write things?
-- Do you think computers might one day replace handwriting?
-- When do children begin to write in your country?
-- How did you learn to write?
-- Do you think handwriting is very important (nowadays)?
-- How can children today improve (or, practice) their handwriting?
-- What impression does a person&#39;s handwriting have on other people?
 
 ## Vocabulary
 
 <vocab-list>
+- opportunity
+  - a possibility due to a favorable combination of circumstances
+- efficient
+  - being effective without wasting time or effort or expense
+- remember
+  - recall knowledge from memory
+- technical
+  - a pickup truck with a gun mounted on it  
+- training
+  - activity leading to skilled behavior  
+- convenience
+  - the state of being suitable or opportune
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you often write things?
   - Yes, I write documentaries as part of my job on a daily basis for my clients. There are many things I have to write, for example, I usually write end user training for my clients to teach them how to use the system, or I write a development guide for my technical staffs to teach them how to code.
@@ -46,25 +54,7 @@ cover: false
   - In China, children usually learn to write in elementary school. They firstly learn the basic elements of the Chinese characters, then the simple characters, and finally the complicated ones. They will have to do a lot of writing practice to remember them. The more they practice, the better they write.
 - What are your main reasons for using e-mails?
   - Yes, I feel that handwriting allows people to have more opportunity because if you have decent handwriting, people will admire you and you are considered to be both well educated and literate.
-- Do you like to send e-mails?
-  - ...
-- Do you usually write by hand or write using a computer?
-  - ...
-- Nowadays, how do most people write things?
-  - ...
-- Do you think computers might one day replace handwriting?
-  - ...
-- When do children begin to write in your country?
-  - ...
-- How did you learn to write?
-  - ...
-- Do you think handwriting is very important (nowadays)?
-  - ...
-- How can children today improve (or, practice) their handwriting?
-  - ...
-- What impression does a person&#39;s handwriting have on other people?
-  - ...
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

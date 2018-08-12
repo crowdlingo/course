@@ -15,12 +15,21 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- operation
+  - the state of being in effect or being operative
+- concentrate
+  - the desired mineral that is left after impurities have been removed from mined ore  
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - When was your last time you did something in a hurry? Do you like to finish things quickly?
   - The last time I was in a hurry was the time I rushed to school one morning for a final exam, because I had woken up so late
@@ -30,5 +39,5 @@ cover: false
   - No, I don&#39;t like to do things quickly because I will not concentrate or I might make mistakes.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

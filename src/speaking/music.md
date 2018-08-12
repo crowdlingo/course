@@ -15,24 +15,29 @@ cover: false
 - What&#39;s your favourite kind of music?
 - How often do you listen to that type of music?
 - When did you start listening to this type of music?
-- Where do you listen to it?
-- How do you feel when you listen to this music?
-- Do you like listening to songs?
-- Have you ever been to a musical performance?
-- Have you ever learned to play a musical instrument?
-- Is music an important subject at school in China?
-- Did you often listen to music when you were a child? (If yes, give details.)
-- What kinds of music are most popular in China?
 
 ## Vocabulary
 
 <vocab-list>
+- traditional
+  - consisting of or derived from tradition
+- nostalgic
+  - unhappy about being away and longing for familiar things or persons  
+- audience
+  - a gathering of spectators or listeners at a (usually public) performance
+- American
+  - of or relating to the United States of America or its people or language or culture
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you often like to listen to music?
   - Yes, I’ve been a big fan of music for many years. I sometimes listen to music for about one hour before sleeping at night and also when I am driving. I am very fond of pop music from Taiwan and Hong Kong and I also frequently listen to some American pop singers like the Backstreet Boys. I can feel their energy when I listen to their music.
@@ -48,23 +53,7 @@ cover: false
   - I don’t get enough time to listen to music because I have to spend all my time studying. This was one of my biggest disappointments during my childhood, so when I got to university the first thing I did was to buy a new mp3 player.
 - When did you start listening to this type of music?
   - I believe that currently in China the most popular music is pop music. There are many famous pop singers now, they are releasing numerous albums every year, and they are always trendy for a short period of time.
-- Where do you listen to it?
-  - ...
-- How do you feel when you listen to this music?
-  - ...
-- Do you like listening to songs?
-  - ...
-- Have you ever been to a musical performance?
-  - ...
-- Have you ever learned to play a musical instrument?
-  - ...
-- Is music an important subject at school in China?
-  - ...
-- Did you often listen to music when you were a child? (If yes, give details.)
-  - ...
-- What kinds of music are most popular in China?
-  - ...
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

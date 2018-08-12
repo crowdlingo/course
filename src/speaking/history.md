@@ -15,17 +15,33 @@ cover: false
 - Do you think you can really learn history from films and TV programmes?
 - Do you think the Internet is a good place to learn about history?
 - Can you name a person from history who you would like to learn more about?
-- Why would you like to learn more about him&#x2F;her?
 
 ## Vocabulary
 
 <vocab-list>
+- renowned
+  - widely known and esteemed
+- decisive
+  - determining or having the power to determine an outcome
+- possible
+  - something that can be done
+- identity
+  - the distinct personality of an individual regarded as a persisting entity
+- understanding
+  - characterized by understanding based on comprehension and discernment and empathy
+- Personally
+  - as yourself
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you like (to learn about) history?
   - Yes, I am a big fan of reading historical stories. When I was a little boy, I always took the historical books from my father&#39;s bookshelf and read about historical events. I feel that history not only helps me learn, but also gives me a better understanding of human society.
@@ -41,9 +57,7 @@ cover: false
   - Yes. History is full of debates but you can understand both sides of the story by going online which will help you to become aware of the true facts and be able to think critically about these things. I’m always Googling for interesting historical materials about the Song Dynasty. I want to know the truth of the matter.
 - Can you name a person from history who you would like to learn more about?
   - The person I&#39;d like to learn about is Wu Chengen, the author of A Journey to the West. He combined folk tales and his own imagination to write this great fairy story in the 16th century. I want to know about his personality and find out as much as possible about him. I believe that his imagination is what is lacking in many writers nowadays.
-- Why would you like to learn more about him&#x2F;her?
-  - ...
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

@@ -16,12 +16,25 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- countryside
+  - rural regions  
+- significantly
+  - in a statistically significant way
+- pollution
+  - undesirable state of the natural environment being contaminated with harmful substances as a consequence of human activities  
+- exposure
+  - vulnerability to the elements
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Would you like to live in the countryside in the future?
   - Absolutely! I&#39;m a huge fan of going out to the countryside. The environment there is just superb. Every now and them I visit the countryside just because there isn&#39;t that much pollution there so I can breath the fresh air.
@@ -33,5 +46,5 @@ cover: false
   - However, many people have been attracted to live and work in big cities because of better employment opportunities and higher living standards.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

@@ -18,20 +18,27 @@ cover: false
 - Do you care about the news?
 - Is the news important to you?
 - What kinds of news do Chinese people read in newspapers?
-- Do you prefer to read about domestic (or local) news or international news? (Why?)
-- What are some methods that newspapers use to attract readers?
-- What influence do you think newspapers have on society?
-- Do you think the Internet is a good way to get news?
 
 ## Vocabulary
 
 <vocab-list>
+- sometimes
+  - on certain occasions or in certain cases but not always
+- education
+  - the activities of educating or instructing
+- interested
+  - having or showing interest
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you often read newspapers?
   - Not very often. Newspapers take time to get published so they are not updated as quickly as the news on social media sites is. Besides, I would have to go to the kiosks and spend money to buy newspapers.
@@ -53,15 +60,7 @@ cover: false
   - Well, I guess that newspapers have a great influence on society. Newspapers keep people informed about the economy, politics, science and education. Also, it tells us something about our society and the country. Moreover, it also helps to educate people about their rights and duties.
 - What kinds of news do Chinese people read in newspapers?
   - Yes, getting news from the Internet is popular now because it&#39;s very convenient to get news from the Internet via a mobile phone. The news apps on my mobile phone usually send me the most urgent notifications so it keeps me posted minute by minute.
-- Do you prefer to read about domestic (or local) news or international news? (Why?)
-  - ...
-- What are some methods that newspapers use to attract readers?
-  - ...
-- What influence do you think newspapers have on society?
-  - ...
-- Do you think the Internet is a good way to get news?
-  - ...
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

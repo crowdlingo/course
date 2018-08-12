@@ -3,7 +3,7 @@ const fs   = require('fs')
 const path = require('path')
 const Mustache = require('mustache')
 const log = console.log
-
+const _ = require('underscore')
 
 const inputYaml = './data/lessonDataInput.yaml'  // hand edit
 const outputYaml = './data/lessonDataOutput.yaml'   // auto generated output
@@ -68,10 +68,41 @@ const Tools = {
 
   checkPairs(pairs) {
     pairs = pairs.map( pair => {
-      pair.a = pair.a || '...'  // needed for .md formatting
-      return pair
-    })
+      if (!pair.a || pair.a == '...') {
+        return false
+      } else {
+        // pair.a = pair.a || '...'  // needed for .md formatting
+        return pair
+      }
+    }).filter(elem => elem)
     return pairs
+  },
+
+  splitWords(line) {
+    if (!line) return
+    return(line.split(' '))
+  },
+
+  findLongWords(page) {
+    let blob = []
+    let longWords = []
+    page.pairs.map( pair => {
+      log('pair', pair)
+      let q = (Tools.splitWords(pair.q))
+      let a = (Tools.splitWords(pair.a))
+      blob = blob.concat(q, a)
+    })
+    log('blob', blob)
+    blob.map( word => {
+      word = word.replace(/[^A-Za-z]/gim, '')  // trim ,. etc
+      if (word.length > 7) {
+        longWords.push(word)
+      }
+    })
+    longWords = _.uniq(longWords)
+    longWords = _.sample(longWords, 8)
+    log('longWords', longWords)
+    return longWords
   },
 
   async buildVocab(words) {
@@ -81,30 +112,37 @@ const Tools = {
     let vocab = []
     for (let word of words) {
       let obj = await Tools.checkWord(word)
-      vocab.push(obj)
+      if (obj) vocab.push(obj)    // skip null
     }
     log('vocab', vocab)
     return vocab
   },
 
   async checkWord(word) {
-    let stem = natural.LancasterStemmer.stem(word)
-    if(word !== stem) {
-      log("stemmed", word, " => ", stem)
-    }
     let result = await wordpos.lookup(word)
-    log(result)
+    // log(result)
     // TODO - somehow judge which one to use?
+    let stem = natural.PorterStemmer.stem(word)
     let first = result[0]
     if (!first) {
-      console.error('no result for ', word, stem)
-      return {
-        en: stem
-      }
+      return null
+      // console.error('no result for ', word)
+      // console.error('result =', result)
+      // if(word !== stem) {
+      //   log("stemmed", word, " => ", stem)
+      //   result = await wordpos.lookup(stem)
+      //   first = result[0]
+      //   if (!first) {
+      //     log('no result for stem', stem)
+      //     return null
+      //   }
+      // }
     }
     let syns
     if (first.synonyms) {
-      syns = first.synonyms.filter(elem => elem !== word )
+      syns = first.synonyms.map(elem => {
+        return elem.replace('_', ' ') // wordnet has some_word
+      }).filter(syn => syn !== word)
     }
     // let pos = first.lexName ? first.lexName.split('.').shift() : ''
     let obj = {
@@ -112,7 +150,7 @@ const Tools = {
       stem: stem,
       pos: first.pos,
       syns: syns,
-      def: first.def
+      def: first.def || '...'
     }
     log('obj', obj)
     return obj
@@ -129,10 +167,15 @@ const Tools = {
   },
 
   // clean and process
-  async parseYaml() {
+  // input -> output
+  async cleanYaml() {
     let doc = Tools.readYaml('input')
     for (let page of doc) {
-      // page.pairs = Tools.checkPairs(page.pairs)
+      page.pairs = Tools.checkPairs(page.pairs)
+      // page.topFive = page.pairs.slice(0, 5)
+      if (!page.words) {
+        page.words = Tools.findLongWords(page)
+      }
       page.vocab = await Tools.buildVocab(page.words)
     }
 
@@ -152,8 +195,8 @@ const Tools = {
     items.map( elem => {
       let output = Mustache.render(template, elem)
       let fname = `${elem.cname}.md`
-      let fp = path.join(__dirname, '../src/speaking/', fname)
-      let assetPath = path.join(__dirname, '../src/.vuepress/public/assets/speaking/', elem.cname)
+      let fp = path.join(__dirname, '../../src/speaking/', fname)
+      let assetPath = path.join(__dirname, '../../src/.vuepress/public/assets/speaking/', elem.cname)
       Tools.ensureDir(assetPath)
       console.log('fp', fp)
       // console.log('elem >>\n', elem)
@@ -192,13 +235,3 @@ const Tools = {
 }
 
 module.exports = Tools
-
-// Tools.parseYaml()
-
-Tools.renderPages()
-
-
-// Tools.findVocab()
-// Tools.checkWord('major')
-// Tools.checkIdea('accomodation')
-

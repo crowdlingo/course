@@ -37,6 +37,11 @@ cover: false
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you work or are you a student?
   - I&#39;m currently a student at a High School. I&#39;m studying A’ Levels in order to go to a university in Britain.
@@ -50,5 +55,5 @@ cover: false
   - My favorite class is computing. You know many students like to play computer games so there is no doubt that people are into that subject.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

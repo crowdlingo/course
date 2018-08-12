@@ -18,12 +18,31 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- Definition
+  - a concise explanation of the meaning of a word or phrase or symbol  
+- watching
+  - the act of observing
+- detrimental
+  - (sometimes followed by &#x60;to&#39;) causing harm or injury
+- football
+  - any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other&#39;s goal  
+- entertaining
+  - agreeably diverting
+- bringing
+  - the act of delivering or distributing something (as goods or mail)
+- favourite
+  - appealing to the general public
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - How much TV do you (usually) watch?
   - I seldom watch TV. I only turn on the TV to watch a football match on weekends. That is once a week. I am a big fan of football so I watch a lot of football matches. It&#39;s exciting and entertaining to see how players push their limits to win the games. I also enjoy watching movies, especially when I connect my computer to the TV screen and watch movies in High Definition from my bed; it is really enjoyable at night.
@@ -39,5 +58,5 @@ cover: false
   - I believe that watching TV has benefited me in some way, as well as bringing me some detrimental consequences. Watching TV programmes had enabled me to broaden my horizons as I was born and raised in a small county and there were many places and things I had no opportunities to experience. But the TV had helped me to see them. But spending too much time in front of TV also made meaddicted to it and unfortunately harmed my eyes. So I’ve had to wear glasses since middle school
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

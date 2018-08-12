@@ -11,38 +11,30 @@ vocab:
 
 How to add material
 
-## Cool formatting
+## Building
 
-:::tip
-This is a tip!
-:::
+edit node/tools.js and pick the method:
 
-## Badges
-We have badges!
-<Badge text="tip" type="tip" vertical="middle"></Badge>
-<Badge text="warning" type="warn" vertical="middle"></Badge>
-<Badge text="error" type="error" vertical="middle"></Badge>
+```
+// Tools.parseYaml()
+Tools.renderPages()
+```
 
-cname: {{ $page.frontmatter.cname }}
+### parseYaml
+Will take `tools/lessonDataInput.yaml` and make sure all answers have some '...'
+and output to `lessonDataOutput.yaml`
 
-## Custom metadata
+### renderPages
+Will output markdown pages based on `tools/lessonDataOutput.yaml`
 
-page.path: {{ $page.path }}
+Then run that from inside the tools dir:
 
-site.title: {{ $site.title }}
-
-Vocab metadata
-
-<div v-for='word in $page.frontmatter.vocab' class='word'>
-{{word}}
-</div>
-
-{{ $page.frontmatter.vocab }}
-
-## Table of Contents for a section
-
-<toc-box section="speaking"></toc-box>
+```
+cd tools
+node tools.js
+```
 
 
+## More
 
-<vocab-box></vocab-box>
+Check out [parts](parts.html) page for design parts

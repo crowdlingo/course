@@ -18,12 +18,31 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- remember
+  - recall knowledge from memory
+- attractive
+  - pleasing to the eye or mind especially through beauty or charm
+- particularly
+  - to a distinctly greater extent or degree than is common
+- soundtrack
+  - sound recording on a narrow strip of a motion picture film  
+- charismatic
+  - possessing an extraordinary ability to attract
+- heartfelt
+  - sincerely earnest
+- especially
+  - to a distinctly greater extent or degree than is common
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you like to watch films?
   - I&#39;m really into watching films because some films are very entertaining and provoking. I sometimes go to cinema with my friends and family to enjoy our leisure time in the weekends.
@@ -39,5 +58,5 @@ cover: false
   - The first film that I watched was the Lion King many years ago in the cinema with my parents. What I can remember now is the terrific animation and the amazing soundtrack. I particularly liked the song Can You Feel the Love Tonight that I knew it was produced by Elton John. And I&#39;ve learned lessons from this movie. It is about living up to our responsibilities, no matter how hard it is.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

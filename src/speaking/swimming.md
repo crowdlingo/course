@@ -15,12 +15,21 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- swimming
+  - the act of swimming
+- Swimming
+  - the act of swimming
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Can you swim?
   - Yes I can. I learnt at school when I was about 7 years old. Swimming lessons were compulsory at our school, like at most schools I think.
@@ -30,5 +39,5 @@ cover: false
   - Of course, I think it&#39;s very important to learn to swim. First, you might spend a lot of holidays by water, for example, when you go to the beach or go to a lake, so you won&#39;t be able to enjoy yourself with your friends if you can&#39;t swim. Also, for safety reasons it&#39;s very important. You often hear about accidents involving young children so it&#39;s very important.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

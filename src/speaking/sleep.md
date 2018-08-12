@@ -18,12 +18,31 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- afternoon
+  - the part of the day between noon and evening
+- wherever
+  - where in the world  
+- dinnertime
+  - the customary or habitual hour for the evening meal  
+- hometown
+  - the town (or city) where you grew up or where you have your principal residence
+- physical
+  - involving the body as distinguished from the mind or spirit
+- normally
+  - under normal conditions
+- important
+  - of great significance or value
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - How many hours do you sleep every day?
   - Usually I sleep for seven to eight hours every night in order to let my body relax. But if I want to do something very important at night, I could, at a push, sleep for less than four hours.
@@ -39,5 +58,5 @@ cover: false
   - Well, I&#39;m afraid that at night I can&#39;t fall asleep in such a noisy place what with barking dogs, loud neighbours and city traffic. This is because I used to sleep in my quiet hometown when I was a kid. So sometimes I envy people who have grown accustomed to environmental noise and can sleep well wherever they lay their head.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

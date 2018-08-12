@@ -16,12 +16,25 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- spending
+  - the act of spending or disbursing money  
+- interruption
+  - an act of delaying or interrupting the continuity
+- business
+  - a commercial or industrial enterprise and the people who constitute it
+- sleeping
+  - lying with head on paws as if sleeping  
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you like to be alone?
   - Yes, I like to be alone especially if I have to do something without interruption. But if I have spare time I would prefer stay with my friends to enjoy time together.
@@ -33,5 +46,5 @@ cover: false
   - The last time I stayed alone at home was when my wife went on a business trip with our child for several days. So I was living, eating, sleeping at home alone. It was quite a quiet time so I could do what I wanted when I wanted to do it. .
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

@@ -16,12 +16,31 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- together
+  - mentally and emotionally stable
+- different
+  - unlike in nature or quality or form or degree
+- extrovert
+  - being concerned with the social and physical environment  
+- community
+  - a group of people living in a particular local area
+- memorable
+  - worth remembering  
+- kindergarten
+  - a preschool for children age 4 to 6 to prepare them for primary school  
+- sociable
+  - a party of people assembled to promote sociability and communal activity  
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - How often do you like to hang out with friends?
   - I hang out with my friends from time to time. Normally if we have a lot of time at the weekends, we might go to the cinema to watch movies. We can take our kids to have a good time. If we don&#39;t have that much time maybe we will just have dinner together in a restaurant.
@@ -33,5 +52,5 @@ cover: false
   - Well, if I had to choose between the two, I would go with hanging out with a big group people because I feel that I am an extrovert. I like to meet different people and get to know about them and their different kinds of life. I like to be sociable whereas, you know, with few people around, it would be hard to find something interesting to do, such as travelling, hiking, etc.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

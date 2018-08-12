@@ -16,12 +16,27 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- telephone
+  - get or try to get into communication (with someone) by telephone
+- difficulty
+  - an effort that is inconvenient
+- carefully
+  - taking care or paying attention
+- conference
+  - a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)  
+- travelling
+  - the act of going from one place to another
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you text someone if he doesn&#39;t answer your phone?
   - Yes, when my friends can&#39;t answer my call, I will text them to let them know I called and wait for their reply.
@@ -33,5 +48,5 @@ cover: false
   - I send text messages almost on a daily basis. I always text my friends and family to say hello, chat and make travelling plans.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

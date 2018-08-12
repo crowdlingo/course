@@ -14,13 +14,44 @@
       a: 'In China, I believe that fathers are in the position of naming their children. Sometimes they will look through some Chinese classical literatures to seek the meaningful words for their children.'
     - q: Is it easy to change your name in your country?
       a: 'Oh, there are some nicknames that are very popular in China. For example, Lili means that their parents hope their daughters would be beautiful; and Kuan kuan, indicates that their sons would be magnanimous when they are grown up'
-    - q: Who usually names babies in your country?
-      a: ...
-    - q: Do you have any special traditions about naming children?
-      a: ...
-    - q: What names are most common in your hometown?
-      a: ...
-  vocab: []
+  words:
+    - literatures
+    - important
+    - daughters
+    - magnanimous
+    - children
+    - pressure
+    - classical
+    - nicknames
+  vocab:
+    - en: important
+      stem: import
+      pos: a
+      syns:
+        - of import
+      def: of great significance or value
+    - en: magnanimous
+      stem: magnanim
+      pos: s
+      syns:
+        - greathearted
+      def: noble and generous in spirit
+    - en: pressure
+      stem: pressur
+      pos: v
+      syns:
+        - coerce
+        - hale
+        - squeeze
+        - force
+      def: 'to cause to do through pressure or necessity, by physical, moral or intellectual means'
+    - en: classical
+      stem: classic
+      pos: 'n'
+      syns:
+        - classical music
+        - serious music
+      def: 'traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste  '
 - topic: Study and Work
   description: Talking about your job or college life.
   words:
@@ -46,12 +77,12 @@
       a: My favorite class is computing. You know many students like to play computer games so there is no doubt that people are into that subject.
   vocab:
     - en: popular
-      stem: popul
+      stem: popular
       pos: a
       syns: []
       def: 'regarded with great favor, approval, or affection especially by the general public'
     - en: currently
-      stem: cur
+      stem: current
       pos: r
       syns:
         - presently
@@ -64,7 +95,7 @@
         - open
       def: possibly accepting or permitting
     - en: major
-      stem: mas
+      stem: major
       pos: v
       syns: []
       def: have as one's principal field of study
@@ -74,14 +105,14 @@
       syns: []
       def: consider unlikely or have doubts about
     - en: really
-      stem: real
+      stem: realli
       pos: r
       syns:
         - truly
         - genuinely
       def: in accordance with truth or fact or reality
     - en: focus
-      stem: foc
+      stem: focu
       pos: v
       syns:
         - concentrate
@@ -103,15 +134,49 @@
       a: I was born and raised there so I have lived there for about 19 years.
     - q: What do you like (most) about your hometown?
       a: 'Well, my hometown, Nanjing has a big reputation because of its long history as a capital of China. Also for events such as the Nanjing massacre during the 1940’s.'
-    - q: Do you like your hometown?
-      a: ...
-    - q: Do you like living there?
-      a: ...
-    - q: Is there anything you dislike about it?
-      a: ...
-    - q: Do you think you will continue living there for a long time?
-      a: ...
-  vocab: []
+  words:
+    - temperatures
+    - definitely
+    - reputation
+    - characteristics
+    - tourists
+    - preserve
+    - pleasant
+    - describe
+  vocab:
+    - en: definitely
+      stem: definit
+      pos: r
+      syns:
+        - decidedly
+        - unquestionably
+        - emphatically
+        - in spades
+        - by all_odds
+      def: without question and beyond doubt
+    - en: reputation
+      stem: reput
+      pos: 'n'
+      syns:
+        - repute
+      def: 'the state of being held in high esteem and honor  '
+    - en: preserve
+      stem: preserv
+      pos: 'n'
+      syns: []
+      def: a domain that seems to be specially reserved for someone
+    - en: pleasant
+      stem: pleasant
+      pos: a
+      syns: []
+      def: affording pleasure
+    - en: describe
+      stem: describ
+      pos: v
+      syns:
+        - depict
+        - draw
+      def: give a description of
 - topic: Accomodation
   cname: accomodation
   pairs:
@@ -127,22 +192,56 @@
       a: 'We sometimes go out by car because it is not convenient to take a taxi in that area, and it takes nearly 30 minutes to walk to the nearest subway station. So generally speaking, it is not good to go out without a car.'
     - q: What part of your home do you like the most?
       a: 'My family spend most of their time in the living room. We like to sit around on a set of comfortable sofas there and chat with each other or watch TV. But when I am free, I prefer to read alone in my room.'
-    - q: What's the difference between where you are living now and where you have lived in the past?
-      a: ...
-    - q: Can you describe the place where you live?- Which room does your family spend most of the time in? - What do you usually do in your house/flat/room?
-      a: ...
-    - q: Do you prefer living in a house or a flat?
-      a: ...
-    - q: Please describe the room you live in?
-      a: ...
-  vocab: []
+  words:
+    - bedrooms
+    - convenient
+    - spacious
+    - bookshelf
+    - addition
+    - furnished
+    - sometimes
+    - brothers
+  vocab:
+    - en: convenient
+      stem: conveni
+      pos: a
+      syns: []
+      def: suited to your comfort or purpose or needs
+    - en: spacious
+      stem: spaciou
+      pos: s
+      syns:
+        - broad
+        - wide
+      def: very large in expanse or scope
+    - en: bookshelf
+      stem: bookshelf
+      pos: 'n'
+      syns: []
+      def: 'a shelf on which to keep books  '
+    - en: addition
+      stem: addit
+      pos: 'n'
+      syns:
+        - add-on
+        - improver
+      def: a component that is added to something to improve it
+    - en: furnished
+      stem: furnish
+      pos: a
+      syns:
+        - equipped
+      def: provided with whatever is necessary for a purpose (as furniture or equipment or authority)
+    - en: sometimes
+      stem: sometim
+      pos: r
+      syns: []
+      def: on certain occasions or in certain cases but not always
 - topic: Weather
   cname: weather
   pairs:
     - q: What's the weather like today?
       a: 'It''s really freezing (sunny, cool, breezy, chilly, warm, humid, hot) today. If I didn’t have to take the IELTS exams, I would prefer to stay at home.'
-    - q: Do people in China play the same sports in different seasons of the year?
-      a: ...
     - q: What's your favourite weather? (Why?)
       a: 'Actually I prefer cloudy days, because then it''''s neither too hot nor too cold. And what''''s more important to me is that this weather is perfect for photography as the light is so soft. So at this time of day, I like to go out with my camera to take photos.'''
     - q: It lasts the whole year or a place with different seasons?
@@ -159,25 +258,58 @@
       a: 'Well, if I had to choose between the two, I''d probably go with the distinct seasons in each year because each season has its own merits. I think I would get bored if it was warm all year round.'
     - q: Are there any bad points about the weather in your city?
       a: 'No, in spring and autumn, when the temperature is neither too cold nor too hot, people in China tend to hike in the mountains, or go running. When it comes to summer, people can choose more physical activities like swimming, camping in the forests and playing balls, etc. But in winter, people believe it not suitable for outdoor exercises, so they prefer to stay at home to keep warm.'
-    - q: What is the typical weather in China like?
-      a: ...
-    - q: Have there been any changes in the weather over the past few years?
-      a: ...
-    - q: Does the weather ever affect what you do?
-      a: ...
-    - q: 'How does the weather affect people (or, you)? (If yes, how?)'
-      a: ...
-    - q: How do you feel when the weather is cloudy?
-      a: ...
-    - q: Do you always pay attention to the weather forecast?
-      a: ...
-    - q: Can you give any examples of unusual weather?
-      a: ...
-    - q: Do you like snow? (Why?)
-      a: ...
-    - q: 'Would you prefer to live in a place that has just one, warm season that'
-      a: ...
-  vocab: []
+  words:
+    - indicator
+    - photography
+    - pleasant
+    - different
+    - Actually
+    - mountains
+    - swimming
+    - oppressive
+  vocab:
+    - en: indicator
+      stem: indic
+      pos: 'n'
+      syns:
+        - index
+        - index number
+        - indicant
+      def: a number or ratio (a value on a scale of measurement) derived from a series of observed facts
+    - en: photography
+      stem: photographi
+      pos: 'n'
+      syns:
+        - picture taking
+      def: 'the act of taking and printing photographs  '
+    - en: pleasant
+      stem: pleasant
+      pos: a
+      syns: []
+      def: affording pleasure
+    - en: different
+      stem: differ
+      pos: a
+      syns: []
+      def: unlike in nature or quality or form or degree
+    - en: Actually
+      stem: actual
+      pos: r
+      syns:
+        - actually
+        - really
+      def: in actual fact
+    - en: swimming
+      stem: swim
+      pos: 'n'
+      syns:
+        - swim
+      def: the act of swimming
+    - en: oppressive
+      stem: oppress
+      pos: s
+      syns: []
+      def: weighing heavily on the senses or spirit
 - topic: Punctuality
   cname: punctuality
   pairs:
@@ -195,7 +327,62 @@
       a: 'I guess the best thing to do would be to always allow lots of time to get anywhere. So for example, if it normally takes me, say, half an hour to get to the city centre, then I should probably leave home about an hour before I need to get there.'
     - q: 'If you could go back in time, what would you do differently?'
       a: (If yes) Yeah I do - you can see it right here!
-  vocab: []
+  words:
+    - yourself
+    - anywhere
+    - probably
+    - especially
+    - impression
+    - bothered
+    - something
+    - Important
+  vocab:
+    - en: anywhere
+      stem: anywher
+      pos: r
+      syns:
+        - anyplace
+      def: at or in or to any place
+    - en: probably
+      stem: probabl
+      pos: r
+      syns:
+        - likely
+        - in all_likelihood
+        - in all_probability
+        - belike
+      def: with considerable certainty
+    - en: especially
+      stem: especi
+      pos: r
+      syns:
+        - particularly
+        - peculiarly
+        - specially
+      def: to a distinctly greater extent or degree than is common
+    - en: impression
+      stem: impress
+      pos: 'n'
+      syns:
+        - feeling
+        - belief
+        - notion
+        - opinion
+      def: a vague idea in which some confidence is placed
+    - en: bothered
+      stem: bother
+      pos: s
+      syns:
+        - daunted
+        - fazed
+      def: caused to show discomposure
+    - en: Important
+      stem: import
+      pos: a
+      syns:
+        - important
+        - of import
+      def: of great significance or value
 - topic: Television
   cname: television
   pairs:
@@ -211,7 +398,60 @@
       a: 'Yes, as the techniques have advanced in these years, the TV has also developed a lot. They have become thinner and clearer to be exact. I remember those old TV screens were made with a plasma panel, making the whole TV heavy and big. Then LCD technology and the LED display came out making the TV thinner and lighter so we can enjoy brighter and clearer programmes.'
     - q: Has television changed your life in any way?
       a: 'I believe that watching TV has benefited me in some way, as well as bringing me some detrimental consequences. Watching TV programmes had enabled me to broaden my horizons as I was born and raised in a small county and there were many places and things I had no opportunities to experience. But the TV had helped me to see them. But spending too much time in front of TV also made meaddicted to it and unfortunately harmed my eyes. So I’ve had to wear glasses since middle school'
-  vocab: []
+  words:
+    - Definition
+    - watching
+    - detrimental
+    - football
+    - brighter
+    - entertaining
+    - bringing
+    - favourite
+  vocab:
+    - en: Definition
+      stem: definit
+      pos: 'n'
+      syns:
+        - definition
+      def: 'a concise explanation of the meaning of a word or phrase or symbol  '
+    - en: watching
+      stem: watch
+      pos: 'n'
+      syns:
+        - observation
+        - observance
+      def: the act of observing
+    - en: detrimental
+      stem: detriment
+      pos: s
+      syns:
+        - damaging
+        - prejudicial
+        - prejudicious
+      def: (sometimes followed by `to') causing harm or injury
+    - en: football
+      stem: footbal
+      pos: 'n'
+      syns:
+        - football game
+      def: 'any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other''s goal  '
+    - en: entertaining
+      stem: entertain
+      pos: s
+      syns: []
+      def: agreeably diverting
+    - en: bringing
+      stem: bring
+      pos: 'n'
+      syns:
+        - delivery
+      def: the act of delivering or distributing something (as goods or mail)
+    - en: favourite
+      stem: favourit
+      pos: s
+      syns:
+        - favorite
+      def: appealing to the general public
 - topic: Museum
   cname: museum
   pairs:
@@ -223,13 +463,43 @@
       a: 'Museums are really important in protecting, preserving, propagating and researching numerous human treasures. Once the antiques are in museums, they are permanently out of circulation, which means the public can see them.'
     - q: Did you go to any museums when you were a child?
       a: 'Yes, the reason is that generally, most museums are non-profit organisations, and these goods make up a large part of their income, except for the tickets of course, and also partly because these items are closely related to the theme of the museums, which cannot be bought in other bookstores or shops.'
-    - q: When was the last time you visited a museum?
-      a: ...
-    - q: Do you think museums are important?
-      a: ...
-    - q: Do you think it's suitable for museums to sell things to visitors?
-      a: ...
-  vocab: []
+  words:
+    - nonprofit
+    - generally
+    - numerous
+    - furniture
+    - propagating
+    - residents
+    - treasures
+    - privateowned
+  vocab:
+    - en: nonprofit
+      stem: nonprofit
+      pos: s
+      syns:
+        - non-profit-making
+      def: 'not commercially motivated  '
+    - en: generally
+      stem: gener
+      pos: r
+      syns:
+        - by and_large
+        - more often_than_not
+        - mostly
+      def: usually
+    - en: numerous
+      stem: numer
+      pos: s
+      syns:
+        - legion(p)
+      def: amounting to a large indefinite number
+    - en: furniture
+      stem: furnitur
+      pos: 'n'
+      syns:
+        - piece of_furniture
+        - article of_furniture
+      def: furnishings that make a room or other area ready for occupancy
 - topic: Holidays
   cname: holidays
   pairs:
@@ -243,15 +513,62 @@
       a: 'It''s kind of hard to say but people that I know around me tend to go shopping with their families or friends to take advantage of the sales in the shops, but maybe for others, they probably will stay at home to relax.'
     - q: What did you do during the last public holiday?
       a: 'I believe public holidays are rather important and there should be more of them in my country. The main factor is that people really need to unwind without any distractions after tiring work and also public holidays can dramatically boost consumption, as goods in the shops will be sold at a discount during these days.'
-    - q: What do other people in your country usually do on public holidays?
-      a: ...
-    - q: What would you like to do during then next public holiday?
-      a: ...
-    - q: Do you think public holidays are important?
-      a: ...
-    - q: Do you think there should be more public holidays in your country?
-      a: ...
-  vocab: []
+  words:
+    - personally
+    - Christmas
+    - favourite
+    - travelling
+    - advantage
+    - celebrate
+    - families
+    - Festival
+  vocab:
+    - en: personally
+      stem: person
+      pos: r
+      syns: []
+      def: as yourself
+    - en: Christmas
+      stem: christma
+      pos: 'n'
+      syns:
+        - Christmastide
+        - Christmastime
+        - Yule
+        - Yuletide
+        - Noel
+      def: 'period extending from Dec. 24 to Jan. 6  '
+    - en: favourite
+      stem: favourit
+      pos: s
+      syns:
+        - favorite
+      def: appealing to the general public
+    - en: travelling
+      stem: travel
+      pos: 'n'
+      syns:
+        - travel
+        - traveling
+      def: the act of going from one place to another
+    - en: advantage
+      stem: advantag
+      pos: v
+      syns: []
+      def: give an advantage to
+    - en: celebrate
+      stem: celebr
+      pos: v
+      syns:
+        - observe
+        - keep
+      def: behave as expected during of holidays or rites
+    - en: Festival
+      stem: festiv
+      pos: 'n'
+      syns:
+        - festival
+      def: 'a day or period of time set aside for feasting and celebration  '
 - topic: Film
   cname: film
   pairs:
@@ -267,7 +584,67 @@
       a: 'As for me, I like drama films the best because sometimes they just tell simple but warm and heartfelt stories with provoking and often emotional endings which touch me a lot.'
     - q: What was the first film that you watched?
       a: 'The first film that I watched was the Lion King many years ago in the cinema with my parents. What I can remember now is the terrific animation and the amazing soundtrack. I particularly liked the song Can You Feel the Love Tonight that I knew it was produced by Elton John. And I''ve learned lessons from this movie. It is about living up to our responsibilities, no matter how hard it is.'
-  vocab: []
+  words:
+    - remember
+    - attractive
+    - programmes
+    - particularly
+    - soundtrack
+    - charismatic
+    - heartfelt
+    - especially
+  vocab:
+    - en: remember
+      stem: rememb
+      pos: v
+      syns:
+        - retrieve
+        - recall
+        - call back
+        - call up
+        - recollect
+        - think
+      def: recall knowledge from memory
+    - en: attractive
+      stem: attract
+      pos: a
+      syns: []
+      def: pleasing to the eye or mind especially through beauty or charm
+    - en: particularly
+      stem: particularli
+      pos: r
+      syns:
+        - peculiarly
+        - especially
+        - specially
+      def: to a distinctly greater extent or degree than is common
+    - en: soundtrack
+      stem: soundtrack
+      pos: 'n'
+      syns: []
+      def: 'sound recording on a narrow strip of a motion picture film  '
+    - en: charismatic
+      stem: charismat
+      pos: s
+      syns:
+        - magnetic
+      def: possessing an extraordinary ability to attract
+    - en: heartfelt
+      stem: heartfelt
+      pos: s
+      syns:
+        - dear
+        - devout
+        - earnest
+      def: sincerely earnest
+    - en: especially
+      stem: especi
+      pos: r
+      syns:
+        - particularly
+        - peculiarly
+        - specially
+      def: to a distinctly greater extent or degree than is common
 - topic: Leisure Time
   cname: leisure-time
   pairs:
@@ -285,19 +662,43 @@
       a: 'Well, between the two, old people are fond of a slow-pace of life compared to young people, for example, old people enjoy walking in the garden or chatting with old friends, on the contrary, young people are fond of energetic activities such as football and hiking in the mountains.'
     - q: Do you think people today have more time to relax than in the past?
       a: 'Well, it''s kind of hard to say but people that I know around me tend to hang out with friends for dinner, but maybe for others, they will probably go shopping with family in the shopping malls to enjoy themselves.'
-    - q: Do you think it's important for people to have leisure time?
-      a: ...
-    - q: Do old people and young people spend their leisure time in the same way?
-      a: ...
-    - q: What do you think are the good points and the possible bad points about having leisure time?
-      a: ...
-    - q: How do people in your country spend their holidays?
-      a: ...
-    - q: Do you like to travel in your holidays?
-      a: ...
-    - q: 'If you had a child, what leisure places would you go to with your child?'
-      a: ...
-  vocab: []
+  words:
+    - contrary
+    - itineraries
+    - different
+    - lifestyles
+    - shopping
+    - countryside
+    - compared
+    - convenience
+  vocab:
+    - en: contrary
+      stem: contrari
+      pos: 'n'
+      syns:
+        - reverse
+        - opposite
+      def: a relation of direct opposition
+    - en: different
+      stem: differ
+      pos: a
+      syns: []
+      def: unlike in nature or quality or form or degree
+    - en: shopping
+      stem: shop
+      pos: 'n'
+      syns: []
+      def: searching for or buying goods or services
+    - en: countryside
+      stem: countrysid
+      pos: 'n'
+      syns: []
+      def: 'rural regions  '
+    - en: convenience
+      stem: conveni
+      pos: 'n'
+      syns: []
+      def: the state of being suitable or opportune
 - topic: Sports
   cname: sports
   pairs:
@@ -313,7 +714,50 @@
       a: 'Well, I guess what I''ll try in the future is tennis because it can help me build strength and can improve my flexibility and balance. Besides, tennis is a social activity too; it''s a sport I can enjoy with friends if I play regularly.'
     - q: Have you ever tried any dangerous sports?
       a: 'Oh, no, though my life is quite a bit boring, I''m too scared to do any extreme sports because I don''t think I have enough guts to put myself in these difficult situations.'
-  vocab: []
+  words:
+    - dangerous
+    - situations
+    - regularly
+    - footballer
+    - strength
+    - equipment
+    - entertains
+    - football
+  vocab:
+    - en: dangerous
+      stem: danger
+      pos: a
+      syns:
+        - unsafe
+      def: involving or causing danger or risk
+    - en: regularly
+      stem: regularli
+      pos: r
+      syns:
+        - on a_regular_basis
+      def: in a regular manner
+    - en: footballer
+      stem: footbal
+      pos: 'n'
+      syns:
+        - football player
+      def: 'an athlete who plays American football  '
+    - en: strength
+      stem: strength
+      pos: 'n'
+      syns: []
+      def: the property of being physically or mentally strong
+    - en: equipment
+      stem: equip
+      pos: 'n'
+      syns: []
+      def: 'an instrumentality needed for an undertaking or to perform a service  '
+    - en: football
+      stem: footbal
+      pos: 'n'
+      syns:
+        - football game
+      def: 'any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other''s goal  '
 - topic: Vegetables and fruits
   cname: vegetables-and-fruits
   pairs:
@@ -325,7 +769,58 @@
       a: 'Oh yes, there are loquat trees everywhere in my hometown. Loquat is very sweet and has lots of nutrition and is actually medicinal too.'
     - q: Should we eat vegetables every day?
       a: 'We really need to eat vegetables everyday because you simply cannot find another food group that is as perfectly matched to our everyday human needs. There are various proteins, fibre and vitamin that cannot be found in other foods such as meat.'
-  vocab: []
+  words:
+    - honourable
+    - different
+    - everyday
+    - vegetable
+    - medicinal
+    - perfectly
+    - although
+    - weekends
+  vocab:
+    - en: honourable
+      stem: honour
+      pos: a
+      syns:
+        - honorable
+      def: worthy of being honored
+    - en: different
+      stem: differ
+      pos: a
+      syns: []
+      def: unlike in nature or quality or form or degree
+    - en: everyday
+      stem: everydai
+      pos: s
+      syns:
+        - mundane
+        - quotidian
+        - routine
+        - unremarkable
+        - workaday
+      def: found in the ordinary course of events
+    - en: vegetable
+      stem: veget
+      pos: 'n'
+      syns:
+        - veggie
+        - veg
+      def: 'edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant  '
+    - en: medicinal
+      stem: medicin
+      pos: s
+      syns:
+        - medicative
+      def: having the properties of medicine
+    - en: perfectly
+      stem: perfectli
+      pos: r
+      syns:
+        - absolutely
+        - utterly
+        - dead
+      def: completely and without qualification
 - topic: Maths
   cname: maths
   pairs:
@@ -339,9 +834,65 @@
       a: 'Yes, I''m afraid that I wasn''t quick at figures. And I was also bored with these abstract formulas and found it hard to pick the appropriate ones to solve the maths problems in exams.'
     - q: Is maths difficult for you to learn?
       a: 'No, actually we were not allowed to use the calculator in class or exams because we were asked to calculate the results with pencil and paper. Therefore I''m not that used to using a calculator now.'
-    - q: Do you like to use a calculator?
-      a: ...
-  vocab: []
+  words:
+    - incorrect
+    - learning
+    - remember
+    - mistakes
+    - Therefore
+    - appropriate
+    - formulas
+    - calculate
+  vocab:
+    - en: incorrect
+      stem: incorrect
+      pos: a
+      syns:
+        - wrong
+      def: not correct
+    - en: learning
+      stem: learn
+      pos: 'n'
+      syns:
+        - acquisition
+      def: the cognitive process of acquiring skill or knowledge
+    - en: remember
+      stem: rememb
+      pos: v
+      syns:
+        - retrieve
+        - recall
+        - call back
+        - call up
+        - recollect
+        - think
+      def: recall knowledge from memory
+    - en: Therefore
+      stem: therefor
+      pos: r
+      syns:
+        - therefore
+        - hence
+        - thence
+        - thus
+        - so
+      def: (used to introduce a logical conclusion) from that fact or reason or as a result
+    - en: appropriate
+      stem: appropri
+      pos: a
+      syns: []
+      def: suitable for a particular person or place or condition etc
+    - en: calculate
+      stem: calcul
+      pos: v
+      syns:
+        - cipher
+        - cypher
+        - compute
+        - work out
+        - reckon
+        - figure
+      def: 'make a mathematical calculation or computation  '
 - topic: Sky
   cname: sky
   pairs:
@@ -355,9 +906,72 @@
       a: 'Yes, I believe that astronomy has always had a significant impact on our world view as it can help us open our eyes, give context to our place in the cosmos and that can definitely reshape how we see the world.'
     - q: Is it important to study stars?
       a: 'My favourite star constellation is Orion. It''s very easy to spot on winter nights. Firstly, it has a huge red giant star, which may explode any time soon. Besides, it has a massive blue star which is very young. On top of that it also has a big nebula where new stars are being born - so it has everything!'
-    - q: What's your favourite star?
-      a: ...
-  vocab: []
+  words:
+    - especially
+    - important
+    - hometown
+    - encyclopaedia
+    - definitely
+    - constellation
+    - invisible
+    - knowledge
+  vocab:
+    - en: especially
+      stem: especi
+      pos: r
+      syns:
+        - particularly
+        - peculiarly
+        - specially
+      def: to a distinctly greater extent or degree than is common
+    - en: important
+      stem: import
+      pos: a
+      syns:
+        - of import
+      def: of great significance or value
+    - en: hometown
+      stem: hometown
+      pos: 'n'
+      syns: []
+      def: the town (or city) where you grew up or where you have your principal residence
+    - en: encyclopaedia
+      stem: encyclopaedia
+      pos: 'n'
+      syns:
+        - encyclopedia
+        - cyclopedia
+        - cyclopaedia
+      def: 'a reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty  '
+    - en: definitely
+      stem: definit
+      pos: r
+      syns:
+        - decidedly
+        - unquestionably
+        - emphatically
+        - in spades
+        - by all_odds
+      def: without question and beyond doubt
+    - en: constellation
+      stem: constel
+      pos: 'n'
+      syns:
+        - configuration
+      def: an arrangement of parts or elements
+    - en: invisible
+      stem: invis
+      pos: a
+      syns:
+        - unseeable
+      def: impossible or nearly impossible to see
+    - en: knowledge
+      stem: knowledg
+      pos: 'n'
+      syns:
+        - cognition
+        - noesis
+      def: 'the psychological result of perception and learning and reasoning  '
 - topic: Clothes
   cname: clothes
   pairs:
@@ -371,7 +985,68 @@
       a: 'Yes, when I was a child, I needed to wear a uniform at school from primary school all the way to the very last year of high school; it is a tradition in China, so I believe my parents had to follow this tradition too.'
     - q: Did you like them?
       a: 'No, I really couldn''t stand the school uniform because the clothes were a bit too old- fashioned; in addition, sometimes I was reluctant to wear them because they were too large. I don’t know why they couldn''t be a bit more trendy and colourful like the ones in other countries, like Japan and Australia.'
-  vocab: []
+  words:
+    - colourful
+    - definitely
+    - comfortable
+    - fashioned
+    - sometimes
+    - reluctant
+    - addition
+    - Australia
+  vocab:
+    - en: colourful
+      stem: colour
+      pos: a
+      syns:
+        - colorful
+      def: striking in variety and interest
+    - en: definitely
+      stem: definit
+      pos: r
+      syns:
+        - decidedly
+        - unquestionably
+        - emphatically
+        - in spades
+        - by all_odds
+      def: without question and beyond doubt
+    - en: comfortable
+      stem: comfort
+      pos: a
+      syns:
+        - comfy
+      def: providing or experiencing physical well-being or relief (`comfy' is informal)
+    - en: fashioned
+      stem: fashion
+      pos: s
+      syns: []
+      def: planned and made or fashioned artistically
+    - en: sometimes
+      stem: sometim
+      pos: r
+      syns: []
+      def: on certain occasions or in certain cases but not always
+    - en: reluctant
+      stem: reluct
+      pos: s
+      syns:
+        - loath
+        - loth
+      def: unwillingness to do something contrary to your custom
+    - en: addition
+      stem: addit
+      pos: 'n'
+      syns:
+        - add-on
+        - improver
+      def: a component that is added to something to improve it
+    - en: Australia
+      stem: australia
+      pos: 'n'
+      syns:
+        - Commonwealth of_Australia
+      def: a nation occupying the whole of the Australian continent
 - topic: Weekend
   cname: weekend
   pairs:
@@ -395,9 +1070,62 @@
       a: 'If I were an employee, I would think this is a horrible idea. Employees are human; we all deserve to have some off-work time.'
     - q: Do you think employees should have to work on weekends?
       a: 'Yes, the main factor is that after five-days of hard work, I really need some leisure time to let off steam, or travel around to experience the countryside. Whereas, when I was a kid, I had plenty of time to play, every day was almost the same.'
-    - q: Do you feel that weekends now are more important to you than when you were a child?
-      a: ...
-  vocab: []
+  words:
+    - Normally
+    - experience
+    - remarkable
+    - exercise
+    - tradition
+    - Absolutely
+    - fivedays
+    - exhibition
+  vocab:
+    - en: Normally
+      stem: normal
+      pos: r
+      syns:
+        - normally
+        - usually
+        - unremarkably
+        - commonly
+        - ordinarily
+      def: under normal conditions
+    - en: experience
+      stem: experi
+      pos: 'n'
+      syns: []
+      def: the accumulation of knowledge or skill that results from direct participation in events or activities
+    - en: remarkable
+      stem: remark
+      pos: s
+      syns:
+        - singular
+      def: unusual or striking
+    - en: exercise
+      stem: exercis
+      pos: v
+      syns:
+        - exert
+      def: put to use
+    - en: tradition
+      stem: tradit
+      pos: 'n'
+      syns: []
+      def: 'an inherited pattern of thought or action  '
+    - en: Absolutely
+      stem: absolut
+      pos: r
+      syns:
+        - absolutely
+        - perfectly
+        - utterly
+        - dead
+      def: completely and without qualification
+    - en: exhibition
+      stem: exhibit
+      pos: 'n'
+      syns: []
+      def: the act of exhibiting
 - topic: Reading
   cname: reading
   pairs:
@@ -411,11 +1139,55 @@
       a: 'It''s kind of hard to say but young children that I know tend to read fairy tales to cultivate their mental development, but maybe for others, they just want to watch TV and play with their toys.'
     - q: Do (young) children like reading books?
       a: 'I believe if you want your children to be smart, they have to acquire a love for reading, which has numerous benefits. Reading opens the door to a child''s early academic success, imparts a love of learning and leads to higher grades in every subject. Besides, reading can help children improve linguistic skills in the form of a richer vocabulary, correct grammar, and more articulate oral communication. On top of that, books teach child about relationships, situations, personalities, and what is good and what is bad in the world he/she lives in.'
-    - q: 'For children, what do you think are the benefits of reading?'
-      a: ...
-    - q: What do you think are the benefits of reading to children?
-      a: ...
-  vocab: []
+  words:
+    - articulate
+    - development
+    - knowledge
+    - visiting
+    - communication
+    - numerous
+    - benefits
+    - bookshelf
+  vocab:
+    - en: articulate
+      stem: articul
+      pos: a
+      syns: []
+      def: expressing yourself easily or characterized by clear expressive language
+    - en: development
+      stem: develop
+      pos: 'n'
+      syns: []
+      def: act of improving by expanding or enlarging or refining
+    - en: knowledge
+      stem: knowledg
+      pos: 'n'
+      syns:
+        - cognition
+        - noesis
+      def: 'the psychological result of perception and learning and reasoning  '
+    - en: visiting
+      stem: visit
+      pos: 'n'
+      syns: []
+      def: the activity of making visits
+    - en: communication
+      stem: commun
+      pos: 'n'
+      syns:
+        - communicating
+      def: the activity of communicating
+    - en: numerous
+      stem: numer
+      pos: s
+      syns:
+        - legion(p)
+      def: amounting to a large indefinite number
+    - en: bookshelf
+      stem: bookshelf
+      pos: 'n'
+      syns: []
+      def: 'a shelf on which to keep books  '
 - topic: Sleep
   cname: sleep
   pairs:
@@ -431,7 +1203,58 @@
       a: 'Yes, getting up early in the morning is really beneficial for our health, because we can enjoy the fresh air in the morning; besides we have plenty of time to do some physical exercises liking running and jogging. In the morning I can also prepare a good dinner for the family.'
     - q: Can you sleep well if you are in a noisy environment?
       a: 'Well, I''m afraid that at night I can''t fall asleep in such a noisy place what with barking dogs, loud neighbours and city traffic. This is because I used to sleep in my quiet hometown when I was a kid. So sometimes I envy people who have grown accustomed to environmental noise and can sleep well wherever they lay their head.'
-  vocab: []
+  words:
+    - neighbours
+    - afternoon
+    - wherever
+    - dinnertime
+    - hometown
+    - physical
+    - normally
+    - important
+  vocab:
+    - en: afternoon
+      stem: afternoon
+      pos: 'n'
+      syns: []
+      def: the part of the day between noon and evening
+    - en: wherever
+      stem: wherev
+      pos: r
+      syns:
+        - wheresoever
+      def: 'where in the world  '
+    - en: dinnertime
+      stem: dinnertim
+      pos: 'n'
+      syns:
+        - suppertime
+      def: 'the customary or habitual hour for the evening meal  '
+    - en: hometown
+      stem: hometown
+      pos: 'n'
+      syns: []
+      def: the town (or city) where you grew up or where you have your principal residence
+    - en: physical
+      stem: physic
+      pos: a
+      syns: []
+      def: involving the body as distinguished from the mind or spirit
+    - en: normally
+      stem: normal
+      pos: r
+      syns:
+        - usually
+        - unremarkably
+        - commonly
+        - ordinarily
+      def: under normal conditions
+    - en: important
+      stem: import
+      pos: a
+      syns:
+        - of import
+      def: of great significance or value
 - topic: Tree
   cname: tree
   pairs:
@@ -453,15 +1276,52 @@
       a: 'Yes, once. Thinking back I remember when my middle school organized a hiking trip to a mountainous area, we planted several saplings in the forest, I guess they have grown up into big trees already.'
     - q: Do you think more people should plant trees?
       a: 'Yes, I believe more trees should be planted both in and outside the cities because they can absorb the pollutant gases and provide more oxygen; besides, trees can save water and prevent soil erosion. Therefore, trees are critically important to keep our eco-system balanced. We are supposed to not only plant more trees, but also protect the existing ones.'
-    - q: Do you think we should plant more trees?
-      a: ...
-    - q: Do you think trees are important?
-      a: ...
-    - q: What would you say are the benefits of having trees?
-      a: ...
-    - q: Do you think we need to protect trees?
-      a: ...
-  vocab: []
+  words:
+    - complimenting
+    - Thinking
+    - sycamore
+    - remember
+    - supposed
+    - symbolised
+    - balanced
+    - saplings
+  vocab:
+    - en: Thinking
+      stem: think
+      pos: s
+      syns:
+        - intelligent
+        - reasoning(a)
+        - thinking(a)
+      def: 'endowed with the capacity to reason  '
+    - en: sycamore
+      stem: sycamor
+      pos: 'n'
+      syns:
+        - lacewood
+      def: 'variably colored and sometimes variegated hard tough elastic wood of a sycamore tree  '
+    - en: remember
+      stem: rememb
+      pos: v
+      syns:
+        - retrieve
+        - recall
+        - call back
+        - call up
+        - recollect
+        - think
+      def: recall knowledge from memory
+    - en: supposed
+      stem: suppos
+      pos: s
+      syns:
+        - supposed(p)
+      def: required or under orders
+    - en: balanced
+      stem: balanc
+      pos: a
+      syns: []
+      def: being in a state of proper equilibrium
 - topic: Newspapers
   cname: newspapers
   pairs:
@@ -485,15 +1345,36 @@
       a: 'Well, I guess that newspapers have a great influence on society. Newspapers keep people informed about the economy, politics, science and education. Also, it tells us something about our society and the country. Moreover, it also helps to educate people about their rights and duties.'
     - q: What kinds of news do Chinese people read in newspapers?
       a: 'Yes, getting news from the Internet is popular now because it''s very convenient to get news from the Internet via a mobile phone. The news apps on my mobile phone usually send me the most urgent notifications so it keeps me posted minute by minute.'
-    - q: Do you prefer to read about domestic (or local) news or international news? (Why?)
-      a: ...
-    - q: What are some methods that newspapers use to attract readers?
-      a: ...
-    - q: What influence do you think newspapers have on society?
-      a: ...
-    - q: Do you think the Internet is a good way to get news?
-      a: ...
-  vocab: []
+  words:
+    - magazines
+    - sometimes
+    - religions
+    - insights
+    - education
+    - interested
+    - notifications
+    - interests
+  vocab:
+    - en: sometimes
+      stem: sometim
+      pos: r
+      syns: []
+      def: on certain occasions or in certain cases but not always
+    - en: education
+      stem: educ
+      pos: 'n'
+      syns:
+        - instruction
+        - teaching
+        - pedagogy
+        - didactics
+        - educational activity
+      def: the activities of educating or instructing
+    - en: interested
+      stem: interest
+      pos: a
+      syns: []
+      def: having or showing interest
 - topic: Text messages
   cname: text-messages
   pairs:
@@ -505,7 +1386,48 @@
       a: 'Yes, I remember when I had to refuse some friends requests I had to think carefully for a long time about how to reply.'
     - q: How often do you send text messages?
       a: 'I send text messages almost on a daily basis. I always text my friends and family to say hello, chat and make travelling plans.'
-  vocab: []
+  words:
+    - telephone
+    - difficulty
+    - carefully
+    - replying
+    - requests
+    - messages
+    - conference
+    - travelling
+  vocab:
+    - en: telephone
+      stem: telephon
+      pos: v
+      syns:
+        - call
+        - call up
+        - phone
+        - ring
+      def: get or try to get into communication (with someone) by telephone
+    - en: difficulty
+      stem: difficulti
+      pos: 'n'
+      syns:
+        - trouble
+      def: an effort that is inconvenient
+    - en: carefully
+      stem: carefulli
+      pos: r
+      syns: []
+      def: taking care or paying attention
+    - en: conference
+      stem: confer
+      pos: 'n'
+      syns: []
+      def: 'a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)  '
+    - en: travelling
+      stem: travel
+      pos: 'n'
+      syns:
+        - travel
+        - traveling
+      def: the act of going from one place to another
 - topic: Memorising
   cname: memorising
   pairs:
@@ -517,7 +1439,62 @@
       a: 'Well, I guess it''s quite normal that elderly people become more and more forgetful. Apart from some negative emotional factors like stress and depression, elderly people tend to forget things because of the normal ageing process.'
     - q: Have you ever forgotten something important?
       a: 'Oh yes, I nearly forgot the birthday of a woman I liked. I had asked her what her birthday was, and told her I would send her a gift, but unbelievably I forgot it until the evening of that day. Fortunately I asked her out to dinner to celebrate and I saved the day.'
-  vocab: []
+  words:
+    - notebooks
+    - emotional
+    - birthday
+    - remember
+    - celebrate
+    - forgetful
+    - physical
+    - forgotten
+  vocab:
+    - en: emotional
+      stem: emot
+      pos: a
+      syns: []
+      def: determined or actuated by emotion rather than reason
+    - en: birthday
+      stem: birthdai
+      pos: 'n'
+      syns: []
+      def: 'an anniversary of the day on which a person was born (or the celebration of it)  '
+    - en: remember
+      stem: rememb
+      pos: v
+      syns:
+        - retrieve
+        - recall
+        - call back
+        - call up
+        - recollect
+        - think
+      def: recall knowledge from memory
+    - en: celebrate
+      stem: celebr
+      pos: v
+      syns:
+        - observe
+        - keep
+      def: behave as expected during of holidays or rites
+    - en: forgetful
+      stem: forget
+      pos: a
+      syns:
+        - unretentive
+        - short
+      def: (of memory) deficient in retentiveness or range
+    - en: physical
+      stem: physic
+      pos: a
+      syns: []
+      def: involving the body as distinguished from the mind or spirit
+    - en: forgotten
+      stem: forgotten
+      pos: s
+      syns:
+        - disregarded
+      def: not noticed inadvertently
 - topic: Friends
   cname: friends
   pairs:
@@ -529,7 +1506,62 @@
       a: 'Well, that depends. We sometimes go to a restaurant to enjoy tasty food if someone knows a decent place. Also if we have plenty of time we like to plan a hike or camp in a nearby forest park to enjoy outdoor life. That would be a very memorable experience.'
     - q: Do you like to go out with a big group or just few friends?
       a: 'Well, if I had to choose between the two, I would probably go with hanging out with a big group people because I think that I am an extrovert. I like to meet different people to know about different kinds of life and make myself more sociable; whereas, you know, with only a few people around, it would be hard to find something interesting to do, such as travelling, hiking, etc.'
-  vocab: []
+  words:
+    - Normally
+    - kindergarten
+    - weekends
+    - frequently
+    - experience
+    - interesting
+    - playground
+    - together
+  vocab:
+    - en: Normally
+      stem: normal
+      pos: r
+      syns:
+        - normally
+        - usually
+        - unremarkably
+        - commonly
+        - ordinarily
+      def: under normal conditions
+    - en: kindergarten
+      stem: kindergarten
+      pos: 'n'
+      syns: []
+      def: 'a preschool for children age 4 to 6 to prepare them for primary school  '
+    - en: frequently
+      stem: frequent
+      pos: r
+      syns:
+        - often
+        - oftentimes
+        - oft
+        - ofttimes
+      def: many times at short intervals
+    - en: experience
+      stem: experi
+      pos: 'n'
+      syns: []
+      def: the accumulation of knowledge or skill that results from direct participation in events or activities
+    - en: interesting
+      stem: interest
+      pos: a
+      syns: []
+      def: 'arousing or holding the attention  '
+    - en: playground
+      stem: playground
+      pos: 'n'
+      syns:
+        - resort area
+        - vacation spot
+      def: 'an area where many people go for recreation  '
+    - en: together
+      stem: togeth
+      pos: s
+      syns: []
+      def: mentally and emotionally stable
 - topic: Travelling
   cname: travelling
   pairs:
@@ -541,7 +1573,57 @@
       a: 'yellow or red so you will see the beautiful colours of the trees all around you. Wherever you go, you will have a memorable trip.'
     - q: Would you say your country is a good place for travellers to visit?
       a: 'Yes, Chinese people are renowned for their hospitality to visitors. There are numerous tourist attractions around the country. For instance, you can visit the countryside to see the picturesque views, or you can visit historical relics to get to know about the events that have shaped Chinas long history, or you can just stay in the cities to experience how the local people live.'
-  vocab: []
+  words:
+    - beautiful
+    - historical
+    - instance
+    - tourists
+    - renowned
+    - hospitality
+    - attractions
+    - comfortable
+  vocab:
+    - en: beautiful
+      stem: beauti
+      pos: a
+      syns: []
+      def: delighting the senses or exciting intellectual or emotional admiration
+    - en: historical
+      stem: histor
+      pos: a
+      syns: []
+      def: of or relating to the study of history
+    - en: instance
+      stem: instanc
+      pos: v
+      syns:
+        - exemplify
+        - illustrate
+      def: 'clarify by giving an example of  '
+    - en: renowned
+      stem: renown
+      pos: s
+      syns:
+        - celebrated
+        - famed
+        - far-famed
+        - famous
+        - illustrious
+        - notable
+        - noted
+      def: widely known and esteemed
+    - en: hospitality
+      stem: hospit
+      pos: 'n'
+      syns:
+        - cordial reception
+      def: 'kindness in welcoming guests or strangers  '
+    - en: comfortable
+      stem: comfort
+      pos: a
+      syns:
+        - comfy
+      def: providing or experiencing physical well-being or relief (`comfy' is informal)
 - topic: Transportation
   cname: transportation
   pairs:
@@ -561,7 +1643,52 @@
       a: 'I believe private transportation will become the most popular means of transportation in my country because as people get richer, people will tend to buy cars for their families and businesses, and obviously China has already become the biggest market for vehicles in the world.'
     - q: Do you prefer public transportation or private transportation?
       a: 'Well, if I had to choose between the two, I''d probably go to work in my own car because it''s much more comfortable than being in a crowded bus or subway.'
-  vocab: []
+  words:
+    - advantages
+    - somewhere
+    - impossible
+    - costeffective
+    - alternative
+    - businesses
+    - transportation
+    - obviously
+  vocab:
+    - en: somewhere
+      stem: somewher
+      pos: r
+      syns:
+        - someplace
+      def: in or at or to some place
+    - en: impossible
+      stem: imposs
+      pos: 'n'
+      syns: []
+      def: something that cannot be done
+    - en: alternative
+      stem: altern
+      pos: 'n'
+      syns:
+        - option
+        - choice
+      def: one of a number of things from which only one can be chosen
+    - en: transportation
+      stem: transport
+      pos: 'n'
+      syns:
+        - transportation system
+        - transit
+      def: 'a facility consisting of the means and equipment necessary for the movement of passengers or goods  '
+    - en: obviously
+      stem: obvious
+      pos: r
+      syns:
+        - evidently
+        - manifestly
+        - patently
+        - apparently
+        - plainly
+        - plain
+      def: unmistakably (`plain' is often used informally for `plainly')
 - topic: Letters or Emails
   cname: letters-or-emails
   pairs:
@@ -579,19 +1706,46 @@
       a: 'Well, if I had to choose between the two, I will probably go with writing an email because I can spend plenty of time thinking about how to express my opinions correctly and clearly, besides, the whole conversation can be tracked in the electronic mail; whereas, you know, making a telephone call usually leads to misunderstanding because sometimes it is not very clear and things get missed'
     - q: What kinds of letter/email do you think is the hardest to write?
       a: 'I believe that as a major method of communication between people, letter writing has a long and interesting history; besides, handwritten letters are personal. They show the receiver that someone has spent time and effort in communicating with them. They are a way of connecting two people that cannot be achieved through the impersonal use of texts or instant messages. Therefore, I think that handwritten letters will still be around in the future.'
-    - q: How do you feel when you receive a letter or email?
-      a: ...
-    - q: What sorts of letters or emails are the most difficult to reply to?
-      a: ...
-    - q: What kinds of emails (or letters) do you receive that make you feel excited?
-      a: ...
-    - q: Which do you prefer to make a phone call or write an email?
-      a: ...
-    - q: Do you think people will still write letters in the future?
-      a: ...
-    - q: How do you communicate with others at work - by emails or is it more convenient to communicate face-to-face?
-      a: ...
-  vocab: []
+  words:
+    - individuals
+    - traditional
+    - receiver
+    - conversation
+    - probably
+    - personal
+    - letteremail
+    - Smartphone
+  vocab:
+    - en: traditional
+      stem: tradit
+      pos: a
+      syns: []
+      def: consisting of or derived from tradition
+    - en: receiver
+      stem: receiv
+      pos: 'n'
+      syns:
+        - receiving system
+      def: 'set that receives radio or tv signals  '
+    - en: conversation
+      stem: convers
+      pos: 'n'
+      syns: []
+      def: 'the use of speech for informal exchange of views or ideas or information etc.  '
+    - en: probably
+      stem: probabl
+      pos: r
+      syns:
+        - likely
+        - in all_likelihood
+        - in all_probability
+        - belike
+      def: with considerable certainty
+    - en: personal
+      stem: person
+      pos: 'n'
+      syns: []
+      def: 'a short newspaper article about a particular person or group  '
 - topic: Swimming
   cname: swimming
   pairs:
@@ -601,7 +1755,29 @@
       a: 'Yes, there are a few public swimming pools. There is the main indoor one at a big sports complex in the centre of town. There are also a couple of outdoor ones, but you can only use them in summer, as it is too cold in winter. There is a big one in a park, whereas the other is much smaller.'
     - q: Do you think everyone should learn to swim?
       a: 'Of course, I think it''s very important to learn to swim. First, you might spend a lot of holidays by water, for example, when you go to the beach or go to a lake, so you won''t be able to enjoy yourself with your friends if you can''t swim. Also, for safety reasons it''s very important. You often hear about accidents involving young children so it''s very important.'
-  vocab: []
+  words:
+    - yourself
+    - involving
+    - holidays
+    - swimming
+    - accidents
+    - everyone
+    - children
+    - Swimming
+  vocab:
+    - en: swimming
+      stem: swim
+      pos: 'n'
+      syns:
+        - swim
+      def: the act of swimming
+    - en: Swimming
+      stem: swim
+      pos: 'n'
+      syns:
+        - swimming
+        - swim
+      def: the act of swimming
 - topic: Snacks
   cname: snacks
   pairs:
@@ -615,7 +1791,51 @@
       a: 'I think that if you’re hungry, it’s perfectly fine to have some fruit but if people eat junk food between meals, then it’s really unhealthy.'
     - q: What about snacking between meals?
       a: 'I think all kind of snacking between main meals is bad for your health. If people avoided snacking, they would be much healthier and less over weight.'
-  vocab: []
+  words:
+    - unhealthy
+    - generally
+    - perfectly
+    - healthier
+    - snacking
+    - biscuits
+    - something
+    - chocolate
+  vocab:
+    - en: unhealthy
+      stem: unhealthi
+      pos: a
+      syns: []
+      def: not in or exhibiting good health in body or mind
+    - en: generally
+      stem: gener
+      pos: r
+      syns:
+        - by and_large
+        - more often_than_not
+        - mostly
+      def: usually
+    - en: perfectly
+      stem: perfectli
+      pos: r
+      syns:
+        - absolutely
+        - utterly
+        - dead
+      def: completely and without qualification
+    - en: healthier
+      stem: healthier
+      pos: s
+      syns:
+        - fitter
+      def: 'improved in health or physical condition  '
+    - en: chocolate
+      stem: chocol
+      pos: 'n'
+      syns:
+        - cocoa
+        - hot chocolate
+        - drinking chocolate
+      def: a beverage made from cocoa powder and milk and sugar
 - topic: Photography
   cname: photography
   pairs:
@@ -631,23 +1851,66 @@
       a: 'Yes, I used to print some photos of my kid to hang in his room, they help us have good memories of the happy times we have together.'
     - q: In what situations do you take photographs?
       a: 'Well, if I had to choose between the two, I''ll probably go with my own photos because they are unique and getting a lot of positive comments from friends is a pleasant thing. Whereas postcards are not as meaningful to me as the photos I take myself.'
-    - q: What kind of photos do you like to take?
-      a: ...
-    - q: Do you prefer to take pictures of people or of scenery?
-      a: ...
-    - q: Who do you take photos of?
-      a: ...
-    - q: How do you keep your photos?
-      a: ...
-    - q: Do you keep your photographs on your computer?
-      a: ...
-    - q: Are there any photos on the walls of your home?
-      a: ...
-    - q: 'Do you frame (of have you framed) any of your photos? (If yes, which? & why?)'
-      a: ...
-    - q: Do you prefer to send postcards to people or to send photos that you took yourself?
-      a: ...
-  vocab: []
+  words:
+    - ceremony
+    - photographs
+    - embarrassed
+    - twilight
+    - happiness
+    - precious
+    - graduation
+    - Normally
+  vocab:
+    - en: ceremony
+      stem: ceremoni
+      pos: 'n'
+      syns:
+        - ceremonial
+        - ceremonial occasion
+        - observance
+      def: a formal event performed on a special occasion
+    - en: embarrassed
+      stem: embarrass
+      pos: s
+      syns:
+        - abashed
+        - chagrined
+      def: feeling or caused to feel ill at ease or self-conscious or ashamed
+    - en: twilight
+      stem: twilight
+      pos: s
+      syns:
+        - dusky
+        - twilight(a)
+        - twilit
+      def: lighted by or as if by twilight
+    - en: happiness
+      stem: happi
+      pos: 'n'
+      syns:
+        - felicity
+      def: 'state of well-being characterized by emotions ranging from contentment to intense joy  '
+    - en: precious
+      stem: preciou
+      pos: r
+      syns:
+        - preciously
+      def: extremely
+    - en: graduation
+      stem: graduat
+      pos: 'n'
+      syns: []
+      def: 'the successful completion of a program of study  '
+    - en: Normally
+      stem: normal
+      pos: r
+      syns:
+        - normally
+        - usually
+        - unremarkably
+        - commonly
+        - ordinarily
+      def: under normal conditions
 - topic: Helping people
   cname: helping-people
   pairs:
@@ -659,9 +1922,52 @@
       a: 'When I was young, my parents and teachers taught me a lot about helping others. It is a core virtue in my culture, the solidarity of community is the thing that keeps members of society connected so we are always willing to help each other'
     - q: Have you ever refused to help others?
       a: 'Yeah, sometimes when I am in hurry or on business I don’t have time so I have to say sorry that I can’t help'
-    - q: Would you like to keep helping others in future?
-      a: ...
-  vocab: []
+  words:
+    - familiar
+    - importance
+    - important
+    - problems
+    - teachers
+    - business
+    - community
+    - thankful
+  vocab:
+    - en: familiar
+      stem: familiar
+      pos: 'n'
+      syns: []
+      def: 'a person attached to the household of a high official (as a pope or bishop) who renders service in return for support  '
+    - en: importance
+      stem: import
+      pos: 'n'
+      syns: []
+      def: the quality of being important and worthy of note
+    - en: important
+      stem: import
+      pos: a
+      syns:
+        - of import
+      def: of great significance or value
+    - en: business
+      stem: busi
+      pos: 'n'
+      syns:
+        - concern
+        - business concern
+        - business organization
+        - business organisation
+      def: a commercial or industrial enterprise and the people who constitute it
+    - en: community
+      stem: commun
+      pos: 'n'
+      syns: []
+      def: a group of people living in a particular local area
+    - en: thankful
+      stem: thank
+      pos: a
+      syns:
+        - grateful
+      def: feeling or showing gratitude
 - topic: History
   cname: history
   pairs:
@@ -679,9 +1985,56 @@
       a: Yes. History is full of debates but you can understand both sides of the story by going online which will help you to become aware of the true facts and be able to think critically about these things. I’m always Googling for interesting historical materials about the Song Dynasty. I want to know the truth of the matter.
     - q: Can you name a person from history who you would like to learn more about?
       a: 'The person I''d like to learn about is Wu Chengen, the author of A Journey to the West. He combined folk tales and his own imagination to write this great fairy story in the 16th century. I want to know about his personality and find out as much as possible about him. I believe that his imagination is what is lacking in many writers nowadays.'
-    - q: Why would you like to learn more about him/her?
-      a: ...
-  vocab: []
+  words:
+    - renowned
+    - decisive
+    - possible
+    - Kingdoms
+    - materials
+    - identity
+    - understanding
+    - Personally
+  vocab:
+    - en: renowned
+      stem: renown
+      pos: s
+      syns:
+        - celebrated
+        - famed
+        - far-famed
+        - famous
+        - illustrious
+        - notable
+        - noted
+      def: widely known and esteemed
+    - en: decisive
+      stem: decis
+      pos: a
+      syns: []
+      def: determining or having the power to determine an outcome
+    - en: possible
+      stem: possibl
+      pos: 'n'
+      syns: []
+      def: something that can be done
+    - en: identity
+      stem: ident
+      pos: 'n'
+      syns:
+        - personal identity
+        - individuality
+      def: the distinct personality of an individual regarded as a persisting entity
+    - en: understanding
+      stem: understand
+      pos: s
+      syns: []
+      def: characterized by understanding based on comprehension and discernment and empathy
+    - en: Personally
+      stem: person
+      pos: r
+      syns:
+        - personally
+      def: as yourself
 - topic: Handwriting
   cname: handwriting
   pairs:
@@ -697,25 +2050,55 @@
       a: 'In China, children usually learn to write in elementary school. They firstly learn the basic elements of the Chinese characters, then the simple characters, and finally the complicated ones. They will have to do a lot of writing practice to remember them. The more they practice, the better they write.'
     - q: What are your main reasons for using e-mails?
       a: 'Yes, I feel that handwriting allows people to have more opportunity because if you have decent handwriting, people will admire you and you are considered to be both well educated and literate.'
-    - q: Do you like to send e-mails?
-      a: ...
-    - q: Do you usually write by hand or write using a computer?
-      a: ...
-    - q: 'Nowadays, how do most people write things?'
-      a: ...
-    - q: Do you think computers might one day replace handwriting?
-      a: ...
-    - q: When do children begin to write in your country?
-      a: ...
-    - q: How did you learn to write?
-      a: ...
-    - q: Do you think handwriting is very important (nowadays)?
-      a: ...
-    - q: 'How can children today improve (or, practice) their handwriting?'
-      a: ...
-    - q: What impression does a person's handwriting have on other people?
-      a: ...
-  vocab: []
+  words:
+    - opportunity
+    - efficient
+    - remember
+    - documentaries
+    - technical
+    - training
+    - convenience
+    - discussing
+  vocab:
+    - en: opportunity
+      stem: opportun
+      pos: 'n'
+      syns:
+        - chance
+      def: a possibility due to a favorable combination of circumstances
+    - en: efficient
+      stem: effici
+      pos: a
+      syns: []
+      def: being effective without wasting time or effort or expense
+    - en: remember
+      stem: rememb
+      pos: v
+      syns:
+        - retrieve
+        - recall
+        - call back
+        - call up
+        - recollect
+        - think
+      def: recall knowledge from memory
+    - en: technical
+      stem: technic
+      pos: 'n'
+      syns: []
+      def: 'a pickup truck with a gun mounted on it  '
+    - en: training
+      stem: train
+      pos: 'n'
+      syns:
+        - preparation
+        - grooming
+      def: 'activity leading to skilled behavior  '
+    - en: convenience
+      stem: conveni
+      pos: 'n'
+      syns: []
+      def: the state of being suitable or opportune
 - topic: Music
   cname: music
   pairs:
@@ -733,23 +2116,36 @@
       a: 'I don’t get enough time to listen to music because I have to spend all my time studying. This was one of my biggest disappointments during my childhood, so when I got to university the first thing I did was to buy a new mp3 player.'
     - q: When did you start listening to this type of music?
       a: 'I believe that currently in China the most popular music is pop music. There are many famous pop singers now, they are releasing numerous albums every year, and they are always trendy for a short period of time.'
-    - q: Where do you listen to it?
-      a: ...
-    - q: How do you feel when you listen to this music?
-      a: ...
-    - q: Do you like listening to songs?
-      a: ...
-    - q: Have you ever been to a musical performance?
-      a: ...
-    - q: Have you ever learned to play a musical instrument?
-      a: ...
-    - q: Is music an important subject at school in China?
-      a: ...
-    - q: 'Did you often listen to music when you were a child? (If yes, give details.)'
-      a: ...
-    - q: What kinds of music are most popular in China?
-      a: ...
-  vocab: []
+  words:
+    - traditional
+    - nostalgic
+    - weekends
+    - performances
+    - audience
+    - encountered
+    - American
+    - exercises
+  vocab:
+    - en: traditional
+      stem: tradit
+      pos: a
+      syns: []
+      def: consisting of or derived from tradition
+    - en: nostalgic
+      stem: nostalg
+      pos: s
+      syns: []
+      def: 'unhappy about being away and longing for familiar things or persons  '
+    - en: audience
+      stem: audienc
+      pos: 'n'
+      syns: []
+      def: a gathering of spectators or listeners at a (usually public) performance
+    - en: American
+      stem: american
+      pos: a
+      syns: []
+      def: of or relating to the United States of America or its people or language or culture
 - topic: Colours
   cname: colours
   pairs:
@@ -767,17 +2163,70 @@
       a: 'I would like to paint my walls light yellow or light blue because light colours convey warmth and are calm to which, in my opinion, are more suitable for the living rooms.'
     - q: Is colour very important to you when you are buying clothes?
       a: 'Yes, I believe different people have different psychological need for colours. Some need peace of mind, whereas others colours might be more energetic and rebellious.'
-    - q: 'Do you prefer light or dark (or, bright) colours?'
-      a: ...
-    - q: Are there any colours that have a special meaning in your country?
-      a: ...
-    - q: What colour would you choose to paint the walls of your room?
-      a: ...
-    - q: Is there any colour you would not want your walls to be? (Why?)
-      a: ...
-    - q: Do you think different types of people like different colours?
-      a: ...
-  vocab: []
+  words:
+    - mysterious
+    - suitable
+    - tranquil
+    - highlight
+    - confidence
+    - something
+    - energetic
+    - professionalism
+  vocab:
+    - en: mysterious
+      stem: mysteri
+      pos: s
+      syns:
+        - cryptic
+        - cryptical
+        - deep
+        - inscrutable
+        - mystifying
+      def: of an obscure nature
+    - en: suitable
+      stem: suitabl
+      pos: s
+      syns:
+        - suited
+      def: meant or adapted for an occasion or use
+    - en: tranquil
+      stem: tranquil
+      pos: s
+      syns:
+        - placid
+        - quiet
+        - still
+        - smooth
+        - unruffled
+      def: (of a body of water) free from disturbance by heavy waves
+    - en: highlight
+      stem: highlight
+      pos: v
+      syns:
+        - foreground
+        - spotlight
+        - play up
+      def: move into the foreground to make more visible or prominent
+    - en: confidence
+      stem: confid
+      pos: 'n'
+      syns:
+        - assurance
+        - self-assurance
+        - self-confidence
+        - authority
+        - sureness
+      def: freedom from doubt
+    - en: energetic
+      stem: energet
+      pos: a
+      syns: []
+      def: possessing or exerting or displaying energy
+    - en: professionalism
+      stem: profession
+      pos: 'n'
+      syns: []
+      def: 'the expertness characteristic of a professional person  '
 - topic: Teachers
   cname: teachers
   pairs:
@@ -785,13 +2234,58 @@
       a: My favourite teacher in my middle school was my physics teacher his name was Mr. Zhang. He was the most influential teacher I have ever had. He taught us a lot of background stuff about physics to encourage and motivate us because physics is quite complicated and difficult for us. I still remember that he frequently told us that physics was gymnastics for the brain. He really inspired my enthusiasm to learn it as well as I could.
     - q: Why do you like the teacher?
       a: 'I don''t think I would be a good teacher; I am not a patient man and cannot bear to repeat the same things frequently. A teachers'' job would be really boring for me, you have to make your explanations as easy as possible for students to fully understand. It is a challenging job, I am afraid I cannot do it.'
-    - q: How does (did) this teacher help you?
-      a: ...
-    - q: Do you think you could be a teacher?
-      a: ...
-    - q: Would you like to be a teacher?
-      a: ...
-  vocab: []
+  words:
+    - motivate
+    - teachers
+    - influential
+    - students
+    - difficult
+    - encourage
+    - background
+    - enthusiasm
+  vocab:
+    - en: motivate
+      stem: motiv
+      pos: v
+      syns:
+        - actuate
+        - propel
+        - move
+        - prompt
+        - incite
+      def: give an incentive for action
+    - en: influential
+      stem: influenti
+      pos: a
+      syns: []
+      def: having or exercising influence or power
+    - en: difficult
+      stem: difficult
+      pos: a
+      syns:
+        - hard
+      def: not easy
+    - en: encourage
+      stem: encourag
+      pos: v
+      syns:
+        - promote
+        - advance
+        - boost
+        - further
+      def: contribute to the progress or growth of
+    - en: background
+      stem: background
+      pos: v
+      syns:
+        - play down
+        - downplay
+      def: understate the importance or quality of
+    - en: enthusiasm
+      stem: enthusiasm
+      pos: 'n'
+      syns: []
+      def: 'a feeling of excitement  '
 - topic: Being in a hurry
   cname: being-in-a-hurry
   pairs:
@@ -801,7 +2295,23 @@
       a: 'I guess when people are working, for example if a doctor is doing an operation a slight mistake could be vital to the patient. Also if a person is taking a test they should concentrate or they might make mistakes'
     - q: Why do people make mistakes when they are in hurry?
       a: 'No, I don''t like to do things quickly because I will not concentrate or I might make mistakes.'
-  vocab: []
+  words:
+    - operation
+    - something
+    - mistakes
+    - concentrate
+  vocab:
+    - en: operation
+      stem: oper
+      pos: 'n'
+      syns: []
+      def: the state of being in effect or being operative
+    - en: concentrate
+      stem: concentr
+      pos: 'n'
+      syns:
+        - dressed ore
+      def: 'the desired mineral that is left after impurities have been removed from mined ore  '
 - topic: Being alone
   cname: being-alone
   pairs:
@@ -813,7 +2323,47 @@
       a: 'Well, if I had to choose between the two, I will probably go with hanging out with my close friends because such friendships really adds spice to my life; whereas, you know, spending too much time being alone is really boring.'
     - q: When was the last time you were being alone?
       a: 'The last time I stayed alone at home was when my wife went on a business trip with our child for several days. So I was living, eating, sleeping at home alone. It was quite a quiet time so I could do what I wanted when I wanted to do it. .'
-  vocab: []
+  words:
+    - spending
+    - something
+    - interruption
+    - anything
+    - mornings
+    - friendships
+    - business
+    - sleeping
+  vocab:
+    - en: spending
+      stem: spend
+      pos: 'n'
+      syns:
+        - disbursement
+        - disbursal
+        - outlay
+      def: 'the act of spending or disbursing money  '
+    - en: interruption
+      stem: interrupt
+      pos: 'n'
+      syns:
+        - break
+        - disruption
+        - gap
+      def: an act of delaying or interrupting the continuity
+    - en: business
+      stem: busi
+      pos: 'n'
+      syns:
+        - concern
+        - business concern
+        - business organization
+        - business organisation
+      def: a commercial or industrial enterprise and the people who constitute it
+    - en: sleeping
+      stem: sleep
+      pos: s
+      syns:
+        - dormant(ip)
+      def: 'lying with head on paws as if sleeping  '
 - topic: Teamwork
   cname: teamwork
   pairs:
@@ -825,7 +2375,50 @@
       a: I think the most important thing for teamwork is deciding who does what. Every member of team should be assigned specific tasks and he or she should stick to that. Also team spirit is equally important
     - q: Do you like to be a leader?
       a: 'Honestly, I would like to be a leader. Being a leader would reflect the hard work I’ve put into the job. I can win other peoples respect as well'
-  vocab: []
+  words:
+    - warehouse
+    - specific
+    - analysis
+    - responsibility
+    - yourself
+    - problems
+    - Personally
+    - teamwork
+  vocab:
+    - en: warehouse
+      stem: warehous
+      pos: v
+      syns: []
+      def: 'store in a warehouse  '
+    - en: specific
+      stem: specif
+      pos: 'n'
+      syns:
+        - particular
+      def: a fact about some part (as opposed to general)
+    - en: analysis
+      stem: analysi
+      pos: 'n'
+      syns: []
+      def: 'an investigation of the component parts of a whole and their relations in making up the whole  '
+    - en: responsibility
+      stem: respons
+      pos: 'n'
+      syns:
+        - duty
+        - obligation
+      def: the social force that binds you to the courses of action demanded by that force
+    - en: Personally
+      stem: person
+      pos: r
+      syns:
+        - personally
+      def: as yourself
+    - en: teamwork
+      stem: teamwork
+      pos: 'n'
+      syns: []
+      def: cooperative work done by a team (especially when it is effective)
 - topic: Countryside
   cname: countryside
   pairs:
@@ -837,7 +2430,36 @@
       a: 'Living in the countryside can definitely benefit people in a number of ways. For one thing, it''s good for one''s health thanks to significantly lower levels of pollution. It is undeniable that air quality in big cities is so bad that long-term exposure to it may cause respiratory diseases and other health problems. Besides, the cost of living in rural areas is likely to be lower than that in cities.'
     - q: What are the differences between living in the city and the countryside?
       a: 'However, many people have been attracted to live and work in big cities because of better employment opportunities and higher living standards.'
-  vocab: []
+  words:
+    - standards
+    - countryside
+    - benefits
+    - significantly
+    - pollution
+    - opportunities
+    - exposure
+    - attracted
+  vocab:
+    - en: countryside
+      stem: countrysid
+      pos: 'n'
+      syns: []
+      def: 'rural regions  '
+    - en: significantly
+      stem: significantli
+      pos: r
+      syns: []
+      def: in a statistically significant way
+    - en: pollution
+      stem: pollut
+      pos: 'n'
+      syns: []
+      def: 'undesirable state of the natural environment being contaminated with harmful substances as a consequence of human activities  '
+    - en: exposure
+      stem: exposur
+      pos: 'n'
+      syns: []
+      def: vulnerability to the elements
 - topic: Social network
   cname: social-network
   pairs:
@@ -849,7 +2471,44 @@
       a: 'I love to make friends with people who have same interests as me such as music, travelling and learning English'
     - q: Is it good to find real friends on social network?
       a: 'I think no, most of the friends I have on Facebook are just normal friends, it is common that people just make friends for fun and sometimes will not even meet face to face. But we do tend to share things a lot on social websites.'
-  vocab: []
+  words:
+    - outgoing
+    - sometimes
+    - interests
+    - addicted
+    - learning
+    - Facebook
+    - websites
+    - travelling
+  vocab:
+    - en: outgoing
+      stem: outgo
+      pos: a
+      syns: []
+      def: leaving a place or a position
+    - en: sometimes
+      stem: sometim
+      pos: r
+      syns: []
+      def: on certain occasions or in certain cases but not always
+    - en: addicted
+      stem: addict
+      pos: a
+      syns: []
+      def: compulsively or physiologically dependent on something habit-forming
+    - en: learning
+      stem: learn
+      pos: 'n'
+      syns:
+        - acquisition
+      def: the cognitive process of acquiring skill or knowledge
+    - en: travelling
+      stem: travel
+      pos: 'n'
+      syns:
+        - travel
+        - traveling
+      def: the act of going from one place to another
 - topic: Hanging out with friends
   cname: hanging-out-with-friends
   pairs:
@@ -861,4 +2520,55 @@
       a: 'Well, that depends. Sometimes we go to a restaurant to enjoy tasty food if someone knows a decent place. But if we have plenty of time, we like to plan a hike or camp in a nearby forest park to enjoy the countryside. That would be a very memorable experience.'
     - q: Do you like to go out with a big group or just few friends?
       a: 'Well, if I had to choose between the two, I would go with hanging out with a big group people because I feel that I am an extrovert. I like to meet different people and get to know about them and their different kinds of life. I like to be sociable whereas, you know, with few people around, it would be hard to find something interesting to do, such as travelling, hiking, etc.'
-  vocab: []
+  words:
+    - together
+    - different
+    - extrovert
+    - community
+    - weekends
+    - memorable
+    - kindergarten
+    - sociable
+  vocab:
+    - en: together
+      stem: togeth
+      pos: s
+      syns: []
+      def: mentally and emotionally stable
+    - en: different
+      stem: differ
+      pos: a
+      syns: []
+      def: unlike in nature or quality or form or degree
+    - en: extrovert
+      stem: extrovert
+      pos: s
+      syns:
+        - extravert
+        - extroverted
+        - extraverted
+        - extrovertive
+        - extravertive
+      def: 'being concerned with the social and physical environment  '
+    - en: community
+      stem: commun
+      pos: 'n'
+      syns: []
+      def: a group of people living in a particular local area
+    - en: memorable
+      stem: memor
+      pos: s
+      syns: []
+      def: 'worth remembering  '
+    - en: kindergarten
+      stem: kindergarten
+      pos: 'n'
+      syns: []
+      def: 'a preschool for children age 4 to 6 to prepare them for primary school  '
+    - en: sociable
+      stem: sociabl
+      pos: 'n'
+      syns:
+        - social
+        - mixer
+      def: 'a party of people assembled to promote sociability and communal activity  '

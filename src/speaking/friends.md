@@ -16,12 +16,31 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- Normally
+  - under normal conditions
+- kindergarten
+  - a preschool for children age 4 to 6 to prepare them for primary school  
+- frequently
+  - many times at short intervals
+- experience
+  - the accumulation of knowledge or skill that results from direct participation in events or activities
+- interesting
+  - arousing or holding the attention  
+- playground
+  - an area where many people go for recreation  
+- together
+  - mentally and emotionally stable
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - How often do you like to hang out with friends?
   - I hang out with my friends from time to time. Normally if we have lots of time on the weekends, we will go to the cinema to watch movies to have a good time. We might also have dinner together in a restaurant if we have the time.
@@ -33,5 +52,5 @@ cover: false
   - Well, if I had to choose between the two, I would probably go with hanging out with a big group people because I think that I am an extrovert. I like to meet different people to know about different kinds of life and make myself more sociable; whereas, you know, with only a few people around, it would be hard to find something interesting to do, such as travelling, hiking, etc.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

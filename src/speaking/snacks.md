@@ -17,12 +17,27 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- unhealthy
+  - not in or exhibiting good health in body or mind
+- generally
+  - usually
+- perfectly
+  - completely and without qualification
+- healthier
+  - improved in health or physical condition  
+- chocolate
+  - a beverage made from cocoa powder and milk and sugar
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you like snacks?
   - No, not really. I generally prefer to eat at meal times rather than graze between meals.
@@ -36,5 +51,5 @@ cover: false
   - I think all kind of snacking between main meals is bad for your health. If people avoided snacking, they would be much healthier and less over weight.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

@@ -7,5 +7,4 @@ description: Speaking section introduction
 
 Lots of topics to talk about!
 
-- Do you like [movies](movies.md)?
-- What do you do in your [free time](free-time.md)?
+<toc-box section="speaking"></toc-box>

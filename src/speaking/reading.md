@@ -13,18 +13,35 @@ cover: false
 - Did you read much when you were a child?
 - What (kinds of) books did you like reading when you were a child?
 - Do (young) children like reading books?
-- For children, what do you think are the benefits of reading?
-- What do you think are the benefits of reading to children?
 
 ## Vocabulary
 
 <vocab-list>
+- articulate
+  - expressing yourself easily or characterized by clear expressive language
+- development
+  - act of improving by expanding or enlarging or refining
+- knowledge
+  - the psychological result of perception and learning and reasoning  
+- visiting
+  - the activity of making visits
+- communication
+  - the activity of communicating
+- numerous
+  - amounting to a large indefinite number
+- bookshelf
+  - a shelf on which to keep books  
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you like reading books? Why or why not?
   - Yes, I&#39;m really into reading because I believe that reading can be both entertaining and educational. Reading broadens my knowledge by opening up the whole world to me. While I&#39;m reading, I can be visiting another country or a different time period, or travelling through space. I can find out how people solved problems or think up new ideas.
@@ -36,11 +53,7 @@ cover: false
   - It&#39;s kind of hard to say but young children that I know tend to read fairy tales to cultivate their mental development, but maybe for others, they just want to watch TV and play with their toys.
 - Do (young) children like reading books?
   - I believe if you want your children to be smart, they have to acquire a love for reading, which has numerous benefits. Reading opens the door to a child&#39;s early academic success, imparts a love of learning and leads to higher grades in every subject. Besides, reading can help children improve linguistic skills in the form of a richer vocabulary, correct grammar, and more articulate oral communication. On top of that, books teach child about relationships, situations, personalities, and what is good and what is bad in the world he&#x2F;she lives in.
-- For children, what do you think are the benefits of reading?
-  - ...
-- What do you think are the benefits of reading to children?
-  - ...
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

@@ -19,12 +19,29 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- anywhere
+  - at or in or to any place
+- probably
+  - with considerable certainty
+- especially
+  - to a distinctly greater extent or degree than is common
+- impression
+  - a vague idea in which some confidence is placed
+- bothered
+  - caused to show discomposure
+- Important
+  - of great significance or value
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you think its Important to be on time?
   - Yeah, I think it definitely is, because it&#39;s basic good manners to be on time for things. You know, I think you&#39;d agree it&#39;s pretty rude to keep people waiting, and so it kind of gives a bad impression about that person.
@@ -42,5 +59,5 @@ cover: false
   - (If yes) Yeah I do - you can see it right here!
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

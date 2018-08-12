@@ -15,22 +15,31 @@ cover: false
 - Do you prefer to stay at home in the evenings or do you prefer to go out?
 - Do you think modern lifestyles give people enough time for leisure?
 - Do you think people today have more time to relax than in the past?
-- Do you think it&#39;s important for people to have leisure time?
-- Do old people and young people spend their leisure time in the same way?
-- What do you think are the good points and the possible bad points about having leisure time?
-- How do people in your country spend their holidays?
-- Do you like to travel in your holidays?
-- If you had a child, what leisure places would you go to with your child?
 
 ## Vocabulary
 
 <vocab-list>
+- contrary
+  - a relation of direct opposition
+- different
+  - unlike in nature or quality or form or degree
+- shopping
+  - searching for or buying goods or services
+- countryside
+  - rural regions  
+- convenience
+  - the state of being suitable or opportune
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - What do you do in your spare time?
   - Well, I enjoy driving around in my spare time. I always drive my car with my friends or family out to the countryside during the weekends to relax. I feel that driving not only enables me to go where I want to at any time, but I can also make my own itineraries and discover the stunning places that others may not find.
@@ -46,19 +55,7 @@ cover: false
   - Well, between the two, old people are fond of a slow-pace of life compared to young people, for example, old people enjoy walking in the garden or chatting with old friends, on the contrary, young people are fond of energetic activities such as football and hiking in the mountains.
 - Do you think people today have more time to relax than in the past?
   - Well, it&#39;s kind of hard to say but people that I know around me tend to hang out with friends for dinner, but maybe for others, they will probably go shopping with family in the shopping malls to enjoy themselves.
-- Do you think it&#39;s important for people to have leisure time?
-  - ...
-- Do old people and young people spend their leisure time in the same way?
-  - ...
-- What do you think are the good points and the possible bad points about having leisure time?
-  - ...
-- How do people in your country spend their holidays?
-  - ...
-- Do you like to travel in your holidays?
-  - ...
-- If you had a child, what leisure places would you go to with your child?
-  - ...
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

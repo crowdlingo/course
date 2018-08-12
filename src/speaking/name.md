@@ -14,19 +14,29 @@ cover: false
 - In your country, do people feel that their name is very important?
 - Would you like to change your name?
 - Is it easy to change your name in your country?
-- Who usually names babies in your country?
-- Do you have any special traditions about naming children?
-- What names are most common in your hometown?
 
 ## Vocabulary
 
 <vocab-list>
+- important
+  - of great significance or value
+- magnanimous
+  - noble and generous in spirit
+- pressure
+  - to cause to do through pressure or necessity, by physical, moral or intellectual means
+- classical
+  - traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste  
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Who gave you your name?
   - My parents gave me my name, my father to be exact.
@@ -40,13 +50,7 @@ cover: false
   - In China, I believe that fathers are in the position of naming their children. Sometimes they will look through some Chinese classical literatures to seek the meaningful words for their children.
 - Is it easy to change your name in your country?
   - Oh, there are some nicknames that are very popular in China. For example, Lili means that their parents hope their daughters would be beautiful; and Kuan kuan, indicates that their sons would be magnanimous when they are grown up
-- Who usually names babies in your country?
-  - ...
-- Do you have any special traditions about naming children?
-  - ...
-- What names are most common in your hometown?
-  - ...
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

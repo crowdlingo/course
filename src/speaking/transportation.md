@@ -20,12 +20,27 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- somewhere
+  - in or at or to some place
+- impossible
+  - something that cannot be done
+- alternative
+  - one of a number of things from which only one can be chosen
+- transportation
+  - a facility consisting of the means and equipment necessary for the movement of passengers or goods  
+- obviously
+  - unmistakably (&#x60;plain&#39; is often used informally for &#x60;plainly&#39;)
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - What&#39;s the most popular means of transportation in your hometown?
   - Well, people in my hometown always seem to ride ebikes to go work or somewhere else because my hometown is a small town and it&#39;s very convenient to go out by ebike.
@@ -45,5 +60,5 @@ cover: false
   - Well, if I had to choose between the two, I&#39;d probably go to work in my own car because it&#39;s much more comfortable than being in a crowded bus or subway.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

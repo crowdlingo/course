@@ -17,20 +17,31 @@ cover: false
 - Did you ever climb trees when you were a child?
 - Have you ever planted a tree?
 - Do you think more people should plant trees?
-- Do you think we should plant more trees?
-- Do you think trees are important?
-- What would you say are the benefits of having trees?
-- Do you think we need to protect trees?
 
 ## Vocabulary
 
 <vocab-list>
+- Thinking
+  - endowed with the capacity to reason  
+- sycamore
+  - variably colored and sometimes variegated hard tough elastic wood of a sycamore tree  
+- remember
+  - recall knowledge from memory
+- supposed
+  - required or under orders
+- balanced
+  - being in a state of proper equilibrium
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you like trees?
   - Yes, I am a tree lover because trees let me breath more easily, and without them I couldn&#39;t survive much longer.
@@ -50,15 +61,7 @@ cover: false
   - Yes, once. Thinking back I remember when my middle school organized a hiking trip to a mountainous area, we planted several saplings in the forest, I guess they have grown up into big trees already.
 - Do you think more people should plant trees?
   - Yes, I believe more trees should be planted both in and outside the cities because they can absorb the pollutant gases and provide more oxygen; besides, trees can save water and prevent soil erosion. Therefore, trees are critically important to keep our eco-system balanced. We are supposed to not only plant more trees, but also protect the existing ones.
-- Do you think we should plant more trees?
-  - ...
-- Do you think trees are important?
-  - ...
-- What would you say are the benefits of having trees?
-  - ...
-- Do you think we need to protect trees?
-  - ...
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

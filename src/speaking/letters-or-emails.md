@@ -15,22 +15,31 @@ cover: false
 - What are the differences between emails and letters?
 - Is it hard to think of what to write?
 - What kinds of letter&#x2F;email do you think is the hardest to write?
-- How do you feel when you receive a letter or email?
-- What sorts of letters or emails are the most difficult to reply to?
-- What kinds of emails (or letters) do you receive that make you feel excited?
-- Which do you prefer to make a phone call or write an email?
-- Do you think people will still write letters in the future?
-- How do you communicate with others at work - by emails or is it more convenient to communicate face-to-face?
 
 ## Vocabulary
 
 <vocab-list>
+- traditional
+  - consisting of or derived from tradition
+- receiver
+  - set that receives radio or tv signals  
+- conversation
+  - the use of speech for informal exchange of views or ideas or information etc.  
+- probably
+  - with considerable certainty
+- personal
+  - a short newspaper article about a particular person or group  
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you write many letters or emails?
   - Yes, I write emails as part of my job to my clients on a daily basis. There are many things I have to write, for example, I usually write end user training for my clients to teach them how to use the system, or I write a development guide for my technical staff to tell them how to code.
@@ -46,19 +55,7 @@ cover: false
   - Well, if I had to choose between the two, I will probably go with writing an email because I can spend plenty of time thinking about how to express my opinions correctly and clearly, besides, the whole conversation can be tracked in the electronic mail; whereas, you know, making a telephone call usually leads to misunderstanding because sometimes it is not very clear and things get missed
 - What kinds of letter&#x2F;email do you think is the hardest to write?
   - I believe that as a major method of communication between people, letter writing has a long and interesting history; besides, handwritten letters are personal. They show the receiver that someone has spent time and effort in communicating with them. They are a way of connecting two people that cannot be achieved through the impersonal use of texts or instant messages. Therefore, I think that handwritten letters will still be around in the future.
-- How do you feel when you receive a letter or email?
-  - ...
-- What sorts of letters or emails are the most difficult to reply to?
-  - ...
-- What kinds of emails (or letters) do you receive that make you feel excited?
-  - ...
-- Which do you prefer to make a phone call or write an email?
-  - ...
-- Do you think people will still write letters in the future?
-  - ...
-- How do you communicate with others at work - by emails or is it more convenient to communicate face-to-face?
-  - ...
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

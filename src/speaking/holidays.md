@@ -13,20 +13,35 @@ cover: false
 - Do you like public holidays?
 - Which public holidays do you like the most?
 - What did you do during the last public holiday?
-- What do other people in your country usually do on public holidays?
-- What would you like to do during then next public holiday?
-- Do you think public holidays are important?
-- Do you think there should be more public holidays in your country?
 
 ## Vocabulary
 
 <vocab-list>
+- personally
+  - as yourself
+- Christmas
+  - period extending from Dec. 24 to Jan. 6  
+- favourite
+  - appealing to the general public
+- travelling
+  - the act of going from one place to another
+- advantage
+  - give an advantage to
+- celebrate
+  - behave as expected during of holidays or rites
+- Festival
+  - a day or period of time set aside for feasting and celebration  
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - What public holidays do you have in your country?
   - We celebrate a lot of public festivals in my country. I am sure you know about the Spring Festival which is the most important one. In addition, we get together with our family for the Mid- Autumn Day and the National Day.
@@ -38,15 +53,7 @@ cover: false
   - It&#39;s kind of hard to say but people that I know around me tend to go shopping with their families or friends to take advantage of the sales in the shops, but maybe for others, they probably will stay at home to relax.
 - What did you do during the last public holiday?
   - I believe public holidays are rather important and there should be more of them in my country. The main factor is that people really need to unwind without any distractions after tiring work and also public holidays can dramatically boost consumption, as goods in the shops will be sold at a discount during these days.
-- What do other people in your country usually do on public holidays?
-  - ...
-- What would you like to do during then next public holiday?
-  - ...
-- Do you think public holidays are important?
-  - ...
-- Do you think there should be more public holidays in your country?
-  - ...
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

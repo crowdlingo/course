@@ -16,12 +16,29 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- warehouse
+  - store in a warehouse  
+- specific
+  - a fact about some part (as opposed to general)
+- analysis
+  - an investigation of the component parts of a whole and their relations in making up the whole  
+- responsibility
+  - the social force that binds you to the courses of action demanded by that force
+- Personally
+  - as yourself
+- teamwork
+  - cooperative work done by a team (especially when it is effective)
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - When was your last time worked with a team?
   - The last time I worked in a team was a project I did during the second year of my graduate school. Our tutor gave us an assignment to review the server log of an international trade website and give a brief analysis using data warehouse and data mining technology.
@@ -33,5 +50,5 @@ cover: false
   - Honestly, I would like to be a leader. Being a leader would reflect the hard work I’ve put into the job. I can win other peoples respect as well
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

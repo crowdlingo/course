@@ -16,12 +16,31 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- emotional
+  - determined or actuated by emotion rather than reason
+- birthday
+  - an anniversary of the day on which a person was born (or the celebration of it)  
+- remember
+  - recall knowledge from memory
+- celebrate
+  - behave as expected during of holidays or rites
+- forgetful
+  - (of memory) deficient in retentiveness or range
+- physical
+  - involving the body as distinguished from the mind or spirit
+- forgotten
+  - not noticed inadvertently
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - What do you remember to do every day?
   - Well, there are many things I have to remember to do every day. For example, after getting up in the morning, I need to do simple physical exercises like crunches and push-ups. Besides, another important thing to keep in mind is to teach my son to read traditional Chinese poems in the evening.
@@ -33,5 +52,5 @@ cover: false
   - Oh yes, I nearly forgot the birthday of a woman I liked. I had asked her what her birthday was, and told her I would send her a gift, but unbelievably I forgot it until the evening of that day. Fortunately I asked her out to dinner to celebrate and I saved the day.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

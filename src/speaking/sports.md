@@ -18,12 +18,29 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- dangerous
+  - involving or causing danger or risk
+- regularly
+  - in a regular manner
+- footballer
+  - an athlete who plays American football  
+- strength
+  - the property of being physically or mentally strong
+- equipment
+  - an instrumentality needed for an undertaking or to perform a service  
+- football
+  - any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other&#39;s goal  
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you like to watch sports on TV?
   - Yes, I&#39;m really into watching sports on TV because it entertains me a lot. Besides, I like seeing other people do the things that I can&#39;t do and wish I could do.
@@ -39,5 +56,5 @@ cover: false
   - Oh, no, though my life is quite a bit boring, I&#39;m too scared to do any extreme sports because I don&#39;t think I have enough guts to put myself in these difficult situations.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

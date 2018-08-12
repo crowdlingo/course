@@ -81,7 +81,11 @@
       a: 'My family spend most of their time in the living room. We like to sit around on a set of comfortable sofas there and chat with each other or watch TV. But when I am free, I prefer to read alone in my room.'
     - q: What's the difference between where you are living now and where you have lived in the past?
       a: ...
-    - q: Can you describe the place where you live?- Which room does your family spend most of the time in? - What do you usually do in your house/flat/room?
+    - q: Can you describe the place where you live?
+      a: ...
+    - q: Which room does your family spend most of the time in?
+      a: ...
+    - q: What do you usually do in your house/flat/room?
       a: ...
     - q: Do you prefer living in a house or a flat?
       a: ...
@@ -92,8 +96,6 @@
   pairs:
     - q: What's the weather like today?
       a: 'It''s really freezing (sunny, cool, breezy, chilly, warm, humid, hot) today. If I didn’t have to take the IELTS exams, I would prefer to stay at home.'
-    - q: Do people in China play the same sports in different seasons of the year?
-      a: ...
     - q: What's your favourite weather? (Why?)
       a: 'Actually I prefer cloudy days, because then it''''s neither too hot nor too cold. And what''''s more important to me is that this weather is perfect for photography as the light is so soft. So at this time of day, I like to go out with my camera to take photos.'''
     - q: It lasts the whole year or a place with different seasons?
@@ -110,6 +112,8 @@
       a: 'Well, if I had to choose between the two, I''d probably go with the distinct seasons in each year because each season has its own merits. I think I would get bored if it was warm all year round.'
     - q: Are there any bad points about the weather in your city?
       a: 'No, in spring and autumn, when the temperature is neither too cold nor too hot, people in China tend to hike in the mountains, or go running. When it comes to summer, people can choose more physical activities like swimming, camping in the forests and playing balls, etc. But in winter, people believe it not suitable for outdoor exercises, so they prefer to stay at home to keep warm.'
+    - q: Do people in China play the same sports in different seasons of the year?
+      a: ...
     - q: What is the typical weather in China like?
       a: ...
     - q: Have there been any changes in the weather over the past few years?

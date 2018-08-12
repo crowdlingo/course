@@ -13,17 +13,37 @@ cover: false
 - Do you like to watch stars?
 - Have you ever taken a course about stars?
 - Is it important to study stars?
-- What&#39;s your favourite star?
 
 ## Vocabulary
 
 <vocab-list>
+- especially
+  - to a distinctly greater extent or degree than is common
+- important
+  - of great significance or value
+- hometown
+  - the town (or city) where you grew up or where you have your principal residence
+- encyclopaedia
+  - a reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty  
+- definitely
+  - without question and beyond doubt
+- constellation
+  - an arrangement of parts or elements
+- invisible
+  - impossible or nearly impossible to see
+- knowledge
+  - the psychological result of perception and learning and reasoning  
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - Do you like to watch the sky?
   - Yes, I am really into watching the sky especially at night to count the millions of stars above. When I was a kid. I remember I sometimes laid down on the grass for hours to watch the shining stars during the summer because I was fond of imaging my favourite folk stories about the stars.
@@ -35,9 +55,7 @@ cover: false
   - Yes, I believe that astronomy has always had a significant impact on our world view as it can help us open our eyes, give context to our place in the cosmos and that can definitely reshape how we see the world.
 - Is it important to study stars?
   - My favourite star constellation is Orion. It&#39;s very easy to spot on winter nights. Firstly, it has a huge red giant star, which may explode any time soon. Besides, it has a massive blue star which is very young. On top of that it also has a big nebula where new stars are being born - so it has everything!
-- What&#39;s your favourite star?
-  - ...
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

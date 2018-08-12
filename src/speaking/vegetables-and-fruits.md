@@ -16,12 +16,29 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- honourable
+  - worthy of being honored
+- different
+  - unlike in nature or quality or form or degree
+- everyday
+  - found in the ordinary course of events
+- vegetable
+  - edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant  
+- medicinal
+  - having the properties of medicine
+- perfectly
+  - completely and without qualification
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - What&#39;s your favourite vegetable and fruit?
   - My top three favourite fruits and vegetables are broccoli, celery and grapes because all of them are both nutritious and delicious. Also, I want to give mushrooms an honourable mention as they are one of my favourite things to cook with, although they are a fungus.
@@ -33,5 +50,5 @@ cover: false
   - We really need to eat vegetables everyday because you simply cannot find another food group that is as perfectly matched to our everyday human needs. There are various proteins, fibre and vitamin that cannot be found in other foods such as meat.
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>

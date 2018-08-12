@@ -15,21 +15,35 @@ cover: false
 - When you are buying something, is the colour important to you?
 - Do you usually wear clothes in your favourite colour?
 - Is colour very important to you when you are buying clothes?
-- Do you prefer light or dark (or, bright) colours?
-- Are there any colours that have a special meaning in your country?
-- What colour would you choose to paint the walls of your room?
-- Is there any colour you would not want your walls to be? (Why?)
-- Do you think different types of people like different colours?
 
 ## Vocabulary
 
 <vocab-list>
+- mysterious
+  - of an obscure nature
+- suitable
+  - meant or adapted for an occasion or use
+- tranquil
+  - (of a body of water) free from disturbance by heavy waves
+- highlight
+  - move into the foreground to make more visible or prominent
+- confidence
+  - freedom from doubt
+- energetic
+  - possessing or exerting or displaying energy
+- professionalism
+  - the expertness characteristic of a professional person  
 
 <!-- blank -->
 
 </vocab-list>
 
 ## Answers
+Here are some model answers!
+
+:::tip
+Try to make up your own answers first!
+:::
 
 - What&#39;s your favourite colour?
   - My favourite colour is blue; for me it is the colour of depth and stability. Blue symbolises wisdom, confidence and intelligence. I don&#39;t like the pink because it is too girly.
@@ -45,17 +59,7 @@ cover: false
   - I would like to paint my walls light yellow or light blue because light colours convey warmth and are calm to which, in my opinion, are more suitable for the living rooms.
 - Is colour very important to you when you are buying clothes?
   - Yes, I believe different people have different psychological need for colours. Some need peace of mind, whereas others colours might be more energetic and rebellious.
-- Do you prefer light or dark (or, bright) colours?
-  - ...
-- Are there any colours that have a special meaning in your country?
-  - ...
-- What colour would you choose to paint the walls of your room?
-  - ...
-- Is there any colour you would not want your walls to be? (Why?)
-  - ...
-- Do you think different types of people like different colours?
-  - ...
 
 ## Practice
-
+Talk to the AI老师 to practice your English!
 <qrfooter></qrfooter>
