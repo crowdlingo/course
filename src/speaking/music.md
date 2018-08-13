@@ -17,14 +17,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- disappointment
-  - a feeling of dissatisfaction that results when your expectations are not realized
+- remember
+  - recall knowledge from memory
+- American
+  - of or relating to the United States of America or its people or language or culture
+- listening
+  - the act of hearing attentively
+- memorable
+  - worth remembering  
 - Unfortunately
   - by bad luck
-- impressive
-  - making a strong or vivid impression
-- favourite
-  - appealing to the general public
 
 <!-- blank -->
 

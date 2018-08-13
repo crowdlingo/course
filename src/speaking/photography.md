@@ -17,22 +17,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- ceremony
-  - a formal event performed on a special occasion
-- girlfriend
-  - any female friend
-- computer
-  - a machine for performing calculations automatically  
-- probably
-  - with considerable certainty
-- different
-  - unlike in nature or quality or form or degree
-- photography
-  - the act of taking and printing photographs  
+- embarrassed
+  - feeling or caused to feel ill at ease or self-conscious or ashamed
+- twilight
+  - lighted by or as if by twilight
+- graduation
+  - the successful completion of a program of study  
 - seashore
   - the shore of a sea or ocean  
-- interested
-  - having or showing interest
+- photography
+  - the act of taking and printing photographs  
+- computer
+  - a machine for performing calculations automatically  
+- ceremony
+  - a formal event performed on a special occasion
 
 <!-- blank -->
 

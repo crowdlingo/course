@@ -16,14 +16,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- countryside
+  - rural regions  
+- exposure
+  - vulnerability to the elements
 - employment
   - the state of being employed or having a job
+- Absolutely
+  - completely and without qualification
 - environment
   - the totality of surrounding conditions
-- significantly
-  - in a statistically significant way
-- pollution
-  - undesirable state of the natural environment being contaminated with harmful substances as a consequence of human activities  
 
 <!-- blank -->
 

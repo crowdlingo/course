@@ -17,18 +17,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- travelling
-  - the act of going from one place to another
-- educational
-  - relating to the process of education
-- knowledge
-  - the psychological result of perception and learning and reasoning  
-- familiar
-  - a person attached to the household of a high official (as a pope or bishop) who renders service in return for support  
-- cultivate
-  - foster the growth of  
-- literature
-  - creative writing of recognized artistic value  
+- linguistic
+  - consisting of or related to language
+- academic
+  - an educator who works at a college or university  
+- vocabulary
+  - a listing of the words used in some enterprise  
+- remember
+  - recall knowledge from memory
+- bookshelf
+  - a shelf on which to keep books  
 
 <!-- blank -->
 

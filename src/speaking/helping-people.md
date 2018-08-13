@@ -18,16 +18,18 @@ cover: false
 <vocab-list>
 - importance
   - the quality of being important and worthy of note
+- familiar
+  - a person attached to the household of a high official (as a pope or bishop) who renders service in return for support  
+- solidarity
+  - a union of interests or purposes or sympathies among members of a group  
 - straight
   - without deviation
-- business
-  - a commercial or industrial enterprise and the people who constitute it
 - sometimes
   - on certain occasions or in certain cases but not always
-- especially
-  - to a distinctly greater extent or degree than is common
 - important
   - of great significance or value
+- community
+  - a group of people living in a particular local area
 
 <!-- blank -->
 

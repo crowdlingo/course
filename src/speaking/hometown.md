@@ -17,20 +17,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- pleasant
-  - affording pleasure
-- definitely
-  - without question and beyond doubt
-- reputation
-  - the state of being held in high esteem and honor  
 - hometown
   - the town (or city) where you grew up or where you have your principal residence
-- elsewhere
-  - in or to another place
-- developing
-  - relating to societies in which capital needed to industrialize is in short supply  
 - describe
   - give a description of
+- traditional
+  - consisting of or derived from tradition
+- developing
+  - relating to societies in which capital needed to industrialize is in short supply  
+- definitely
+  - without question and beyond doubt
+- recently
+  - in the recent past
 
 <!-- blank -->
 

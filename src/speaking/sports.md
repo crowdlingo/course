@@ -17,16 +17,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- specific
-  - a fact about some part (as opposed to general)
-- football
-  - any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other&#39;s goal  
-- strength
-  - the property of being physically or mentally strong
-- footballer
-  - an athlete who plays American football  
+- equipment
+  - an instrumentality needed for an undertaking or to perform a service  
+- spectator
+  - a close observer
+- Barcelona
+  - a city in northeastern Spain on the Mediterranean
 - Basketball
   - a game played on a court by two opposing teams of 5 players
+- expensive
+  - high in price or charging high prices
+- flexibility
+  - the property of being flexible
+- watching
+  - the act of observing
 
 <!-- blank -->
 

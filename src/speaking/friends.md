@@ -16,18 +16,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- frequently
-  - many times at short intervals
-- together
-  - mentally and emotionally stable
-- interesting
-  - arousing or holding the attention  
-- sociable
-  - inclined to or conducive to companionship with others
-- Actually
-  - in actual fact
+- different
+  - unlike in nature or quality or form or degree
+- restaurant
+  - a building where people go to eat  
+- probably
+  - with considerable certainty
+- travelling
+  - the act of going from one place to another
+- Normally
+  - under normal conditions
 - memorable
   - worth remembering  
+- interesting
+  - arousing or holding the attention  
 
 <!-- blank -->
 

@@ -17,22 +17,22 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- conditioning
-  - a learning process in which an organism&#39;s behavior becomes dependent on the occurrence of a stimulus in its environment  
-- hometown
-  - the town (or city) where you grew up or where you have your principal residence
-- snowball
-  - increase or accumulate at a rapidly accelerating rate  
-- pleasant
-  - affording pleasure
 - greenhouse
   - of or relating to or caused by the greenhouse effect
 - favourite
   - appealing to the general public
 - freezing
   - the withdrawal of heat to change something from a liquid to a solid  
-- different
-  - unlike in nature or quality or form or degree
+- photography
+  - the act of taking and printing photographs  
+- primarily
+  - for the most part
+- becoming
+  - according with custom or propriety
+- temperature
+  - the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)  
+- important
+  - of great significance or value
 
 <!-- blank -->
 

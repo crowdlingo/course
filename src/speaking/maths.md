@@ -17,16 +17,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- remember
-  - recall knowledge from memory
-- homework
-  - preparatory school work done outside school (especially at home)  
+- Therefore
+  - (used to introduce a logical conclusion) from that fact or reason or as a result
+- difficult
+  - not easy
+- calculator
+  - an expert at calculation (or at operating calculating machines)  
+- calculate
+  - make a mathematical calculation or computation  
 - learning
   - the cognitive process of acquiring skill or knowledge
-- actually
-  - in actual fact
-- favourite
-  - appealing to the general public
+- complicated
+  - difficult to analyze or understand
 
 <!-- blank -->
 

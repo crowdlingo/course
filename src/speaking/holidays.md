@@ -17,18 +17,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- together
-  - mentally and emotionally stable
-- personally
-  - as yourself
-- dramatically
-  - in a very impressive manner
-- National
-  - a person who owes allegiance to that nation
+- Festival
+  - a day or period of time set aside for feasting and celebration  
 - discount
-  - bar from attention or consideration
-- celebrate
-  - behave as expected during of holidays or rites
+  - the act of reducing the selling price of merchandise  
+- addition
+  - a component that is added to something to improve it
+- important
+  - of great significance or value
+- speaking
+  - capable of or involving speech or speaking
 
 <!-- blank -->
 

@@ -17,16 +17,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- important
-  - of great significance or value
-- polluted
-  - rendered unwholesome by contaminants and pollution
-- furniture
-  - furnishings that make a room or other area ready for occupancy
 - unreasonable
   - not reasonable
-- building
-  - a structure that has a roof and walls and stands more or less permanently in one place
+- Mountain
+  - a land mass that projects well above its surroundings
+- sycamore
+  - variably colored and sometimes variegated hard tough elastic wood of a sycamore tree  
+- therefore
+  - (used to introduce a logical conclusion) from that fact or reason or as a result
+- hometown
+  - the town (or city) where you grew up or where you have your principal residence
+- polluted
+  - rendered unwholesome by contaminants and pollution
 
 <!-- blank -->
 

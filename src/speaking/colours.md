@@ -17,22 +17,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- stability
-  - the quality or attribute of being firm and steadfast  
 - energetic
   - possessing or exerting or displaying energy
 - represent
   - take the place of or be parallel or equivalent to
-- confidence
-  - freedom from doubt
-- suitable
-  - meant or adapted for an occasion or use
 - mysterious
   - of an obscure nature
-- highlight
-  - move into the foreground to make more visible or prominent
-- intelligence
-  - the ability to comprehend
+- stability
+  - the quality or attribute of being firm and steadfast  
+- favourite
+  - appealing to the general public
+- different
+  - unlike in nature or quality or form or degree
+- confidence
+  - freedom from doubt
 
 <!-- blank -->
 

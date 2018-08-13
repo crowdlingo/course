@@ -17,16 +17,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- definitely
+  - without question and beyond doubt
+- especially
+  - to a distinctly greater extent or degree than is common
 - Important
   - of great significance or value
 - bothered
   - caused to show discomposure
 - impression
   - a vague idea in which some confidence is placed
-- definitely
-  - without question and beyond doubt
-- especially
-  - to a distinctly greater extent or degree than is common
 
 <!-- blank -->
 

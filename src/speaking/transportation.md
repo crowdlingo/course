@@ -17,16 +17,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- somewhere
-  - in or at or to some place
-- expensive
-  - high in price or charging high prices
 - travelling
   - the act of going from one place to another
-- transportation
-  - a facility consisting of the means and equipment necessary for the movement of passengers or goods  
-- convenient
-  - suited to your comfort or purpose or needs
+- increasingly
+  - advancing in amount or intensity
+- relatively
+  - in a relative manner
+- alternative
+  - one of a number of things from which only one can be chosen
+- hometown
+  - the town (or city) where you grew up or where you have your principal residence
 
 <!-- blank -->
 

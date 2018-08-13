@@ -17,16 +17,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- probably
-  - with considerable certainty
-- competition
-  - a business relation in which two parties compete to gain customers
 - stunning
   - commanding attention
+- experience
+  - undergo or live through a difficult experience
+- different
+  - unlike in nature or quality or form or degree
+- definitely
+  - without question and beyond doubt
+- countryside
+  - rural regions  
 - lifestyle
   - a manner of living that reflects the person&#39;s values and attitudes  
-- discover
-  - discover or determine the existence, presence, or fact of
 
 <!-- blank -->
 

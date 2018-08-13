@@ -16,14 +16,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- undeniable
-  - not possible to deny  
 - learning
   - the cognitive process of acquiring skill or knowledge
 - addicted
   - compulsively or physiologically dependent on something habit-forming
 - especially
   - to a distinctly greater extent or degree than is common
+- undeniable
+  - not possible to deny  
+- sometimes
+  - on certain occasions or in certain cases but not always
 
 <!-- blank -->
 

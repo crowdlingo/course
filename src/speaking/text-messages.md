@@ -20,10 +20,12 @@ cover: false
   - taking care or paying attention
 - travelling
   - the act of going from one place to another
-- telephone
-  - get or try to get into communication (with someone) by telephone
 - remember
   - recall knowledge from memory
+- conference
+  - a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)  
+- telephone
+  - get or try to get into communication (with someone) by telephone
 - difficulty
   - an effort that is inconvenient
 

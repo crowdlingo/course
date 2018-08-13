@@ -17,18 +17,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- identity
-  - the distinct personality of an individual regarded as a persisting entity
 - Sometimes
   - on certain occasions or in certain cases but not always
+- position
+  - cause to be in an appropriate place, state, or relation  
+- accumulation
+  - an increase by natural growth or addition  
+- suitable
+  - meant or adapted for an occasion or use
+- meaningful
+  - having a meaning or purpose
+- important
+  - of great significance or value
 - pressure
   - to cause to do through pressure or necessity, by physical, moral or intellectual means
-- particular
-  - unique or specific to a person or thing or category
-- classical
-  - traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste  
-- knowledge
-  - the psychological result of perception and learning and reasoning  
 
 <!-- blank -->
 

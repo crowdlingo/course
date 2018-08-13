@@ -17,12 +17,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- renowned
-  - widely known and esteemed
-- cultural
-  - of or relating to the arts and manners that a group favors
+- interesting
+  - arousing or holding the attention  
+- historical
+  - of or relating to the study of history
 - engaging
   - attracting or delighting
+- bookshelf
+  - a shelf on which to keep books  
+- watching
+  - the act of observing
 
 <!-- blank -->
 

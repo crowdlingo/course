@@ -14,20 +14,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- favourite
+  - appealing to the general public
 - motivate
   - give an incentive for action
+- complicated
+  - difficult to analyze or understand
 - possible
-  - something that can be done
-- background
-  - understate the importance or quality of
-- influential
-  - having or exercising influence or power
-- frequently
-  - many times at short intervals
-- gymnastics
-  - a sport that involves exercises intended to display strength and balance and agility  
-- understand
-  - know and comprehend the nature or meaning of
+  - capable of happening or existing
+- inspired
+  - being of such surpassing excellence as to suggest inspiration by the gods
+- enthusiasm
+  - a feeling of excitement  
 
 <!-- blank -->
 

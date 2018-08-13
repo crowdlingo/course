@@ -17,18 +17,22 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- computer
+  - a machine for performing calculations automatically  
+- experience
+  - the accumulation of knowledge or skill that results from direct participation in events or activities
 - appreciate
   - recognize with gratitude
 - complain
   - express complaints, discontent, displeasure, or unhappiness
-- sometimes
-  - on certain occasions or in certain cases but not always
-- Normally
-  - under normal conditions
-- communication
-  - the activity of communicating
-- Especially
-  - to a distinctly greater extent or degree than is common
+- compliment
+  - say something to someone that expresses praise
+- traditional
+  - consisting of or derived from tradition
+- training
+  - activity leading to skilled behavior  
+- convenience
+  - the state of being suitable or opportune
 
 <!-- blank -->
 

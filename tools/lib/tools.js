@@ -188,21 +188,41 @@ const Tools = {
     fs.writeFileSync(outputYaml, dump)
   },
 
+  async renderTextFile(data, template) {
+    log('renderTextFile')
+    // let pagePath = path.join(__dirname, '../../src/.vuepress/public/assets/speaking/', elem.cname)
+  },
+
   async renderPages() {
     let items = Tools.readYaml('output')
-    let template = fs.readFileSync('./data/speaking.mustache', 'utf8')
-    Mustache.parse(template)
+
+    // preparse templates
+    let mdTemplate = fs.readFileSync('./data/speaking.mustache', 'utf8')
+    Mustache.parse(mdTemplate)
+    let txtTemplate = fs.readFileSync('./data/speakingTxt.mustache', 'utf8')
+    Mustache.parse(mdTemplate)
 
     items.map( elem => {
-      let output = Mustache.render(template, elem)
-      let fname = `${elem.cname}.md`
-      let fp = path.join(__dirname, '../../src/speaking/', fname)
-      let assetPath = path.join(__dirname, '../../src/.vuepress/public/assets/speaking/', elem.cname)
-      Tools.ensureDir(assetPath)
-      console.log('fp', fp)
-      // console.log('elem >>\n', elem)
-      // console.log('output >>\n', output)
-      fs.writeFileSync(fp, output)
+      // create folder for assets to save grunt time
+      let assetsPath = path.join(__dirname, '../../src/.vuepress/public/assets/speaking/', elem.cname)
+      Tools.ensureDir(assetsPath)
+
+      // markdown file
+      let mdOutput = Mustache.render(mdTemplate, elem)
+      let mdFilename = `${elem.cname}.md`
+      let mdFilePath = path.join(__dirname, '../../src/speaking/', mdFilename)
+      console.log('mdFilePath', mdFilePath)
+      fs.writeFileSync(mdFilePath, mdOutput)
+      this.renderTextFile(elem, mdFilePath)
+
+      // text file
+      let txtOutput = Mustache.render(txtTemplate, elem)
+      let txtFilename = `${elem.cname}.txt`
+      let txtFilePath = path.join(assetsPath, txtFilename)
+      console.log('txtFilePath', txtFilePath)
+      fs.writeFileSync(txtFilePath, txtOutput)
+      this.renderTextFile(elem, txtFilePath)
+
     })
 
     let pageList = items.map( p => {

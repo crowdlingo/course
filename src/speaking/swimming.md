@@ -19,10 +19,6 @@ cover: false
   - the act of swimming
 - important
   - of great significance or value
-- compulsory
-  - required by rule
-- Swimming
-  - the act of swimming
 
 <!-- blank -->
 

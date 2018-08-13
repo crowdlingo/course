@@ -17,18 +17,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- spacious
-  - very large in expanse or scope
+- accommodation
+  - making or becoming suitable
+- convenient
+  - suited to your comfort or purpose or needs
+- furnished
+  - provided with whatever is necessary for a purpose (as furniture or equipment or authority)
 - transport
   - move something or somebody around
-- speaking
-  - capable of or involving speech or speaking
-- decorated
-  - provided with something intended to increase its beauty or distinction  
 - apartment
   - a suite of rooms usually on one floor of an apartment house  
-- Apartment
-  - a suite of rooms usually on one floor of an apartment house  
+- bookshelf
+  - a shelf on which to keep books  
+- spacious
+  - very large in expanse or scope
 
 <!-- blank -->
 

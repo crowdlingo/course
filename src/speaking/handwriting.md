@@ -17,18 +17,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- development
+  - act of improving by expanding or enlarging or refining
+- speaking
+  - capable of or involving speech or speaking
 - business
   - a commercial or industrial enterprise and the people who constitute it
-- convenience
-  - the state of being suitable or opportune
-- elements
-  - violent or severe weather (viewed as caused by the action of the four elements)
-- technical
-  - a pickup truck with a gun mounted on it  
-- computer
-  - a machine for performing calculations automatically  
-- complicated
-  - difficult to analyze or understand
+- training
+  - activity leading to skilled behavior  
+- feelings
+  - emotional or moral sensitivity (especially in relation to personal principles or dignity)
 
 <!-- blank -->
 

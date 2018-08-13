@@ -17,20 +17,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- fashioned
-  - planned and made or fashioned artistically
-- Australia
-  - a nation occupying the whole of the Australian continent
-- addition
-  - a component that is added to something to improve it
 - reluctant
   - unwillingness to do something contrary to your custom
-- comfortable
-  - providing or experiencing physical well-being or relief (&#x60;comfy&#39; is informal)
+- sometimes
+  - on certain occasions or in certain cases but not always
 - actually
   - in actual fact
 - favourite
   - appealing to the general public
+- fashioned
+  - planned and made or fashioned artistically
+- colourful
+  - striking in variety and interest
+- definitely
+  - without question and beyond doubt
 
 <!-- blank -->
 

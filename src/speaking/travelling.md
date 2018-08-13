@@ -16,20 +16,14 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- experience
-  - the accumulation of knowledge or skill that results from direct participation in events or activities
-- countryside
-  - rural regions  
-- Wherever
-  - where in the world  
-- memorable
-  - worth remembering  
-- historical
-  - of or relating to the study of history
-- picturesque
-  - suggesting or suitable for a picture
 - indispensable
   - not to be dispensed with
+- picturesque
+  - suggesting or suitable for a picture
+- experience
+  - the accumulation of knowledge or skill that results from direct participation in events or activities
+- Wherever
+  - where in the world  
 
 <!-- blank -->
 

@@ -17,18 +17,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- especially
-  - to a distinctly greater extent or degree than is common
-- exciting
-  - creating or arousing excitement
-- computer
-  - a machine for performing calculations automatically  
-- obsessed
-  - having or showing excessive or compulsive concern with something
-- remember
-  - recall knowledge from memory
+- entertaining
+  - agreeably diverting
+- enjoyable
+  - affording satisfaction or pleasure
+- television
+  - broadcasting visual images of stationary or moving objects
 - advanced
   - farther along in physical or mental development
+- developed
+  - being changed over time so as to be e.g. stronger or more complete or more useful
+- obsessed
+  - having or showing excessive or compulsive concern with something
+- listening
+  - the act of hearing attentively
 
 <!-- blank -->
 

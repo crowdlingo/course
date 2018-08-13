@@ -17,18 +17,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- dinnertime
-  - the customary or habitual hour for the evening meal  
-- recharge
-  - load anew
 - comfortable
   - providing or experiencing physical well-being or relief (&#x60;comfy&#39; is informal)
+- afternoon
+  - the part of the day between noon and evening
 - beneficial
   - promoting or enhancing well-being
-- important
-  - of great significance or value
-- necessary
-  - absolutely essential  
+- physical
+  - involving the body as distinguished from the mind or spirit
+- consequently
+  - (sentence connectors) because of the reason given
+- normally
+  - under normal conditions
 
 <!-- blank -->
 

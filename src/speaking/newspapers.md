@@ -17,20 +17,12 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- probably
-  - with considerable certainty
+- scientific
+  - of or relating to the practice of science
 - reporting
   - the news as presented by reporters for newspapers or radio or television
-- internationally
-  - throughout the world
-- Internet
-  - a computer network consisting of a worldwide network of computer networks that use the TCP&#x2F;IP network protocols to facilitate data transmission and exchange  
-- political
-  - involving or characteristic of politics or parties or politicians
-- Occasionally
-  - sporadically and infrequently
-- particular
-  - a fact about some part (as opposed to general)
+- published
+  - prepared and printed for distribution and sale
 - domestically
   - with respect to the internal affairs of a government
 

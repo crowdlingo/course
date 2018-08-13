@@ -16,8 +16,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- protecting
+  - shielding (or designed to shield) against harm or discomfort
 - historical
   - of or relating to the study of history
+- circulation
+  - the dissemination of copies of periodicals (as newspapers or magazines)  
+- generally
+  - usually
+- important
+  - of great significance or value
 
 <!-- blank -->
 

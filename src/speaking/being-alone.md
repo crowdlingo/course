@@ -16,16 +16,20 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- sleeping
+  - lying with head on paws as if sleeping  
+- probably
+  - with considerable certainty
+- together
+  - mentally and emotionally stable
+- interruption
+  - an act of delaying or interrupting the continuity
+- spending
+  - the act of spending or disbursing money  
 - computer
   - a machine for performing calculations automatically  
 - business
   - a commercial or industrial enterprise and the people who constitute it
-- interruption
-  - an act of delaying or interrupting the continuity
-- especially
-  - to a distinctly greater extent or degree than is common
-- together
-  - mentally and emotionally stable
 
 <!-- blank -->
 

@@ -17,20 +17,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
+- hometown
+  - the town (or city) where you grew up or where you have your principal residence
+- speaking
+  - capable of or involving speech or speaking
+- housework
+  - the work of cleaning and running a house  
 - interest
-  - excite the curiosity of
+  - a sense of concern with and curiosity about someone or something
 - Internet
   - a computer network consisting of a worldwide network of computer networks that use the TCP&#x2F;IP network protocols to facilitate data transmission and exchange  
 - personally
   - as yourself
-- Normally
-  - under normal conditions
-- contrast
-  - put in opposition to show or emphasize differences
-- exhibition
-  - the act of exhibiting
-- greenhouse
-  - of or relating to or caused by the greenhouse effect
 
 <!-- blank -->
 

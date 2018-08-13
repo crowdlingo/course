@@ -18,16 +18,18 @@ cover: false
 <vocab-list>
 - playground
   - an area where many people go for recreation  
+- together
+  - mentally and emotionally stable
+- Sometimes
+  - on certain occasions or in certain cases but not always
+- kindergarten
+  - a preschool for children age 4 to 6 to prepare them for primary school  
+- different
+  - unlike in nature or quality or form or degree
 - extrovert
   - being concerned with the social and physical environment  
-- countryside
-  - rural regions  
-- restaurant
-  - a building where people go to eat  
-- sociable
-  - a party of people assembled to promote sociability and communal activity  
-- frequently
-  - many times at short intervals
+- experience
+  - the accumulation of knowledge or skill that results from direct participation in events or activities
 
 <!-- blank -->
 

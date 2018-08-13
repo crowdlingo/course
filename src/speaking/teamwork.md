@@ -16,18 +16,22 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- international
-  - concerning or belonging to all or at least two or more nations
-- graduate
-  - of or relating to studies beyond a bachelor&#39;s degree
 - warehouse
   - store in a warehouse  
+- assigned
+  - appointed to a post or duty
 - Personally
   - as yourself
-- responsibility
-  - the social force that binds you to the courses of action demanded by that force
-- technology
-  - the application of the knowledge and usage of tools (such as machines or utensils) and techniques to control one&#39;s environment
+- international
+  - any of several international socialist organizations  
+- graduate
+  - of or relating to studies beyond a bachelor&#39;s degree
+- specific
+  - a fact about some part (as opposed to general)
+- analysis
+  - an investigation of the component parts of a whole and their relations in making up the whole  
+- important
+  - of great significance or value
 
 <!-- blank -->
 

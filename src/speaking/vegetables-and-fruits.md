@@ -16,18 +16,18 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- medicinal
-  - having the properties of medicine
-- perfectly
-  - completely and without qualification
 - favourite
   - appealing to the general public
-- shopping
-  - searching for or buying goods or services
-- hometown
-  - the town (or city) where you grew up or where you have your principal residence
-- everyday
-  - found in the ordinary course of events
+- different
+  - unlike in nature or quality or form or degree
+- perfectly
+  - completely and without qualification
+- actually
+  - in actual fact
+- honourable
+  - worthy of being honored
+- nutrition
+  - (physiology) the organic process of nourishing or being nourished
 
 <!-- blank -->
 

@@ -17,16 +17,16 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- provoking
-  - causing or tending to cause anger or resentment
+- emotional
+  - determined or actuated by emotion rather than reason
 - heartfelt
   - sincerely earnest
-- attractive
-  - pleasing to the eye or mind especially through beauty or charm
-- Normally
-  - under normal conditions
-- watching
-  - the act of observing
+- provoking
+  - causing or tending to cause anger or resentment
+- probably
+  - with considerable certainty
+- sometimes
+  - on certain occasions or in certain cases but not always
 
 <!-- blank -->
 

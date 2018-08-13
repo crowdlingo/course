@@ -18,20 +18,16 @@ cover: false
 <vocab-list>
 - celebrate
   - behave as expected during of holidays or rites
-- Fortunately
-  - by good fortune
-- important
-  - of great significance or value
-- physical
-  - involving the body as distinguished from the mind or spirit
-- traditional
-  - consisting of or derived from tradition
-- depression
-  - a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity  
-- unbelievably
-  - not easy to believe
+- negative
+  - a reply of denial
 - fashioned
   - planned and made or fashioned artistically
+- unbelievably
+  - not easy to believe
+- depression
+  - a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity  
+- Fortunately
+  - by good fortune
 
 <!-- blank -->
 

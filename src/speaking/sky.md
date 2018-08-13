@@ -17,20 +17,22 @@ cover: false
 ## Vocabulary
 
 <vocab-list>
-- favourite
-  - appealing to the general public
-- stunning
-  - commanding attention
 - remember
   - recall knowledge from memory
-- invisible
-  - impossible or nearly impossible to see
-- significant
-  - important in effect or meaning
-- knowledge
-  - the psychological result of perception and learning and reasoning  
-- especially
-  - to a distinctly greater extent or degree than is common
+- countless
+  - too numerous to be counted
+- metropolis
+  - a large and densely populated urban area
+- unfortunately
+  - by bad luck
+- watching
+  - the act of observing
+- favourite
+  - appealing to the general public
+- glittering
+  - having brief brilliant points or flashes of light
+- important
+  - of great significance or value
 
 <!-- blank -->
 

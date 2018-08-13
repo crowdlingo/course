@@ -22,7 +22,7 @@ cover: false
 - currently
   - at this time or period
 - subject
-  - possibly accepting or permitting
+  - cause to experience or suffer or make liable or vulnerable to
 - major
   - have as one&#39;s principal field of study
 - doubt
